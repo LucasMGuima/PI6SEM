@@ -18,7 +18,7 @@ class ClimaScrapper(scrapy.Spider):
                 yield response.follow(link, self.parse_cidade)
 
     def parse_cidade(self, response):
-        resp = {
+        yield {
             'Cidade': response.css('div > div > p.forecast-header__place::text').get().split(',')[0],
             'Estado': response.css('div > div > p.forecast-header__place::text').get().split(',')[1],
             'Temp Max': response.css('div > div.forecast-today > div:nth-child(4) > div.forecast-today__temperature--max::text').get(),
@@ -27,6 +27,7 @@ class ClimaScrapper(scrapy.Spider):
             'Umidade Min': response.css('div > div.forecast-today-detail > div > div:nth-child(2) > div:nth-child(4) > span:nth-child(4)::text').get()
         }
 
+"""
         timezone_offset = -3.0  # Pacific Standard Time (UTC−03:00)
         tzinfo = timezone(timedelta(hours=timezone_offset))
         data = datetime.now(tzinfo)
@@ -39,3 +40,4 @@ class ClimaScrapper(scrapy.Spider):
             #writer.writeheader()
 
             writer.writerow(resp)
+            """
