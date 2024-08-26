@@ -26,18 +26,3 @@ class ClimaScrapper(scrapy.Spider):
             'Umidade': response.css('div > div.forecast-today-detail > div > div:nth-child(2) > div:nth-child(4) > span:nth-child(3)::text').get(),
             'Umidade Min': response.css('div > div.forecast-today-detail > div > div:nth-child(2) > div:nth-child(4) > span:nth-child(4)::text').get()
         }
-
-"""
-        timezone_offset = -3.0  # Pacific Standard Time (UTC−03:00)
-        tzinfo = timezone(timedelta(hours=timezone_offset))
-        data = datetime.now(tzinfo)
-        data = f"{data.day}_{data.month}_{data.year}"
-        file = f'..\dados\{data}.csv'
-
-        with open(file, "+a", newline='', encoding='UTF-8') as f:
-            header = resp.keys()
-            writer = csv.DictWriter(f, header)
-            #writer.writeheader()
-
-            writer.writerow(resp)
-            """
