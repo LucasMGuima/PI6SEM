@@ -1,4 +1,4 @@
-from filtros import Filtros
+from tools.filtros import Filtros
 
 import pandas as pd
 import os, re
@@ -26,7 +26,7 @@ def remove_caracteres(value: str) -> int:
 filtrar = Filtros()
 
 #Pega o nome de todos os arquivos na pasta dados
-path = ".//dados"
+path = "./dados"
 dir_list = os.listdir(path)
 
 #Abre esses arquivos com DataFrames do pandas e armazena no array dados
@@ -52,16 +52,6 @@ for  data, tabela in dados.items():
 
 df: pd.DataFrame = pd.concat(tabelas, ignore_index=True)
 
-df_sp = filtrar.estado('SP',  df)
-#print(df_sp.head())
-
-df_cidade_sp = filtrar.cidade('São Paulo', df_sp)
-#print(df_cidade_sp)
-
-df_data = filtrar.data('24/8/2024', df_sp)
-print(df_data)
-
-
 #print(df.head())
-#df.to_csv('./saida.csv')
+df.to_csv('./dados_tratados/saida.csv')
 #df['Cidade'].value_counts().to_csv('./qtd_entradas.csv')
