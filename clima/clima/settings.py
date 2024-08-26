@@ -12,6 +12,10 @@ BOT_NAME = 'clima'
 SPIDER_MODULES = ['clima.spiders']
 NEWSPIDER_MODULE = 'clima.spiders'
 
+#Configuração para tentar novamente se não conseguir acessar a página
+HTTPERROR_ALLOWED_CODES = [404, 500]
+RETRY_ENABLED = True
+RETRY_TIMES = 2
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'clima (+http://www.yourdomain.com)'
