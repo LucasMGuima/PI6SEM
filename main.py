@@ -1,5 +1,17 @@
+from filtros import Filtros
+
 import pandas as pd
 import os, re
+
+def trim_string(value: str) -> str:
+    """
+        Remove espaços em branco do começo e final da string.
+        Se não conseguir retorna a string inicial.
+    """
+    try:
+        return value.strip()
+    except:
+        return value
 
 def remove_caracteres(value: str) -> int:
     """
@@ -10,19 +22,8 @@ def remove_caracteres(value: str) -> int:
         return int(temp.group())
     except:
         return 0
-
-def filtrar_estado(estado: str, dados: dict) -> pd.DataFrame:
-    """
-        Filtra so dados e retorna apenas as entrados do estado especifico
-
-        Parametros:\n
-        **estado** -> string do nome do estado.\n
-        **dados** -> dicionario que contem os dados, tendo o dia como chave.\n
-        **Retorno**:\n
-        Retorna um DataFrame do pandas com os dados do estado e o dia dos dados\n
-    """
-
-    pass
+    
+filtrar = Filtros()
 
 #Pega o nome de todos os arquivos na pasta dados
 path = ".//dados"
@@ -40,6 +41,7 @@ for file_name in dir_list:
 tabelas = []
 for  data, tabela in dados.items():
     tabela['Dia'] = data
+    tabela['Estado'] = tabela['Estado'].apply(trim_string)
     tabela['Temp Max'] = tabela['Temp Max'].apply(remove_caracteres)
     tabela['Temp Min'] = tabela['Temp Min'].apply(remove_caracteres)
     tabela['Umidade'] = tabela['Umidade'].apply(remove_caracteres)
@@ -50,6 +52,16 @@ for  data, tabela in dados.items():
 
 df: pd.DataFrame = pd.concat(tabelas, ignore_index=True)
 
-#print(filtrar_estado('São Paulo', df))
+df_sp = filtrar.estado('SP',  df)
+#print(df_sp.head())
 
-print(df['Cidade'].value_counts().to_csv('./qtd_entradas.csv'))
+df_cidade_sp = filtrar.cidade('São Paulo', df_sp)
+#print(df_cidade_sp)
+
+df_data = filtrar.data('24/8/2024', df_sp)
+print(df_data)
+
+
+#print(df.head())
+#df.to_csv('./saida.csv')
+#df['Cidade'].value_counts().to_csv('./qtd_entradas.csv')
