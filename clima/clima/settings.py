@@ -23,6 +23,14 @@ RETRY_TIMES = 2
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
 
+#Configura o tipo de log
+#CRITICAL - for critical errors (highest severity)
+#ERROR - for regular errors
+#WARNING - for warning messages
+#INFO - for informational messages
+#DEBUG - for debugging messages (lowest severity)
+LOG_LEVEL = 'INFO'
+
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
 

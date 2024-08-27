@@ -8,3 +8,5 @@ class Label():
     WindowPrimary = 'Primary'
     MenuJanelas = 'Janelas'
     MenuItemTabela = 'Tabela'
+    MenuOperacoes = 'Operações'
+    MenuItemColetar = 'Coletar Dados'
