@@ -10,3 +10,8 @@ class Label():
     MenuItemTabela = 'Tabela'
     MenuOperacoes = 'Operações'
     MenuItemColetar = 'Coletar Dados'
+    MenuFiltros = 'Filtros'
+    MenuFiltroEstado = 'Filtrar por estado'
+    MenuFiltroCidade = 'Filtrar por cidade'
+    MenuFiltroData = 'Filtrar por data'
+    MenuLimparFiltros = 'Limpar Filtros'
