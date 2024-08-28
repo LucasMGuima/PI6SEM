@@ -8,6 +8,8 @@ import os, threading, w_tabela, fichario as f
 def _run_coleta():
     os.system("python .\operacoes\coletar_dados.py")
     os.system("python .\operacoes\\tratar_dados.py")
+    global fichario
+    fichario = f.Fichario(pd.read_csv('./dados_tratados/saida.csv', index_col=0))
 
 def callback_showTabel():
     win_tabela = w_tabela.WindowTabela(fichario)
@@ -18,6 +20,7 @@ def callback_coletarDados():
     thread.start()
 
 
+global fichario
 fichario = f.Fichario( pd.read_csv('./dados_tratados/saida.csv', index_col=0))
 
 dpg.create_context()

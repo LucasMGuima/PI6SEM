@@ -74,15 +74,21 @@ class WindowTabela(my_window.myWindow):
         self._refresh_table()
 
     def _callback_filtroEstado(self) -> None:
-        estado: str
-
-        with dpg.popup(parent=Tag.WindowDados, modal=True, tag=5):
-            dpg.add_input_text(label="Estado: ", tag=4)
-            dpg.add_button(label="Continuar", callback=lambda: dpg.configure_item(5, show=False))
-            
-
-        self._refresh_table() if self.fichario.filtrar_estado('SP') else print("Erro ao aplicar o filtro por estado")
+        with dpg.window(label=Label.MenuFiltroEstado, modal=True, popup=True, tag=Tag.PopupFiltroEstado, width=300, pos=dpg.get_mouse_pos()):
+            with dpg.group(horizontal=True):
+                dpg.add_text(label=Label.InpTextEstado)
+                estados = list(self.dados['Estado'].drop_duplicates())
+                dpg.add_combo(tag=Tag.ComboboxEstado,items=estados)
+            dpg.add_separator()
+            with dpg.group(horizontal=True):
+                dpg.add_button(label=Label.BtnFiltrar, callback= self._aplicar_filtroEstado)
+                dpg.add_button(label=Label.BtnCancelar, callback= lambda: dpg.delete_item(Tag.PopupFiltroEstado))
     
+    def _aplicar_filtroEstado(self) -> None:
+        estado = dpg.get_value(Tag.ComboboxEstado)
+        dpg.delete_item(Tag.PopupFiltroEstado)
+        self._refresh_table() if self.fichario.filtrar_estado(estado) else print("Erro ao aplicar o filtro por estado")
+
     def _callback_filtroCidade(self) -> None:
         self._refresh_table() if self.fichario.filtrar_cidade('São Paulo') else print("Erro ao aplicar o filtro por cidade")
 
