@@ -13,14 +13,34 @@ class Fichario():
             **dados** -> Pandas DataFrame contendo os dados iniciais.
         """
         self._dados_originais: pd.DataFrame = dados
-        self.dados: pd.DataFrame = self._dados_originais
+        self._dados: pd.DataFrame = self._dados_originais
         self.filtros = Filtros()
+
+    def get_dados(self) -> pd.DataFrame:
+        """
+            Retorna os dados contidos no fichario
+        """
+        return self._dados
+
+    def get_columnEntries(self, column_name: str, agrupar: bool = True) -> list:
+        """
+            Pega as entradas de uma coluna em especifico. Por pradão agrupa todos os dados iguais
+
+            Parametros:\n
+            **column_name** -> String do nome da coluna,\n
+            **agrupar** (default: True)-> Boolena, Indica se é para voltar todos os dados, ou agrupar as repetições.
+       
+            Return:\n
+            Retrona uma lista contendo os dados encontrados na coluna        
+        """
+
+        return list(self._dados[column_name].drop_duplicates()) if agrupar else list(self._dados[column_name])
 
     def limpar_filtros(self) -> None:
         """
             Limpa os filtros aplicados aos dados. 
         """
-        self.dados = self._dados_originais
+        self._dados = self._dados_originais
 
     def filtrar_estado(self, estado: str) -> bool:
         """
@@ -37,10 +57,10 @@ class Fichario():
         if len(estado) > 2:
             return False
         
-        temp_dados = self.filtros.estado(estado, self.dados)
+        temp_dados = self.filtros.estado(estado, self._dados)
         if temp_dados.size <= 0:
             return False
-        self.dados = temp_dados
+        self._dados = temp_dados
         return True
     
     def filtrar_cidade(self, cidade: str) -> bool:
@@ -55,10 +75,10 @@ class Fichario():
             **False** -> se algo deu errado, não aplica o filtro\n
             **True** -> se tudo ocorreu como esperado
         """
-        tepm_dados = self.filtros.cidade(cidade, self.dados)
+        tepm_dados = self.filtros.cidade(cidade, self._dados)
         if tepm_dados.size <= 0:
             return False
-        self.dados = tepm_dados
+        self._dados = tepm_dados
         return True
     
     def filtrar_dia(self, data: str) -> bool:
@@ -74,8 +94,8 @@ class Fichario():
             **True** -> se tudo ocorreu como esperado
         """
 
-        temp_dados = self.filtros.data(data, self.dados)
+        temp_dados = self.filtros.data(data, self._dados)
         if temp_dados.size <= 0:
             return False
-        self.dados = temp_dados
+        self._dados = temp_dados
         return True

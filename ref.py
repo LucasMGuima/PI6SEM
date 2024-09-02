@@ -4,6 +4,8 @@ class Tag():
     WindowDados = 3
     PopupFiltroEstado = 4
     ComboboxEstado = 5
+    PopupFiltroCidade = 6
+    InpCidade = 7
 
 class Label():
     WindowDados = 'Dados'
@@ -20,6 +22,7 @@ class Label():
     MenuLimparFiltros = 'Limpar Filtros'
 
     InpTextEstado = "Estado: "
+    InpTextCidade = "Cidade: "
 
     BtnFiltrar = "Filtrar"
     BtnCancelar = "Cancelar"

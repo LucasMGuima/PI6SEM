@@ -52,6 +52,4 @@ for  data, tabela in dados.items():
 
 df: pd.DataFrame = pd.concat(tabelas, ignore_index=True)
 
-#print(df.head())
-df.to_csv('./dados_tratados/saida.csv')
-#df['Cidade'].value_counts().to_csv('./qtd_entradas.csv')
+df.to_csv('./dados_tratados/dados.csv')
