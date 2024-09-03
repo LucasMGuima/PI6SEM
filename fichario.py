@@ -75,10 +75,10 @@ class Fichario():
             **False** -> se algo deu errado, não aplica o filtro\n
             **True** -> se tudo ocorreu como esperado
         """
-        tepm_dados = self.filtros.cidade(cidade, self._dados)
-        if tepm_dados.size <= 0:
+        temp_dados = self.filtros.cidade(cidade, self._dados)
+        if temp_dados.size <= 0:
             return False
-        self._dados = tepm_dados
+        self._dados = temp_dados
         return True
     
     def filtrar_dia(self, data: str) -> bool:
