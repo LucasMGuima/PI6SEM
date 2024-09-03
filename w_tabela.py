@@ -1,12 +1,8 @@
 from ref import Label, Tag, Meses
 
 import dearpygui.dearpygui as dpg
-import pandas as pd
-
 import my_window, fichario as f
 
-
-from datetime import datetime
 
 
 class WindowTabela(my_window.myWindow):
@@ -15,7 +11,6 @@ class WindowTabela(my_window.myWindow):
         
         self._rowNumber = 100
         self.calendario = Meses()
-
 
     def criar_janela(self) -> None:
         """
@@ -26,7 +21,7 @@ class WindowTabela(my_window.myWindow):
                     tag=Tag.WindowDados,
                     width=600,
                     height=500,
-                    on_close=super().close_window):
+                    on_close= lambda: dpg.delete_item(Tag.WindowDados)):
             #Cria a tool/menubar
             with dpg.menu_bar():
                 with dpg.menu(label=Label.MenuFiltros):
@@ -45,7 +40,7 @@ class WindowTabela(my_window.myWindow):
         #Cria a tabela
         with dpg.table(parent=Tag.WindowDados,
                         tag=Tag.TabelaDados,
-                        header_row=True, 
+                        header_row=True,
                         row_background=True,
                         borders_innerH=True, 
                         borders_outerH=True, 
@@ -55,7 +50,7 @@ class WindowTabela(my_window.myWindow):
             nome_colunas = list(temp_dados)
             #Cria o cabecalho
             for nome in nome_colunas:
-                    dpg.add_table_column(label=nome, tag=nome)
+                    dpg.add_table_column(label=nome)
 
             #Adiciona as linhas da tabela
             count = 0
@@ -67,6 +62,7 @@ class WindowTabela(my_window.myWindow):
                     for nome in nome_colunas:
                         dpg.add_text(temp_dados.loc[index][nome])
 
+    # ----LIMPA FILTRO----
     def _callback_limparFiltros(self) -> None:
         self.fichario.limpar_filtros()
         self._refresh_table()
@@ -76,7 +72,8 @@ class WindowTabela(my_window.myWindow):
         #   Cria o PopUp para a escolha de estado e chama quem aplica o filtro.
         with dpg.window(label=Label.MenuFiltroEstado, 
                         modal=True, popup=True, 
-                        tag=Tag.PopupFiltroEstado, 
+                        tag=Tag.PopupFiltroEstado,
+                        on_close= lambda: dpg.delete_item(Tag.PopupFiltroEstado),
                         width=300, 
                         pos=dpg.get_item_pos(Tag.WindowDados)):
             with dpg.group(horizontal=True):
@@ -99,7 +96,8 @@ class WindowTabela(my_window.myWindow):
         #   Cria o PopUp para entrar com o nome da cidade e chama quem aplica o filtro.
         with dpg.window(label=Label.MenuFiltroCidade, 
                         modal=True, popup=True, 
-                        tag=Tag.PopupFiltroCidade, 
+                        tag=Tag.PopupFiltroCidade,
+                        on_close= lambda: dpg.delete_item(Tag.PopupFiltroCidade),
                         width=300, 
                         pos=dpg.get_item_pos(Tag.WindowDados)):
             with dpg.group(horizontal=True):
@@ -122,6 +120,7 @@ class WindowTabela(my_window.myWindow):
         with dpg.window(label=Label.MenuFiltroData, 
                         modal=True, popup=True, 
                         tag=Tag.PopupFiltroData,
+                        on_close= lambda: dpg.delete_item(Tag.PopupFiltroData),
                         width=300, 
                         pos=dpg.get_item_pos(Tag.WindowDados)):
             with dpg.group():
