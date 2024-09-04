@@ -34,38 +34,36 @@ with dpg.window(tag=Tag.WindowPrimary):
         with dpg.menu(label=Label.MenuOperacoes):
             dpg.add_menu_item(label=Label.MenuItemColetar, callback=callback_coletarDados)
     
-#Janela de plot
-with dpg.window(label="Plot Test", height=400, width=800):
+    #Painel de plot
     fichario.filtrar_cidade('São Paulo')
     dias = fichario.get_columnEntries('Dia', agrupar=False)
     tempMax = fichario.get_columnEntries('Temp Max', agrupar=False)
 
-    print(dias)
-    print(tempMax)
+    x_axis, y_axis = [], []
 
-    x_axis = []
-    for i in dias:
-        data = i.split('/')
-        dia = int(data[0])
-        mes = int(data[1])
-        temp = mes + (0.1 * dia)
-        x_axis.append(temp)
-
-    y_axis = []
+    for i in range(len(dias)):
+        x_axis.append(float(i))
     for i in tempMax:
-        y_axis.append(int(i))
+        y_axis.append(float(i))
 
     dados = fichario.get_dados()
 
-    with dpg.plot(label="Line Series", height=400, width=400):
+    with dpg.plot(label="Temperatura", height=400, width=800):
         # optionally create legend
         dpg.add_plot_legend()
 
         # REQUIRED: create x and y axes
+        # Cria as labels do eixo x
+        x_label = []
+        for i in x_axis:
+            x_label.append((dias[int(i)], i))
+        x_label = tuple(x_label)
+        print(x_label)
         dpg.add_plot_axis(dpg.mvXAxis, label="Dia")
+        dpg.set_axis_ticks(dpg.last_item(),x_label)
         dpg.add_plot_axis(dpg.mvYAxis, label="Temp. Max", tag="y_axis")
 
-        # series belong to a y axis
+        # Cria a linha de Temperatura máxima
         dpg.add_line_series(x_axis, y_axis, label="Temperatura Máxima", parent="y_axis")
 
 dpg.create_viewport(title='PI6SEM', x_pos=0, y_pos=0)
