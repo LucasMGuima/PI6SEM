@@ -1,6 +1,6 @@
 import pandas as pd
 import dearpygui.dearpygui as dpg
-import os, threading, w_tabela, p_temperatura, fichario as f
+import os, threading, w_tabela, w_temperatura, fichario as f
 
 from ref import Tag, Label
 from datetime import date
@@ -19,10 +19,9 @@ def callback_coletarDados():
     thread = threading.Thread(target=_run_coleta)
     thread.start()
 
-def painelTemp():
-    global fichario
-    p_temp = p_temperatura.painelTemperatura(fichario)
-    p_temp.criar_painel()
+def callback_showTemperatura():
+    p_temp = w_temperatura.WindowTemperatura(fichario)
+    p_temp.criar_janela()
 
 global fichario
 fichario = f.Fichario( pd.read_csv('./dados_tratados/dados.csv', index_col=0))
@@ -35,10 +34,9 @@ with dpg.window(tag=Tag.WindowPrimary):
     with dpg.menu_bar():
         with dpg.menu(label=Label.MenuJanelas):
             dpg.add_menu_item(label=Label.MenuItemTabela, callback=callback_showTabel)
+            dpg.add_menu_item(label="Gráfico de Temperatura", callback=callback_showTemperatura)
         with dpg.menu(label=Label.MenuOperacoes):
             dpg.add_menu_item(label=Label.MenuItemColetar, callback=callback_coletarDados)
-    
-    painelTemp()
 
     
     

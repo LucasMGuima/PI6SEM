@@ -1,6 +1,11 @@
 import dearpygui.dearpygui as dpg
+from abc import ABC, abstractmethod
 
-class myWindow():
+class myWindow(ABC):
+    @abstractmethod
+    def criar_janela():
+        pass
+
     def close_window(sender):
         dpg.delete_item(sender)
         
