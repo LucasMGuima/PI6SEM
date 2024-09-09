@@ -79,3 +79,13 @@ class Meses():
             return self.meses[numero]
         except:
             return None
+        
+class UR():
+    qualidade = {
+        1: "Umidade Excessiva",
+        2: "Confortavel",
+        3: "Seco",
+        4: "Atenção",
+        5: "Alerta",
+        6: "Emergencia"
+    }
