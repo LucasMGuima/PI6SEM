@@ -65,18 +65,21 @@ with dpg.window(tag=Tag.WindowPrimary):
         painel_configPesquisa()
 
         with dpg.group():
-            with dpg.child_window(height=200):
-                with dpg.group(horizontal=True):
-                    dpg.add_text("Score: ")
-                    dpg.add_text("BOM")
-                dpg.add_plot()
+            with dpg.group(horizontal=True):
+                with dpg.child_window(height=270, width=500):
+                    with dpg.group(horizontal=True):
+                        dpg.add_text("Score: ")
+                        dpg.add_text("BOM")
+                    dpg.add_plot()
+                with dpg.child_window(height=270, width=200):
+                    dpg.add_text("Medias/Amplitude")
         
-            with dpg.child_window(height=300):
+            with dpg.child_window(height=350):
                 dpg.add_plot()
 
     
 
-dpg.create_viewport(title='PI6SEM', width=1000, height=600, x_pos=0, y_pos=0)
+dpg.create_viewport(title='PI6SEM', width=1000, height=700, x_pos=0, y_pos=0)
 dpg.set_primary_window(Tag.WindowPrimary, True)
 dpg.setup_dearpygui()
 dpg.show_viewport()
