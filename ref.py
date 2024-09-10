@@ -11,6 +11,14 @@ class Tag():
     ComboboxDia = 10
     InpMes = 11
     ComboboxMes = 12
+    ComboEstado = 13
+    ComboCidade = 14
+    plotTempUmidade = 15
+    plotYTempMax = 16
+    plotYTempMin = 17
+    plotYUmidade = 18
+    plotYUmiMin = 19
+    plotYAxis = 20
 
 class Label():
     WindowDados = 'Dados'
