@@ -1,5 +1,6 @@
 from tools.filtros import Filtros
 from avaliar_umidade import avaliar_ur
+from ordenar_data import ordenar_porData
 
 import pandas as pd
 import os, re
@@ -68,6 +69,9 @@ for  data, tabela in dados.items():
 
 
 df: pd.DataFrame = pd.concat(tabelas, ignore_index=True)
+
+#Ordena por data
+df = ordenar_porData(df)
 
 if(os.path.exists(out_file)):
     # Se o arquivo existe, apenas adiciona os novos valores
