@@ -19,6 +19,7 @@ class Tag():
     plotYUmidade = 18
     plotYUmiMin = 19
     plotYAxis = 20
+    piePlot = 21
 
 class Label():
     WindowDados = 'Dados'
@@ -90,10 +91,10 @@ class Meses():
         
 class UR():
     qualidade = {
-        1: "Umidade Excessiva",
-        2: "Confortavel",
-        3: "Seco",
-        4: "Atenção",
-        5: "Alerta",
-        6: "Emergencia"
+        1: "Umidade Excessiva - 60% - 100%",
+        2: "Confortavel 40% - 60%",
+        3: "Seco 30% - 40%",
+        4: "Atenção 20% - 30%",
+        5: "Alerta 12% - 20%",
+        6: "Emergencia Até 12%"
     }
