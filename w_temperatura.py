@@ -20,15 +20,14 @@ class WindowTemperatura(my_window.myWindow):
 
     def criar_janela(self) -> None:
         """
-            Cria o painel contendo o gráfico de temperatura
+            Cria a janela contendo o gráfico de temperatura
         """
-
         #Painel de plot
         self.fichario.filtrar_cidade('São Paulo')
         dias = self.fichario.get_columnEntries('Dia', agrupar=False)
         tempMax = self.fichario.get_columnEntries('Temp Max', agrupar=False)
         tempMin = self.fichario.get_columnEntries('Temp Min', agrupar=False)
-        #Remove o filtro do fichario 
+        #Remove o filtro do fichario
         self.fichario.limpar_filtros()
 
         x_axis, y_axis = [], []

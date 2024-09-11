@@ -1,4 +1,6 @@
 from tools.filtros import Filtros
+from avaliar_umidade import avaliar_ur
+from ordenar_data import ordenar_porData
 
 import pandas as pd
 import os, re
@@ -25,6 +27,13 @@ def remove_caracteres(value: str) -> int:
     
 filtrar = Filtros()
 
+# Arquivo de saida dos dados
+out_file = './dados_tratados/dados.csv'
+
+# Se ele existir, pega
+if(os.path.exists(out_file)):
+    df_out = pd.read_csv(out_file)
+
 #Pega o nome de todos os arquivos na pasta dados
 path = "./dados"
 dir_list = os.listdir(path)
@@ -35,21 +44,38 @@ for file_name in dir_list:
     file_path = path + "//" + file_name
 
     data = file_name.split('.')[0].replace('_', '/')
-    dados[data] = pd.read_csv(file_path)
+    print(f"- {data} ")
+    # Pula os dias já lidos
+    if(os.path.exists(out_file) and data not in df_out['Dia'].values):
+        dados[data] = pd.read_csv(file_path)
+        print(f"adicionada ao csv\n")
+    else: print(f"já no csv\n")
 
 #Limpa os dados de caracteres especiais de compos especificos
 tabelas = []
 for  data, tabela in dados.items():
     tabela['Dia'] = data
+    tabela['Qualidade UR'] = 0
     tabela['Estado'] = tabela['Estado'].apply(trim_string)
     tabela['Temp Max'] = tabela['Temp Max'].apply(remove_caracteres)
     tabela['Temp Min'] = tabela['Temp Min'].apply(remove_caracteres)
     tabela['Umidade'] = tabela['Umidade'].apply(remove_caracteres)
     tabela['Umidade Min'] = tabela['Umidade Min'].apply(remove_caracteres)
 
+    for id, row in tabela.iterrows():
+        tabela.loc[id] = avaliar_ur(row)
+
     tabelas.append(tabela)
 
 
 df: pd.DataFrame = pd.concat(tabelas, ignore_index=True)
 
-df.to_csv('./dados_tratados/dados.csv')
+#Ordena por data
+df = ordenar_porData(df)
+
+if(os.path.exists(out_file)):
+    # Se o arquivo existe, apenas adiciona os novos valores
+    df.to_csv(out_file, mode='a', header=False)
+else:
+    # Se não cria
+    df.to_csv(out_file)

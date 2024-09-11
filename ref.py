@@ -11,6 +11,15 @@ class Tag():
     ComboboxDia = 10
     InpMes = 11
     ComboboxMes = 12
+    ComboEstado = 13
+    ComboCidade = 14
+    plotTempUmidade = 15
+    plotYTempMax = 16
+    plotYTempMin = 17
+    plotYUmidade = 18
+    plotYUmiMin = 19
+    plotYAxis = 20
+    piePlot = 21
 
 class Label():
     WindowDados = 'Dados'
@@ -79,3 +88,13 @@ class Meses():
             return self.meses[numero]
         except:
             return None
+        
+class UR():
+    qualidade = {
+        1: "Umidade Excessiva - 60% - 100%",
+        2: "Confortavel 40% - 60%",
+        3: "Seco 30% - 40%",
+        4: "Atenção 20% - 30%",
+        5: "Alerta 12% - 20%",
+        6: "Emergencia Até 12%"
+    }
