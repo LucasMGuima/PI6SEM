@@ -37,7 +37,10 @@ def _creat_pieChart() -> None:
         dpg.delete_item("pie")
     else: pieExist = True
     
-    with dpg.plot(label="Total de dias em relação a Umidade Relativa do Ar", height=250, tag="pie", parent="slot_2"):
+    with dpg.plot(label="Dias e Umidade Relativa do Ar",
+                   height=250, width=500, 
+                   tag="pie", 
+                   parent="slot_2"):
         x_axis = fichario.get_columnEntries("Qualidade UR")
         y_axis = fichario.get_columnEntries("Qualidade UR", agrupar=False)
 
@@ -54,14 +57,14 @@ def _creat_pieChart() -> None:
             labels.append(UR.qualidade[x])
         
         # create legend
-        dpg.add_plot_legend()
+        dpg.add_plot_legend(location=8, outside=True)
 
         dpg.add_plot_axis(dpg.mvXAxis, label="", no_gridlines=True, no_tick_marks=True, no_tick_labels=True)
         dpg.set_axis_limits(dpg.last_item(), 0, 1)
 
         with dpg.plot_axis(dpg.mvYAxis, label="", no_gridlines=True, no_tick_marks=True, no_tick_labels=True):
             dpg.set_axis_limits(dpg.last_item(), 0, 1)
-            dpg.add_pie_series(0.5, 0.5, 0.25, values, labels, tag=Tag.piePlot)
+            dpg.add_pie_series(0.5, 0.5, 0.5, values, labels, tag=Tag.piePlot)
 
 def _carregarDados() -> None:
     """
