@@ -1,4 +1,5 @@
 import pandas as pd
+import math
 
 def avaliar_ur(row: pd.Series) -> pd.Series:
     umidade = int(row["Umidade"])
@@ -18,5 +19,15 @@ def avaliar_ur(row: pd.Series) -> pd.Series:
         row['Qualidade UR'] = 5
     elif(umidade_med < 12):
         row['Qualidade UR'] = 6
+
+    return row
+def calc_tempMedia(row: pd.Series) -> pd.Series:
+    tempMax = int(row['Temp Max'])
+    tempMin = int(row['Temp Min'])
+
+    media = (tempMax + tempMin)/2
+    media = math.floor(media)
+
+    row['Temp Med'] = media
 
     return row

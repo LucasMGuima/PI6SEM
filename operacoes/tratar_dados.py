@@ -1,5 +1,5 @@
 from tools.filtros import Filtros
-from avaliar_umidade import avaliar_ur
+import avaliar as av
 from ordenar_data import ordenar_porData
 
 import pandas as pd
@@ -30,9 +30,13 @@ filtrar = Filtros()
 # Arquivo de saida dos dados
 out_file = './dados_tratados/dados.csv'
 
-# Se ele existir, pega
+# Se ele existir, pega, se não cria
 if(os.path.exists(out_file)):
     df_out = pd.read_csv(out_file)
+else:
+    _df = pd.DataFrame(columns=['Cidade','Estado','Temp Max','Temp Min','Umidade','Umidade Min','Dia','Qualidade UR','Temp Med'])
+    _df.to_csv(out_file)
+    df_out = pd.read_csv(out_file, header=0)
 
 #Pega o nome de todos os arquivos na pasta dados
 path = "./dados"
@@ -59,14 +63,16 @@ for  data, tabela in dados.items():
     tabela['Estado'] = tabela['Estado'].apply(trim_string)
     tabela['Temp Max'] = tabela['Temp Max'].apply(remove_caracteres)
     tabela['Temp Min'] = tabela['Temp Min'].apply(remove_caracteres)
+    tabela['Temp Med'] = 0
     tabela['Umidade'] = tabela['Umidade'].apply(remove_caracteres)
     tabela['Umidade Min'] = tabela['Umidade Min'].apply(remove_caracteres)
 
     for id, row in tabela.iterrows():
-        tabela.loc[id] = avaliar_ur(row)
+        tabela.loc[id] = av.avaliar_ur(row)
+        tabela.loc[id] = av.calc_tempMedia(row)
+
 
     tabelas.append(tabela)
-
 
 df: pd.DataFrame = pd.concat(tabelas, ignore_index=True)
 
