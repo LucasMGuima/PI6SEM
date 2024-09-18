@@ -2,7 +2,7 @@ import pandas as pd
 import dearpygui.dearpygui as dpg
 import os, threading, w_tabela, w_temperatura, fichario as f
 
-from ref import Tag, Label, UR
+from ref import Tag, Label, UR, Meses
 from datetime import date
 
 global fichario
@@ -32,15 +32,12 @@ def _get_cidadePorEstado() -> list[str]:
         dpg.configure_item(Tag.ComboCidade, items=cidades)
 
 def _creat_pieChart() -> None:
-    global pieExist
-    if(pieExist): 
-        dpg.delete_item("pie")
-    else: pieExist = True
+    dpg.delete_item(Tag.pieArea)
     
     with dpg.plot(label="Dias e Umidade Relativa do Ar",
                    height=250, width=500, 
-                   tag="pie", 
-                   parent="slot_2"):
+                   tag=Tag.pieArea, 
+                   parent=Tag.slot2):
         x_axis = fichario.get_columnEntries("Qualidade UR")
         y_axis = fichario.get_columnEntries("Qualidade UR", agrupar=False)
 
@@ -84,6 +81,7 @@ def _carregarDados() -> None:
         tempMin = fichario.get_columnEntries('Temp Min', agrupar=False)
 
         _creat_pieChart()
+        _medias_amplitude()
 
         fichario.limpar_filtros()
         x_axis = []
@@ -94,7 +92,43 @@ def _carregarDados() -> None:
         dpg.set_value(Tag.plotYTempMax, [x_axis, tempMax])
         dpg.set_value(Tag.plotYTempMin, [x_axis, tempMin])
 
+def _calc_tempMedia() -> int:
+    col_tempMedia = fichario.get_columnEntries('Temp Med', agrupar=False)
+    tempMedia = 0
+    for temp in col_tempMedia:
+        tempMedia += temp
+    tempMedia /= len(col_tempMedia)
+    
+    return int(tempMedia)
 
+def _calc_umiMedia() -> int:
+    col_umi = fichario.get_columnEntries('Umidade', agrupar=False)
+    umiMedia = 0
+    for umi in col_umi:
+        umiMedia += umi
+    umiMedia /= len(col_umi)
+    
+    return int(umiMedia)
+
+def _calc_ampliTemp() -> int:
+    col_tempMax = fichario.get_columnEntries('Temp Max')
+    col_tempMin = fichario.get_columnEntries('Temp Min')
+
+    tempMax = max(col_tempMax)
+    tempMin = min(col_tempMin)
+
+    ampli = tempMax - tempMin
+    return ampli
+
+def _medias_amplitude() -> None:
+    dpg.delete_item(Tag.medidas)
+
+    with dpg.group(tag=Tag.medidas, parent=Tag.slot3):
+        dpg.add_text("MÉDIAS")
+        dpg.add_text(f"Temperatura: {_calc_tempMedia()}°C")
+        dpg.add_text(f"Umidade: {_calc_umiMedia()}%")
+        dpg.add_separator()
+        dpg.add_text(f"Amplitude térmica: {_calc_ampliTemp()}°C")
 
 # Callbacks
 def callback_showTabel():
@@ -109,6 +143,28 @@ def callback_showTemperatura():
     p_temp = w_temperatura.WindowTemperatura(fichario)
     p_temp.criar_janela()
 
+def callback_populateDias(sender, app_data):
+    # app_data -> valor celecionado na combo
+    # sender -> tag de quen chamou o callback
+    lst_dias = []
+    
+    mes_num = Meses.get_mesNumber(Meses, app_data)
+    datas = fichario.get_columnEntries('Dia')
+    
+    for data in datas:
+        d_mes = str(data).split('/')[1]
+        if(int(mes_num) == int(d_mes)): lst_dias.append(str(data).split('/')[0])
+
+    if(sender == Tag.ComboMesIni):
+        # Popula o combo de dias de inicio
+        dpg.configure_item(Tag.ComboDiaIni, items=lst_dias)
+        return
+    
+    if(sender == Tag.ComboMesFim):
+        # Popula o combo de dias de fim
+        dpg.configure_item(Tag.ComboDiaFim, items=lst_dias)
+        return
+
 # Funcoes de paines
 def painel_configPesquisa():
     with dpg.child_window(width=250):
@@ -117,15 +173,29 @@ def painel_configPesquisa():
         with dpg.group():
             _criarCombo(Tag.ComboEstado, Label.InpTextEstado, fichario.get_columnEntries('Estado'), _get_cidadePorEstado)
             _criarCombo(Tag.ComboCidade, Label.InpTextCidade)
-            #dpg.add_separator()
-            #dpg.add_text("Periodo")
-            #dpg.add_separator()
-            #with dpg.group(horizontal=True):
-            #    dpg.add_text("De: ")
-            #    dpg.add_combo()
-            #with dpg.group(horizontal=True):
-            #    dpg.add_text("Até: ")
-            #    dpg.add_combo()
+            dpg.add_separator()
+            dpg.add_text("Periodo")
+            dpg.add_separator()
+            meses_inTable = fichario.get_columnEntries('Dia')
+            lst_nomeMeses = []
+            for el in meses_inTable:
+                mes_num = str(el).split('/')[1]
+                mes_nome = Meses.get_mesNome(Meses, int(mes_num))
+                if mes_nome not in lst_nomeMeses: lst_nomeMeses.append(mes_nome) 
+            with dpg.group():
+                dpg.add_text("De: ")
+                with dpg.group(horizontal=True):
+                    dpg.add_text("Mes:")
+                    dpg.add_combo(tag=Tag.ComboMesIni,items=lst_nomeMeses, width=100, callback=callback_populateDias)
+                    dpg.add_text("Dia:")
+                    dpg.add_combo(tag=Tag.ComboDiaIni,width=50)
+            with dpg.group():
+                dpg.add_text("Até: ")
+                with dpg.group(horizontal=True):
+                    dpg.add_text("Mes:")
+                    dpg.add_combo(tag=Tag.ComboMesFim,items=lst_nomeMeses, width=100, callback=callback_populateDias)
+                    dpg.add_text("Dia:")
+                    dpg.add_combo(tag=Tag.ComboDiaFim,width=50)
             dpg.add_button(label="Mostrar", callback=_carregarDados)
 
 dpg.create_context()
@@ -144,10 +214,10 @@ with dpg.window(tag=Tag.WindowPrimary):
 
         with dpg.group():
             with dpg.group(horizontal=True):
-                with dpg.child_window(height=270, width=500, tag="slot_2"):
+                with dpg.child_window(height=270, width=500, tag=Tag.slot2):
                     _creat_pieChart()
-                with dpg.child_window(height=270, width=200):
-                    dpg.add_text("Medias/Amplitude")
+                with dpg.child_window(height=270, width=200, tag=Tag.slot3):
+                    _medias_amplitude()
         
             with dpg.child_window(height=350):
                 with dpg.plot(tag=Tag.plotTempUmidade, width=700):

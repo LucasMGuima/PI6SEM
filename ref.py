@@ -20,6 +20,14 @@ class Tag():
     plotYUmiMin = 19
     plotYAxis = 20
     piePlot = 21
+    pieArea = "a"
+    slot2 = 23
+    slot3 = 24
+    medidas = 25
+    ComboMesIni = 26
+    ComboDiaIni = 27
+    ComboMesFim = 28
+    ComboDiaFim = 29
 
 class Label():
     WindowDados = 'Dados'
