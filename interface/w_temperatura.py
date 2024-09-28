@@ -1,4 +1,4 @@
-import fichario as f
+import utils.fichario as f
 import my_window
 import dearpygui.dearpygui as dpg
 

@@ -1,8 +1,9 @@
 import pandas as pd
 import dearpygui.dearpygui as dpg
-import os, threading, w_tabela, w_temperatura, fichario as f
+import os, threading, interface.w_tabela as w_tabela, interface.w_temperatura as w_temperatura, utils.fichario as f
+import interface.operacoes as op
 
-from ref import Tag, Label, UR, Meses
+from interface.ref import Tag, Label, UR, Meses
 from datetime import date
 
 global fichario
@@ -13,10 +14,7 @@ fichario = f.Fichario(pd.read_csv('./dados_tratados/dados.csv', index_col=0))
 
 # Funcoes internas
 def _run_coleta():
-    os.system("python .\operacoes\coletar_dados.py")
-    os.system("python .\operacoes\\tratar_dados.py")
-    global fichario
-    fichario = f.Fichario(pd.read_csv('./dados_tratados/dados.csv', index_col=0))
+    fichario = op.run_coleta()
 
 def _criarCombo(tag: int | str, label: str = "", items: list[str] | tuple[str, ...] = (), callback=None) -> None:
     with dpg.group(horizontal=True):
@@ -92,43 +90,15 @@ def _carregarDados() -> None:
         dpg.set_value(Tag.plotYTempMax, [x_axis, tempMax])
         dpg.set_value(Tag.plotYTempMin, [x_axis, tempMin])
 
-def _calc_tempMedia() -> int:
-    col_tempMedia = fichario.get_columnEntries('Temp Med', agrupar=False)
-    tempMedia = 0
-    for temp in col_tempMedia:
-        tempMedia += temp
-    tempMedia /= len(col_tempMedia)
-    
-    return int(tempMedia)
-
-def _calc_umiMedia() -> int:
-    col_umi = fichario.get_columnEntries('Umidade', agrupar=False)
-    umiMedia = 0
-    for umi in col_umi:
-        umiMedia += umi
-    umiMedia /= len(col_umi)
-    
-    return int(umiMedia)
-
-def _calc_ampliTemp() -> int:
-    col_tempMax = fichario.get_columnEntries('Temp Max')
-    col_tempMin = fichario.get_columnEntries('Temp Min')
-
-    tempMax = max(col_tempMax)
-    tempMin = min(col_tempMin)
-
-    ampli = tempMax - tempMin
-    return ampli
-
 def _medias_amplitude() -> None:
     dpg.delete_item(Tag.medidas)
 
     with dpg.group(tag=Tag.medidas, parent=Tag.slot3):
         dpg.add_text("MÉDIAS")
-        dpg.add_text(f"Temperatura: {_calc_tempMedia()}°C")
-        dpg.add_text(f"Umidade: {_calc_umiMedia()}%")
+        dpg.add_text(f"Temperatura: {op.calc_tempMedia(fichario)}°C")
+        dpg.add_text(f"Umidade: {op.calc_umiMedia(fichario)}%")
         dpg.add_separator()
-        dpg.add_text(f"Amplitude térmica: {_calc_ampliTemp()}°C")
+        dpg.add_text(f"Amplitude térmica: {op.calc_ampliTemp(fichario)}°C")
 
 # Callbacks
 def callback_showTabel():
