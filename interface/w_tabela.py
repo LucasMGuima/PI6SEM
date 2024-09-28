@@ -1,7 +1,7 @@
-from ref import Label, Tag, Meses
+from interface.ref import Label, Tag, Meses
 
 import dearpygui.dearpygui as dpg
-import my_window, utils.fichario as f
+import interface.my_window as my_window, utils.fichario as f
 
 
 

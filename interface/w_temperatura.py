@@ -1,5 +1,5 @@
 import utils.fichario as f
-import my_window
+import interface.my_window as my_window
 import dearpygui.dearpygui as dpg
 
 class WindowTemperatura(my_window.myWindow):
