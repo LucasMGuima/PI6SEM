@@ -69,6 +69,16 @@ def _carregarDados() -> None:
     estado: str = dpg.get_value(Tag.ComboEstado)
     cidade: str = dpg.get_value(Tag.ComboCidade)
 
+    ini_mes = dpg.get_value(Tag.ComboMesIni)
+    ini_dia = dpg.get_value(Tag.ComboDiaIni)
+    fim_mes = dpg.get_value(Tag.ComboMesIni)
+    fim_dia = dpg.get_value(Tag.ComboDiaFim)
+
+    # Quer apenas os dados daquele mes
+    if(ini_mes and ini_dia and fim_mes and fim_dia):
+        if(type(ini_mes) == str): ini_mes = Meses.get_mesNumber(Meses, ini_mes)
+        if(type(fim_mes) == str): fim_mes = Meses.get_mesNumber(Meses, fim_mes)
+
     if(not estado): return # Se não tiver estado selecionada sai
 
     if fichario.filtrar_estado(estado):

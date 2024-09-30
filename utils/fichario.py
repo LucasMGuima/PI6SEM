@@ -42,6 +42,25 @@ class Fichario():
         """
         self._dados = self._dados_originais
 
+    def intarvalo_datas(data_ini: str, data_fim: str) -> bool:
+        """
+            Filtra os dados com base no intervalo estabelecido.
+
+            Prametros:\n
+            **data_ini** -> data inicial no foramto dd/mm/aaaa\n
+            **data_fim** -> data final no foramto dd/mm/aaaa
+
+            Retorno:\n
+            **False** -> se algo deu errado, não aplica o filtro\n
+            **True** -> se tudo ocorreu como esperado
+        """
+        mes_ini, dia_ini, ano_ini = data_ini.split('/')
+        mes_fim, dia_fim, ano_fim = data_fim.split('/')
+
+        
+        
+        return True
+
     def filtrar_estado(self, estado: str) -> bool:
         """
             Filtra os dados com base no estado escolhido.

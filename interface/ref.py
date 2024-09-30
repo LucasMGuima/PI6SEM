@@ -25,9 +25,9 @@ class Tag():
     slot3 = 24
     medidas = 25
     ComboMesIni = 26
-    ComboDiaIni = 27
+    ComboDiaIni = 200
     ComboMesFim = 28
-    ComboDiaFim = 29
+    ComboDiaFim = 201
 
 class Label():
     WindowDados = 'Dados'
