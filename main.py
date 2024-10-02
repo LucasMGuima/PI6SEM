@@ -3,7 +3,7 @@ import dearpygui.dearpygui as dpg
 import os, threading, interface.w_tabela as w_tabela, interface.w_temperatura as w_temperatura, utils.fichario as f
 import interface.operacoes as op
 
-from interface.ref import Tag, Label, UR, Meses
+from utils.ref import Tag, Label, UR, Meses
 from datetime import date
 
 global fichario
@@ -74,10 +74,27 @@ def _carregarDados() -> None:
     fim_mes = dpg.get_value(Tag.ComboMesIni)
     fim_dia = dpg.get_value(Tag.ComboDiaFim)
 
-    # Quer apenas os dados daquele mes
-    if(ini_mes and ini_dia and fim_mes and fim_dia):
+    if(ini_mes and ini_dia and fim_mes and fim_dia): # Entrou com um intervalo de datas
+        # Certifica que o mes está em formato numerico
         if(type(ini_mes) == str): ini_mes = Meses.get_mesNumber(Meses, ini_mes)
         if(type(fim_mes) == str): fim_mes = Meses.get_mesNumber(Meses, fim_mes)
+        
+        data_ini: str = f"{ini_dia}/{ini_mes}/2024"
+        data_fim: str = f"{fim_dia}/{fim_mes}/2024"
+
+        fichario.intarvalo_datas(data_ini, data_fim)
+    elif(ini_mes and fim_mes and (not fim_dia or not ini_dia)): # Invervalo entre meses completos    
+        # Certifica que o mes está em formato numerico
+        if(type(ini_mes) == str): ini_mes = Meses.get_mesNumber(Meses, ini_mes)
+        if(type(fim_mes) == str): fim_mes = Meses.get_mesNumber(Meses, fim_mes)
+        
+        ini_dia = 1
+        fim_dia = Meses.get_mesDias(Meses, fim_mes)
+
+        data_ini: str = f"{ini_dia}/{ini_mes}/2024"
+        data_fim: str = f"{fim_dia}/{fim_mes}/2024"
+
+        fichario.intarvalo_datas(data_ini, data_fim)
 
     if(not estado): return # Se não tiver estado selecionada sai
 

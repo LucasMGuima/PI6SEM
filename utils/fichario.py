@@ -1,5 +1,6 @@
 from operacoes.tools.filtros import Filtros
-import pandas as pd
+from scipy.stats import pearsonr
+import pandas as pd, matplotlib.pyplot as plt
 
 class Fichario():
     """
@@ -42,7 +43,7 @@ class Fichario():
         """
         self._dados = self._dados_originais
 
-    def intarvalo_datas(data_ini: str, data_fim: str) -> bool:
+    def intarvalo_datas(self, data_ini: str, data_fim: str) -> bool:
         """
             Filtra os dados com base no intervalo estabelecido.
 
@@ -54,12 +55,35 @@ class Fichario():
             **False** -> se algo deu errado, não aplica o filtro\n
             **True** -> se tudo ocorreu como esperado
         """
-        mes_ini, dia_ini, ano_ini = data_ini.split('/')
-        mes_fim, dia_fim, ano_fim = data_fim.split('/')
+        try:
+            dia_ini, mes_ini, ano_ini = data_ini.split('/')
+            dia_fim, mes_fim, ano_fim = data_fim.split('/')
 
-        
-        
-        return True
+            lst_dias = self.get_columnEntries('Dia')
+
+            tabela_intervalo = pd.DataFrame()
+
+            for data in lst_dias:
+                dia, mes, ano = str(data).split('/')
+
+                dentro_intervalo_mes: bool = (int(mes) >= int(mes_ini) and int(mes) <= int(mes_fim))
+                dentro_intervalo_dia: bool = False
+
+                if(int(mes) == int(mes_ini)):
+                    dentro_intervalo_dia: bool = int(dia) >= int(dia_ini)
+                elif(int(mes) == int(mes_fim)):
+                    dentro_intervalo_dia: bool = int(dia) <= int(dia_fim)
+                elif(dentro_intervalo_mes):
+                    dentro_intervalo_dia: bool = True
+
+                if dentro_intervalo_dia and dentro_intervalo_mes:
+                    tabela_intervalo = pd.concat([tabela_intervalo,self.get_dados().loc[self.get_dados()['Dia'] == data]], ignore_index=True)
+            
+            self._dados = tabela_intervalo
+            return True
+        except Exception as e:
+            print(e)
+            return False
 
     def filtrar_estado(self, estado: str) -> bool:
         """
