@@ -67,6 +67,27 @@ class Meses():
         12: 'Dezembro'
     }
 
+    dias = {
+        (1, 3, 5, 7, 8, 10, 12): 31,
+        (4, 6, 9, 11): 30,
+        2: 28
+    }
+
+    def get_mesDias(self, mes: str|int) -> int:
+        """
+            Retorna a quantidade de dias de dado mes
+
+            **Argumentos**/n
+            mes: nome ou número do mes
+
+            **Retorno**/n
+            Quantidade de dias em dado mes
+        """
+        if(type(mes) == str): mes = self.get_mesNumber(mes)
+        for key, value in self.dias.items():
+            if mes in key: return value
+
+
     def get_mesNumber(self, nome: str) -> int:
         """
             Retorna o numero correspondente ao nome do mes.
