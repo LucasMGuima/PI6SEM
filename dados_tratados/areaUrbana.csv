@@ -1,0 +1,956 @@
+,Cidade,Estado,AreaUrbana
+0,São Paulo,SP,914.5644
+1,Rio de Janeiro,RJ,640.3365
+2,Brasília,DF,590.2166
+3,Curitiba,PR,336.5066
+4,Goiânia,GO,301.5507
+5,Manaus,AM,277.0854
+6,Belo Horizonte,MG,274.042
+7,Fortaleza,CE,253.6912
+8,Campo Grande,MS,252.6269
+9,Campinas,SP,245.1428
+10,Porto Alegre,RS,214.9087
+11,Salvador,,196.2572
+12,Uberlândia,MG,172.8539
+13,Teresina,PI,172.2605
+14,São Luís,MA,165.9574
+15,Cuiabá,MT,160.5942
+16,Guarulhos,SP,156.5236
+17,Ribeirão Preto,SP,149.4211
+18,Belém,,147.3517
+19,Feira de Santana,,143.1515
+20,Porto Velho,RO,143.0943
+21,Recife,PE,142.9853
+22,Aparecida de Goiânia,GO,140.4331
+23,Duque de Caxias,RJ,138.6772
+24,Joinville,SC,137.5985
+25,Sorocaba,SP,134.9586
+26,São Gonçalo,RJ,129.8256
+27,Londrina,PR,129.4435
+28,São José dos Campos,SP,128.9418
+29,São José do Rio Preto,SP,124.7914
+30,Nova Iguaçu,RJ,122.9915
+31,Boa Vista,RR,116.7697
+32,Maceió,AL,115.0845
+33,Maringá,PR,112.696
+34,Piracicaba,SP,110.835
+35,João Pessoa,PB,110.8201
+36,Florianópolis,SC,108.7892
+37,Jundiaí,SP,107.222
+38,Caxias do Sul,RS,104.7056
+39,Palmas,TO,104.4644
+40,Anápolis,GO,103.3523
+41,Camaçari,,102.4264
+42,Contagem,MG,102.3259
+43,Natal,RN,99.3168
+44,Uberaba,MG,98.7215
+45,Blumenau,SC,98.2463
+46,Ponta Grossa,PR,97.1042
+47,Juiz de Fora,MG,96.6963
+48,Campos dos Goytacazes,RJ,95.1659
+49,Santarém,,95.0074
+50,Serra,ES,93.6867
+51,Itaboraí,RJ,92.8138
+52,Betim,MG,92.0235
+53,São José dos Pinhais,PR,91.4555
+54,Cascavel,PR,91.2399
+55,Rio Branco,AC,87.42
+56,Rondonópolis,MT,87.0089
+57,Petrolina,PE,86.3902
+58,Várzea Grande,MT,86.2432
+59,Maricá,RJ,85.8766
+60,Bauru,SP,85.7806
+61,Foz do Iguaçu,PR,85.2285
+62,Aracaju,SE,84.5693
+63,São Bernardo do Campo,SP,84.1272
+64,Franca,SP,82.3351
+65,Macapá,AP,82.2877
+66,Petrópolis,RJ,81.7758
+67,Araraquara,SP,80.171
+68,Santa Maria,RS,80.0435
+69,São Carlos,SP,79.8655
+70,Pelotas,RS,79.3942
+71,Limeira,SP,79.256
+72,Dourados,MS,78.5508
+73,Vitória da Conquista,,77.513
+74,Luziânia,GO,77.4962
+75,Mogi das Cruzes,SP,75.0322
+76,Caucaia,CE,74.5909
+77,Jaboatão dos Guararapes,PE,74.5196
+78,Canoas,RS,74.4304
+79,Indaiatuba,SP,74.3594
+80,Gravataí,RS,73.8747
+81,Mossoró,RN,73.5522
+82,Montes Claros,MG,73.5097
+83,Taubaté,SP,71.4342
+84,Niterói,RJ,70.5238
+85,Santo André,SP,70.4252
+86,Sinop,MT,69.6655
+87,Marília,SP,69.0917
+88,Viamão,RS,68.4906
+89,Divinópolis,MG,67.7114
+90,Campina Grande,PB,66.6401
+91,Sete Lagoas,MG,66.1477
+92,Chapecó,SC,65.9964
+93,Imperatriz,MA,65.0654
+94,Cotia,SP,64.9582
+95,Araruama,RJ,64.8404
+96,Rio Grande,RS,64.7847
+97,Magé,RJ,64.7222
+98,Criciúma,SC,64.6227
+99,Atibaia,SP,64.2782
+100,Cariacica,ES,63.193
+101,Belford Roxo,RJ,62.8938
+102,Ananindeua,,62.7468
+103,Marabá,,62.4909
+104,Itu,SP,61.5983
+105,Cabo Frio,RJ,61.4398
+106,Vila Velha,ES,60.9094
+107,Presidente Prudente,SP,60.8258
+108,Osasco,SP,60.619
+109,Parauapebas,,60.3047
+110,Bragança Paulista,SP,59.5211
+111,Passo Fundo,RS,59.5094
+112,Caruaru,PE,59.5068
+113,Colombo,PR,59.4052
+114,Americana,SP,58.9911
+115,Araçatuba,SP,57.9594
+116,Guarapuava,PR,57.9451
+117,Novo Hamburgo,RS,56.8507
+118,Caldas Novas,GO,56.7395
+119,Suzano,SP,56.1162
+120,Sumaré,SP,55.6952
+121,Itajaí,SC,55.4898
+122,Jaraguá do Sul,SC,55.1189
+123,Esmeraldas,MG,54.77
+124,São José de Ribamar,MA,54.1242
+125,Teresópolis,RJ,54.0146
+126,Araguaína,TO,53.065
+127,Ribeirão das Neves,MG,52.9979
+128,Saquarema,RJ,52.896
+129,Itatiba,SP,52.2255
+130,Arapiraca,AL,52.0741
+131,Botucatu,SP,51.4859
+132,Palhoça,SC,51.4672
+133,Juazeiro do Norte,CE,51.4431
+134,Brusque,SC,51.1729
+135,Rio Verde,GO,50.9535
+136,Jacareí,SP,50.334
+137,Governador Valadares,MG,49.9339
+138,São Leopoldo,RS,49.9226
+139,Parnamirim,RN,49.4703
+140,Lages,SC,49.2617
+141,Três Lagoas,MS,48.9569
+142,Valinhos,SP,48.3038
+143,Mairiporã,SP,48.2766
+144,Santa Cruz do Sul,RS,48.2554
+145,Rio Claro,SP,48.2536
+146,Paulista,PE,48.1825
+147,Macaé,RJ,47.9675
+148,Toledo,PR,46.989
+149,Maracanaú,CE,46.4923
+150,Parnaíba,PI,46.4331
+151,Vitória,ES,46.1485
+152,Araucária,PR,45.816
+153,Porto Nacional,TO,44.9493
+154,Senador Canedo,GO,44.5436
+155,Itanhaém,SP,44.3799
+156,Castanhal,,44.2795
+157,Águas Lindas de Goiás,GO,43.8678
+158,Itaquaquecetuba,SP,43.8388
+159,Porto Seguro,,43.7611
+160,Aquiraz,CE,43.5969
+161,Volta Redonda,RJ,43.5731
+162,Barueri,SP,43.5192
+163,Cabo de Santo Agostinho,PE,43.4664
+164,Nova Friburgo,RJ,43.4263
+165,Ji-Paraná,RO,43.3746
+166,São José,SC,43.0271
+167,Mauá,SP,42.5349
+168,Santa Luzia,MG,42.4958
+169,Nova Lima,MG,41.9786
+170,Campo Largo,PR,41.9574
+171,Ibiúna,SP,40.8817
+172,Pindamonhangaba,SP,40.7393
+173,Poços de Caldas,MG,40.5967
+174,Angra dos Reis,RJ,40.0574
+175,Mogi Guaçu,SP,39.9664
+176,Vilhena,RO,39.9324
+177,Apucarana,PR,39.874
+178,Olinda,PE,39.7902
+179,Juazeiro,,39.7812
+180,Ipatinga,MG,39.78
+181,Guarujá,SP,39.742
+182,Cachoeiro de Itapemirim,ES,39.6456
+183,Pouso Alegre,MG,39.6361
+184,Santa Bárbara d'Oeste,SP,39.614
+185,Paulínia,SP,39.4967
+186,Umuarama,PR,39.4245
+187,Caraguatatuba,SP,39.4236
+188,Santos,SP,39.0549
+189,Paranaguá,PR,39.0004
+190,Itapetininga,SP,38.9853
+191,Itumbiara,GO,38.9345
+192,Araras,SP,38.8556
+193,Erechim,RS,38.8537
+194,Paço do Lumiar,MA,38.7607
+195,Tubarão,SC,38.4515
+196,Resende,RJ,38.3743
+197,Barretos,SP,38.2615
+198,Praia Grande,SP,38.1867
+199,Altamira,,37.7369
+200,Hortolândia,SP,37.5767
+201,Trindade,GO,37.5427
+202,Guaratinguetá,SP,37.3345
+203,Barcarena,,37.25
+204,Barra do Corda,MA,37.2177
+205,Araranguá,SC,37.2031
+206,São Francisco do Sul,SC,37.1409
+207,Lagoa Santa,MG,36.9656
+208,Tatuí,SP,36.7576
+209,Linhares,ES,36.7193
+210,Patos de Minas,MG,36.7118
+211,Catalão,GO,36.1423
+212,Lajeado,RS,36.0654
+213,Santana de Parnaíba,SP,35.9344
+214,Arapongas,PR,35.8991
+215,Bagé,RS,35.7873
+216,Luís Eduardo Magalhães,,35.6976
+217,Catanduva,SP,35.5679
+218,Itaguaí,RJ,35.3579
+219,Ilhéus,,35.3282
+220,São João de Meriti,RJ,35.2135
+221,Gurupi,TO,35.1928
+222,Jaú,SP,34.9947
+223,Ubatuba,SP,34.9754
+224,Varginha,MG,34.9464
+225,Salto,SP,34.9335
+226,Araguari,MG,34.8176
+227,Alagoinhas,,34.6101
+228,Peruíbe,SP,34.6079
+229,Ourinhos,SP,34.3631
+230,São Roque,SP,34.2672
+231,Bento Gonçalves,RS,34.1507
+232,Jataí,GO,34.1225
+233,Rio das Ostras,RJ,34.0953
+234,Paranavaí,PR,34.0518
+235,São Bento do Sul,SC,33.8677
+236,Sorriso,MT,33.6405
+237,Itaituba,,33.422
+238,Sertãozinho,SP,33.3942
+239,Ariquemes,RO,33.2587
+240,Cáceres,MT,33.1476
+241,Rio do Sul,SC,33.1467
+242,Itupeva,SP,33.0567
+243,Nossa Senhora do Socorro,SE,32.9232
+244,Alvorada,RS,32.8702
+245,Macaíba,RN,32.7783
+246,Imbituba,SC,32.6586
+247,Uruguaiana,RS,32.6457
+248,Birigui,SP,32.6374
+249,Guarapari,ES,32.6277
+250,Carapicuíba,SP,32.5745
+251,Vinhedo,SP,32.5579
+252,Ponta Porã,MS,32.4672
+253,Mogi Mirim,SP,32.402
+254,São Mateus,ES,32.2182
+255,Crato,CE,32.2083
+256,Cambé,PR,32.1643
+257,Araxá,MG,32.1064
+258,São Pedro da Aldeia,RJ,32.0309
+259,Lauro de Freitas,,31.9123
+260,Simões Filho,,31.8856
+261,Teixeira de Freitas,,31.769
+262,Barreiras,,31.717
+263,Caxias,MA,31.699
+264,São Gonçalo do Amarante,RN,31.692
+265,Pato Branco,PR,31.5932
+266,Formosa,GO,31.4867
+267,Timon,MA,31.4837
+268,Avaré,SP,31.4581
+269,Sabará,MG,31.3095
+270,Jequié,,31.2712
+271,Sobral,CE,31.1727
+272,Fazenda Rio Grande,PR,31.0703
+273,São Sebastião,SP,30.9763
+274,Tangará da Serra,MT,30.9722
+275,Embu das Artes,SP,30.7732
+276,Seropédica,RJ,30.2832
+277,Barra do Garças,MT,30.2738
+278,Iranduba,AM,30.2537
+279,Barra Mansa,RJ,30.2485
+280,Francisco Beltrão,PR,30.1467
+281,Mairinque,SP,30.0132
+282,Bertioga,SP,29.9018
+283,Pirassununga,SP,29.8603
+284,Valparaíso de Goiás,GO,29.5384
+285,São Pedro,SP,29.516
+286,Ipojuca,PE,29.3881
+287,Concórdia,SC,29.3628
+288,Aracruz,ES,29.3568
+289,Paragominas,,29.0748
+290,Redenção,,29.0742
+291,Paulo Afonso,,29.0212
+292,Almirante Tamandaré,PR,28.9641
+293,Pinhais,PR,28.7961
+294,Conselheiro Lafaiete,MG,28.6898
+295,Açailândia,MA,28.6321
+296,Barbacena,MG,28.6299
+297,Itapevi,SP,28.5966
+298,Ceará-Mirim,RN,28.5233
+299,Grajaú,MA,28.3322
+300,Monte Alegre,,28.2257
+301,Cacoal,RO,28.0403
+302,Boituva,SP,27.9254
+303,Gaspar,SC,27.8334
+304,Jaguaruna,SC,27.7432
+305,Eusébio,CE,27.7183
+306,Queimados,RJ,27.6868
+307,Itapecerica da Serra,SP,27.6136
+308,Vera Cruz,,27.6061
+309,Farroupilha,RS,27.5509
+310,Diadema,SP,27.5114
+311,Piraquara,PR,27.4242
+312,Ituiutaba,MG,27.3399
+313,Lagarto,SE,27.2336
+314,Caçapava,SP,27.2246
+315,Itabuna,,27.1635
+316,Guapimirim,RJ,27.1484
+317,São Gonçalo do Amarante,CE,27.0622
+318,Campo Mourão,PR,27.0458
+319,Assis,SP,27.0427
+320,Mafra,SC,27.0296
+321,Cubatão,SP,26.9499
+322,Bragança,,26.9469
+323,Balsas,MA,26.9199
+324,Cruzeiro do Sul,AC,26.9102
+325,Santa Rosa,RS,26.7887
+326,Igarassu,PE,26.7834
+327,Extrema,MG,26.7613
+328,Santo Ângelo,RS,26.4748
+329,Carazinho,RS,26.3514
+330,Camaragibe,PE,26.322
+331,Cruz Alta,RS,26.3003
+332,Indaial,SC,26.2463
+333,São Vicente,SP,26.2317
+334,Ijuí,RS,26.1838
+335,Abaetetuba,,26.1655
+336,Itaúna,MG,26.0895
+337,Cascavel,CE,25.815
+338,Jarinu,SP,25.736
+339,Pará de Minas,MG,25.7228
+340,Votuporanga,SP,25.6509
+341,Itabira,MG,25.6269
+342,Jaboticatubas,MG,25.6171
+343,São Francisco de Itabapoana,RJ,25.6124
+344,Votorantim,SP,25.5406
+345,Sapucaia do Sul,RS,25.4238
+346,Içara,SC,25.4094
+347,Itapipoca,CE,25.4018
+348,Tramandaí,RS,25.3493
+349,Leme,SP,25.2421
+350,Goiana,PE,25.2075
+351,Venâncio Aires,RS,25.2058
+352,Irati,PR,25.1879
+353,Osório,RS,24.9244
+354,São João da Boa Vista,SP,24.9131
+355,Cachoeira do Sul,RS,24.9111
+356,Picos,PI,24.7503
+357,Cachoeirinha,RS,24.7179
+358,Mateus Leme,MG,24.7114
+359,Ribeirão Pires,SP,24.6212
+360,Jaboticabal,SP,24.5807
+361,Planaltina,GO,24.5539
+362,Cachoeiras de Macacu,RJ,24.5453
+363,Passos,MG,24.5124
+364,Montenegro,RS,24.4684
+365,Mineiros,GO,24.358
+366,Sant'Ana do Livramento,RS,24.3109
+367,Eunápolis,,24.2477
+368,Lavras,MG,24.1512
+369,Capão da Canoa,RS,24.1052
+370,Jaguariúna,SP,24.0386
+371,São João del-Rei,MG,24.0179
+372,Eldorado do Sul,RS,24.0114
+373,Teófilo Otoni,MG,24.0052
+374,Campos do Jordão,SP,23.9904
+375,Navegantes,SC,23.8914
+376,Timbó,SC,23.7804
+377,Luís Correia,PI,23.7032
+378,Sarandi,PR,23.6519
+379,Torres,RS,23.6392
+380,Curvelo,MG,23.6312
+381,Campo Limpo Paulista,SP,23.6015
+382,Primavera do Leste,MT,23.5927
+383,Vacaria,RS,23.5927
+384,Gravatá,PE,23.4796
+385,Garanhuns,PE,23.4145
+386,Matão,SP,23.3691
+387,Embu-Guaçu,SP,23.3597
+388,Canoinhas,SC,23.3201
+389,São Cristóvão,SE,23.2422
+390,Rolim de Moura,RO,23.2247
+391,Itapira,SP,23.1583
+392,Canaã dos Carajás,,23.1277
+393,Pomerode,SC,23.0944
+394,Corumbá,MS,23.0607
+395,Fernandópolis,SP,23.0517
+396,Guanambi,,23.037
+397,Brumadinho,MG,23.0242
+398,Extremoz,RN,22.9874
+399,Mococa,SP,22.9444
+400,Lucas do Rio Verde,MT,22.8797
+401,Lins,SP,22.8165
+402,Congonhas do Norte,MG,22.7725
+403,Santa Rita,PB,22.7408
+404,Juína,MT,22.718
+405,Arujá,SP,22.7045
+406,Ouro Preto,MG,22.6879
+407,Goianira,GO,22.6247
+408,Ibirité,MG,22.6038
+409,Guaíba,RS,22.6015
+410,Rolândia,PR,22.5915
+411,Cianorte,PR,22.5541
+412,Pontal do Paraná,PR,22.457
+413,Alta Floresta,MT,22.427
+414,União da Vitória,PR,22.3538
+415,Patrocínio,MG,22.3492
+416,Triunfo,RS,22.327
+417,Goianésia,GO,22.2854
+418,Franco da Rocha,SP,22.1636
+419,Maravilha,AL,22.1453
+420,Porto Feliz,SP,22.0612
+421,Beberibe,CE,22.0407
+422,Araçoiaba da Serra,SP,22.0261
+423,Marituba,,21.9357
+424,Araquari,SC,21.7632
+425,Russas,CE,21.7333
+426,Marechal Cândido Rondon,PR,21.6455
+427,São José de Mipibu,RN,21.6176
+428,Caçador,SC,21.6114
+429,Três Corações,MG,21.5644
+430,Biguaçu,SC,21.5415
+431,Guaratuba,PR,21.5353
+432,Japeri,RJ,21.486
+433,Cristalina,GO,21.4763
+434,Colatina,ES,21.4051
+435,Palmeira dos Índios,AL,21.3853
+436,Serrinha,,21.3642
+437,Itabirito,MG,21.3109
+438,Amparo,SP,21.3069
+439,Bebedouro,SP,21.2908
+440,João Monlevade,MG,21.2747
+441,Nísia Floresta,RN,21.2663
+442,Vespasiano,MG,21.1769
+443,Benevides,,21.1263
+444,Alexânia,GO,21.0877
+445,Itapoá,SC,21.0397
+446,Campo Bom,RS,20.997
+447,Telêmaco Borba,PR,20.9576
+448,Ubá,MG,20.7649
+449,Bacabal,MA,20.7589
+450,Cajamar,SP,20.6623
+451,São João da Barra,RJ,20.6428
+452,Santo Antônio da Patrulha,RS,20.6402
+453,Barbalha,CE,20.6395
+454,Socorro,SP,20.6347
+455,Itabaiana,SE,20.6268
+456,Irecê,,20.6004
+457,Tucuruí,,20.5742
+458,Moju,,20.5046
+459,Lençóis Paulista,SP,20.4835
+460,Itapeva,SP,20.4743
+461,Xangri-lá,RS,20.4583
+462,Jacobina,,20.3857
+463,Juatuba,MG,20.2933
+464,Matinhos,PR,20.2637
+465,Barra do Piraí,RJ,20.2545
+466,Unaí,MG,20.1763
+467,Gramado,RS,20.1621
+468,Xanxerê,SC,20.1463
+469,Sapiranga,RS,20.1252
+470,Piripiri,PI,20.0969
+471,Alegrete,RS,20.0256
+472,Canela,RS,19.9955
+473,Pirapora,MG,19.9844
+474,Horizonte,CE,19.9622
+475,Francisco Morato,SP,19.9368
+476,Taquara,RS,19.9304
+477,Itaperuna,RJ,19.9217
+478,Penápolis,SP,19.9172
+479,Itacoatiara,AM,19.8693
+480,Lorena,SP,19.828
+481,Aracati,CE,19.8259
+482,Conde,PB,19.8127
+483,Estância,SE,19.7564
+484,Oriximiná,,19.7324
+485,São Sebastião do Paraíso,MG,19.7157
+486,Santa Inês,MA,19.6721
+487,Nova Odessa,SP,19.6365
+488,Itajubá,MG,19.5058
+489,Várzea Paulista,SP,19.4947
+490,Iguatu,CE,19.4588
+491,Tupã,SP,19.4398
+492,São Lourenço da Mata,PE,19.412
+493,Campo Novo do Parecis,MT,19.3415
+494,Igarapé,MG,19.3249
+495,Salinópolis,,19.2688
+496,Floriano,PI,19.1155
+497,Santo Estêvão,,19.043
+498,Abreu e Lima,PE,18.9961
+499,Monte Mor,SP,18.9921
+500,Santana,AP,18.9743
+501,Paracatu,MG,18.9494
+502,Teutônia,RS,18.949
+503,Patos,PB,18.9321
+504,Codó,MA,18.9259
+505,Tianguá,CE,18.8844
+506,Nova Serrana,MG,18.7957
+507,Pedro Leopoldo,MG,18.783
+508,São Borja,RS,18.7755
+509,Dias d'Ávila,,18.7195
+510,São Félix do Xingu,,18.6927
+511,Armação dos Búzios,RJ,18.6917
+512,Mirassol,SP,18.6553
+513,Barra Velha,SC,18.6543
+514,Braço do Norte,SC,18.6149
+515,Taboão da Serra,SP,18.6092
+516,Paracuru,CE,18.6007
+517,Conceição do Coité,,18.5705
+518,Serra do Ramalho,,18.3722
+519,São Gabriel,RS,18.3058
+520,Paraty,RJ,18.2792
+521,Ibiporã,PR,18.2711
+522,Medianeira,PR,18.2538
+523,Formiga,MG,18.2537
+524,Viçosa,MG,18.227
+525,Nova Petrópolis,RS,18.1868
+526,Guaxupé,MG,18.1444
+527,Estância Velha,RS,18.1386
+528,Cidade Ocidental,GO,18.1297
+529,Timóteo,MG,18.1272
+530,Santo Antônio do Descoberto,GO,18.1245
+531,Itaporanga d'Ajuda,SE,18.1063
+532,Imbé,RS,18.0855
+533,Alfenas,MG,17.9992
+534,Paraíso do Tocantins,TO,17.9521
+535,Ferraz de Vasconcelos,SP,17.9475
+536,Hidrolândia,GO,17.7946
+537,Parintins,AM,17.7885
+538,Guararema,SP,17.7772
+539,Nova Viçosa,,17.7602
+540,Olímpia,SP,17.734
+541,Januária,MG,17.6804
+542,Capitão Poço,,17.645
+543,Barreirinhas,MA,17.6393
+544,Guaramirim,SC,17.6213
+545,Muriaé,MG,17.6069
+546,Bom Despacho,MG,17.5933
+547,Candeias,,17.5462
+548,Belterra,,17.5266
+549,São Miguel do Oeste,SC,17.4904
+550,Pinheiro,MA,17.4584
+551,Bom Jesus da Lapa,,17.4171
+552,Garopaba,SC,17.2528
+553,Batatais,SP,17.2222
+554,Cabreúva,SP,17.2058
+555,Ibitinga,SP,17.1609
+556,Belo Jardim,PE,17.1429
+557,Capanema,,17.1411
+558,Arroio do Meio,RS,17.1213
+559,São Gabriel da Cachoeira,AM,17.1093
+560,Caratinga,MG,17.0926
+561,Salgueiro,PE,17.0792
+562,Tabatinga,AM,17.0205
+563,Salto de Pirapora,SP,17.001
+564,Videira,SC,16.9633
+565,Garibaldi,RS,16.9401
+566,Santiago,RS,16.937
+567,Mongaguá,SP,16.9253
+568,Mata de São João,,16.9241
+569,Araripina,PE,16.889
+570,Camaquã,RS,16.8876
+571,Senhor do Bonfim,,16.8617
+572,Porangatu,GO,16.8278
+573,Três Rios,RJ,16.8194
+574,Pederneiras,SP,16.7711
+575,Palotina,PR,16.729
+576,Itatiaia,RJ,16.6565
+577,Porto Ferreira,SP,16.6404
+578,Santa Isabel,SP,16.6304
+579,São Gonçalo dos Campos,,16.595
+580,Paudalho,PE,16.5676
+581,Naviraí,MS,16.5364
+582,Capivari,SP,16.41
+583,Xinguara,,16.3999
+584,Acaraú,CE,16.3326
+585,Assu,RN,16.3237
+586,Penedo,AL,16.3004
+587,Santa Vitória do Palmar,RS,16.2879
+588,Andradina,SP,16.2846
+589,Guajará-Mirim,RO,16.2831
+590,Rio Largo,AL,16.2729
+591,Campo Formoso,,16.2605
+592,Prudentópolis,PR,16.2508
+593,Balneário Camboriú,SC,16.1643
+594,Seabra,,16.0711
+595,Pacajus,CE,16.0586
+596,Rio Bonito,RJ,16.0392
+597,Laguna,SC,16.0384
+598,Viçosa do Ceará,CE,16.0259
+599,Chapadinha,MA,15.9922
+600,Presidente Epitácio,SP,15.9837
+601,Novo Progresso,,15.9817
+602,Colniza,MT,15.9771
+603,Sousa,PB,15.9683
+604,Palmas,PR,15.9488
+605,Frutal,MG,15.9068
+606,Panambi,RS,15.9024
+607,Curuçá,,15.8659
+608,Portão,RS,15.8548
+609,Jaru,RO,15.844
+610,Santo Antônio de Jesus,,15.7516
+611,Delmiro Gouveia,AL,15.7369
+612,Rio Negrinho,SC,15.726
+613,São José do Rio Pardo,SP,15.7054
+614,Assis Chateaubriand,PR,15.6713
+615,Campo Verde,MT,15.658
+616,Viseu,,15.6536
+617,Coronel Fabriciano,MG,15.65
+618,Tutóia,MA,15.645
+619,Registro,SP,15.6255
+620,Tijucas,SC,15.56
+621,Viana,ES,15.5561
+622,Cruzeiro,SP,15.5407
+623,Aquidauana,MS,15.5332
+624,Santa Luzia,MA,15.5318
+625,Louveira,SP,15.5304
+626,Itapema,SC,15.5303
+627,Santa Izabel do Pará,,15.5156
+628,Vitória de Santo Antão,PE,15.5025
+629,Manacapuru,AM,15.502
+630,Janaúba,MG,15.4873
+631,Campina Grande do Sul,PR,15.4788
+632,Novo Repartimento,,15.4247
+633,Nova Mutum,MT,15.3947
+634,Estrela,RS,15.3807
+635,Vargem Grande Paulista,SP,15.3642
+636,Nova Santa Rita,RS,15.3349
+637,São Caetano do Sul,SP,15.3307
+638,Itapecuru-Mirim,MA,15.2893
+639,Arroio do Sal,RS,15.2859
+640,Morrinhos,GO,15.2656
+641,Novo Gama,GO,15.2589
+642,Esteio,RS,15.2541
+643,Cametá,,15.1802
+644,Serra Talhada,PE,15.1752
+645,Camboriú,SC,15.1456
+646,Inhumas,GO,15.1133
+647,Parobé,RS,15.0921
+648,São Joaquim de Bicas,MG,15.088
+649,Artur Nogueira,SP,15.0841
+650,São Mateus do Sul,PR,15.0529
+651,São Luiz Gonzaga,RS,15.0172
+652,Jales,SP,14.986
+653,São Raimundo Nonato,PI,14.9782
+654,Caieiras,SP,14.9574
+655,Crateús,CE,14.9207
+656,Limoeiro do Norte,CE,14.9108
+657,Salvaterra,,14.8538
+658,Surubim,PE,14.8495
+659,Entre Rios,,14.8404
+660,Ilha Comprida,SP,14.7406
+661,Tailândia,,14.7313
+662,Cosmópolis,SP,14.7281
+663,Jaraguá,GO,14.7189
+664,Trairi,CE,14.7184
+665,Taquaritinga,SP,14.6183
+666,Niquelândia,GO,14.5993
+667,Rorainópolis,RR,14.5752
+668,Dois Vizinhos,PR,14.5629
+669,Uruaçu,GO,14.56
+670,Pacatuba,CE,14.5373
+671,Valença,RJ,14.5034
+672,Rio Negro,PR,14.4681
+673,Cabedelo,PB,14.4364
+674,Maranguape,CE,14.4167
+675,Paranaíba,MS,14.4164
+676,Jandira,SP,14.4152
+677,Marialva,PR,14.4074
+678,Euclides da Cunha,,14.4052
+679,Padre Bernardo,GO,14.4043
+680,Quirinópolis,GO,14.3805
+681,Cataguases,MG,14.3403
+682,Castro,PR,14.3299
+683,Cajazeiras,PB,14.3025
+684,Ribeira do Pombal,,14.2575
+685,Guaíra,PR,14.2431
+686,Poá,SP,14.2376
+687,Santo Amaro,,14.1756
+688,Charqueadas,RS,14.1712
+689,Curitibanos,SC,14.1562
+690,Carpina,PE,14.1519
+691,Tietê,SP,14.123
+692,Normandia,RR,14.1138
+693,Caicó,RN,14.0727
+694,Mangaratiba,RJ,14.0575
+695,Vera Cruz,RS,14.0392
+696,Coruripe,AL,13.9594
+697,Juara,MT,13.9298
+698,Santa Cruz do Rio Pardo,SP,13.9249
+699,Altos,PI,13.9098
+700,Buriticupu,MA,13.9002
+701,Forquilhinha,SC,13.8472
+702,Mesquita,RJ,13.8297
+703,Iporá,GO,13.8055
+704,Penha,SC,13.7965
+705,Pontes e Lacerda,MT,13.7594
+706,Coxim,MS,13.7201
+707,Missão Velha,CE,13.6975
+708,Marapanim,,13.6576
+709,Rosário do Sul,RS,13.6271
+710,Alenquer,,13.6116
+711,Campo Maior,PI,13.6061
+712,Pedro II,PI,13.598
+713,Lagoa da Prata,MG,13.5953
+714,Flores da Cunha,RS,13.5315
+715,São Miguel do Iguaçu,PR,13.5017
+716,Itaberaba,,13.4948
+717,Serra Negra,SP,13.4778
+718,Iguaba Grande,RJ,13.4596
+719,Cerquilho,SP,13.4429
+720,Arcoverde,PE,13.3901
+721,São Benedito,CE,13.3774
+722,Ilhabela,SP,13.3524
+723,Maracanã,,13.3398
+724,São João Batista,SC,13.3096
+725,Palmares do Sul,RS,13.3069
+726,Matozinhos,MG,13.3023
+727,Manhuaçu,MG,13.2801
+728,Prado,,13.2778
+729,Chapada dos Guimarães,MT,13.2272
+730,Marau,RS,13.222
+731,Miguel Pereira,RJ,13.2092
+732,Capão do Leão,RS,13.1722
+733,Brumado,,13.1569
+734,Carlos Barbosa,RS,13.1246
+735,Dracena,SP,13.1022
+736,Monte Alto,SP,13.0769
+737,Santa Helena,PR,13.062
+738,São Sebastião do Caí,RS,12.9991
+739,Pimenta Bueno,RO,12.9981
+740,Brejo Santo,CE,12.9955
+741,Paty do Alferes,RJ,12.9836
+742,Barras,PI,12.9582
+743,Confresa,MT,12.9542
+744,Lapa,PR,12.9371
+745,Touros,RN,12.8813
+746,Jacundá,,12.8771
+747,Santa Helena de Goiás,GO,12.8734
+748,Guabiruba,SC,12.8528
+749,São Joaquim da Barra,SP,12.8499
+750,Cornélio Procópio,PR,12.8403
+751,Nova Andradina,MS,12.8292
+752,São Bento do Una,PE,12.8068
+753,Humaitá,AM,12.8043
+754,Manicoré,AM,12.8042
+755,Rio Pardo,RS,12.7926
+756,Poxoréu,MT,12.7824
+757,Pilar do Sul,SP,12.7705
+758,Itaqui,RS,12.7485
+759,Frederico Westphalen,RS,12.672
+760,Pesqueira,PE,12.6291
+761,Guarantã do Norte,MT,12.6253
+762,Dom Pedrito,RS,12.6066
+763,Arcos,MG,12.5755
+764,Balneário Pinhal,RS,12.567
+765,Campo Belo,MG,12.4911
+766,João Pinheiro,MG,12.4823
+767,Santa Cruz do Capibaribe,PE,12.4338
+768,Adamantina,SP,12.4262
+769,Óbidos,,12.4217
+770,Agudo,RS,12.3981
+771,Conceição do Araguaia,,12.3937
+772,Jardinópolis,SP,12.3351
+773,Barra Bonita,SP,12.2951
+774,Coroatá,MA,12.2853
+775,Tucano,,12.2594
+776,Piracuruca,PI,12.2467
+777,Pedreira,SP,12.2109
+778,Ilha de Itamaracá,PE,12.204
+779,Novo Horizonte,SP,12.1915
+780,Piedade,SP,12.1904
+781,Itaberaí,GO,12.1715
+782,Bela Vista de Goiás,GO,12.1672
+783,Três Marias,MG,12.1671
+784,Taquari,RS,12.1607
+785,Cruz das Almas,,12.1597
+786,Santa Fé do Sul,SP,12.1554
+787,Barra dos Coqueiros,SE,12.1415
+788,Goiatuba,GO,12.135
+789,Astorga,PR,12.1235
+790,São Francisco,MG,12.1064
+791,Itápolis,SP,12.0937
+792,Balneário Piçarras,SC,12.0849
+793,Balneário Gaivota,SC,12.0837
+794,Mucuri,,12.0622
+795,Dom Eliseu,,12.011
+796,Caeté,MG,11.9994
+797,Santana do Araguaia,,11.9974
+798,Diamantina,MG,11.9823
+799,Joaçaba,SC,11.9758
+800,Dois Irmãos,RS,11.9733
+801,Tucumã,,11.9647
+802,São Manuel,SP,11.9394
+803,Santa Maria da Boa Vista,PE,11.9232
+804,Ivaiporã,PR,11.8925
+805,Presidente Dutra,MA,11.8816
+806,Quixeramobim,CE,11.8676
+807,Itamaraju,,11.839
+808,Garça,SP,11.8175
+809,Palmeira das Missões,RS,11.8147
+810,Mariana,MG,11.7667
+811,São Sebastião,AL,11.7571
+812,Conceição do Jacuípe,,11.745
+813,Monte Carmelo,MG,11.7387
+814,Esperantina,PI,11.7198
+815,Quatro Barras,PR,11.713
+816,Candelária,RS,11.7049
+817,Morada Nova,CE,11.6942
+818,Cidreira,RS,11.6921
+819,Tomé-Açu,,11.6915
+820,Laranjeiras do Sul,PR,11.6866
+821,Guaraciaba do Norte,CE,11.6804
+822,Agudos,SP,11.6345
+823,Aparecida do Taboado,MS,11.6338
+824,Icó,CE,11.6081
+825,Campos Novos,SC,11.5887
+826,Igarapé-Miri,,11.5681
+827,Caçapava do Sul,RS,11.5355
+828,Santo Antônio da Platina,PR,11.5258
+829,Porto União,SC,11.5228
+830,São Francisco de Paula,RS,11.5119
+831,Soledade,RS,11.511
+832,Nova Mamoré,RO,11.5088
+833,Valença,,11.4996
+834,Oeiras,PI,11.4993
+835,Dois Córregos,SP,11.4736
+836,Bayeux,PB,11.4732
+837,Morretes,PR,11.4278
+838,José de Freitas,PI,11.4023
+839,Várzea da Palma,MG,11.3715
+840,Barreirinha,AM,11.3448
+841,Massaranduba,SC,11.336
+842,Itapemirim,ES,11.3257
+843,Zé Doca,MA,11.3096
+844,Iturama,MG,11.3075
+845,Bom Princípio,RS,11.3016
+846,Itapetinga,,11.2997
+847,Três Passos,RS,11.2946
+848,Balneário Arroio do Silva,SC,11.2847
+849,Ponte Nova,MG,11.2729
+850,Itaitinga,CE,11.2691
+851,Quixadá,CE,11.2674
+852,Encantado,RS,11.2646
+853,Anchieta,ES,11.261
+854,Colinas do Tocantins,TO,11.232
+855,Porangaba,SP,11.2142
+856,Canarana,MT,11.2121
+857,Brotas,SP,11.21
+858,Serra do Mel,RN,11.1819
+859,Nova Prata,RS,11.1747
+860,Casimiro de Abreu,RJ,11.1319
+861,Restinga Sêca,RS,11.1172
+862,Ituporanga,SC,11.085
+863,Ivoti,RS,11.0673
+864,São Lourenço do Sul,RS,11.0606
+865,Colinas,MA,11.0599
+866,Presidente Venceslau,SP,11.0554
+867,Imbituva,PR,11.0506
+868,Igrejinha,RS,11.0458
+869,Ouro Branco,MG,11.0423
+870,Santana do Paraíso,MG,11.0219
+871,Mandaguari,PR,10.9846
+872,Presidente Figueiredo,AM,10.9785
+873,Sidrolândia,MS,10.8802
+874,Vargem Grande do Sul,SP,10.8672
+875,Tremembé,SP,10.8538
+876,Biritiba Mirim,SP,10.8316
+877,Poconé,MT,10.8288
+878,Maracaju,MS,10.8282
+879,Augusto Corrêa,,10.8239
+880,Pindoretama,CE,10.8238
+881,Iperó,SP,10.8201
+882,São Francisco do Conde,,10.8199
+883,Porto Real,RJ,10.7995
+884,Água Boa,MT,10.7856
+885,Pacaraima,RR,10.7802
+886,Goioerê,PR,10.7794
+887,Nova Venécia,ES,10.7671
+888,Caracaraí,RR,10.7505
+889,Ourilândia do Norte,,10.7478
+890,Tanguá,RJ,10.7171
+891,José Bonifácio,SP,10.7124
+892,Paraguaçu Paulista,SP,10.6397
+893,Bocaiuva,MG,10.6312
+894,Uruará,,10.6165
+895,Três Pontas,MG,10.6121
+896,Santa Cruz Cabrália,,10.5742
+897,Rio Brilhante,MS,10.5697
+898,Amambai,MS,10.5662
+899,São Luís de Montes Belos,GO,10.5614
+900,Orlândia,SP,10.5048
+901,Guaíra,SP,10.496
+902,Presidente Getúlio,SC,10.4911
+903,Chapadão do Sul,MS,10.4842
+904,Visconde do Rio Branco,MG,10.4707
+905,Icapuí,CE,10.4675
+906,Araguatins,TO,10.4419
+907,Ituverava,SP,10.4274
+908,Vassouras,RJ,10.4269
+909,Xaxim,SC,10.4238
+910,Esplanada,,10.4236
+911,Jacarezinho,PR,10.4194
+912,Capão Bonito,SP,10.406
+913,João Câmara,RN,10.4036
+914,Itararé,SP,10.4032
+915,Feliz,RS,10.3956
+916,Bombinhas,SC,10.3883
+917,Marataízes,ES,10.3848
+918,Batalha,PI,10.3649
+919,São Lourenço,MG,10.3554
+920,Aripuanã,MT,10.3503
+921,Santo Amaro da Imperatriz,SC,10.3186
+922,Ulianópolis,,10.3149
+923,Paraíba do Sul,RJ,10.3099
+924,Pires do Rio,GO,10.3093
+925,Sombrio,SC,10.3072
+926,Cantá,RR,10.3047
+927,Leopoldina,MG,10.2927
+928,Tauá,CE,10.2905
+929,Tefé,AM,10.2882
+930,Arame,MA,10.2591
+931,Colíder,MT,10.2568
+932,Descalvado,SP,10.24
+933,Jardim,MS,10.2295
+934,Bariri,SP,10.2155
+935,Piracaia,SP,10.212
+936,Canindé,CE,10.1996
+937,Maravilha,SC,10.1911
+938,Posse,GO,10.18
+939,Santa Rita do Sapucaí,MG,10.1748
+940,Camocim,CE,10.162
+941,Bela Vista,MS,10.1619
+942,Peixoto de Azevedo,MT,10.1363
+943,Juruti,,10.1268
+944,Diamantino,MT,10.1073
+945,Casa Branca,SP,10.1031
+946,Maués,AM,10.0765
+947,Guariba,SP,10.0623
+948,Jaguariaíva,PR,10.0602
+949,União dos Palmares,AL,10.0426
+950,Ubajara,CE,10.0417
+951,Palmeira,PR,10.0379
+952,Pitanga,PR,10.0211
+953,Nova Esperança,PR,10.0148
+954,Ouro Fino,MG,10.0131
