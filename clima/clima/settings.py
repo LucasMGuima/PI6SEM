@@ -29,7 +29,7 @@ ROBOTSTXT_OBEY = True
 #WARNING - for warning messages
 #INFO - for informational messages
 #DEBUG - for debugging messages (lowest severity)
-LOG_LEVEL = 'INFO'
+LOG_LEVEL = 'CRITICAL'
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32

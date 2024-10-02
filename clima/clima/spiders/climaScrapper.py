@@ -1,6 +1,4 @@
-import csv
 import scrapy
-from datetime import datetime, timezone, timedelta, datetime
 
 class ClimaScrapper(scrapy.Spider):
     name = 'clima'
