@@ -1,5 +1,6 @@
 import pandas as pd
-import math, utils.fichario as f
+import math
+import fichario as f
 
 def avaliar_ur(row: pd.Series) -> pd.Series:
     umidade = int(row["Umidade"])

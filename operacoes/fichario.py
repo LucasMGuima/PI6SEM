@@ -1,4 +1,4 @@
-from operacoes.tools.filtros import Filtros
+from tools.filtros import Filtros
 from scipy.stats import pearsonr
 import pandas as pd, matplotlib.pyplot as plt
 

@@ -8,4 +8,4 @@ data = f"{data.day}_{data.month}_{data.year}"
 file = f'..\dados\{data}.csv'
 
 os.chdir("./clima")
-os.system(f"scrapy crawl clima -o {file} -t csv")
+os.system(f"scrapy crawl clima -o {file}:csv")
