@@ -1,9 +1,9 @@
 import pandas as pd
 import dearpygui.dearpygui as dpg
-import os, threading, interface.w_tabela as w_tabela, interface.w_temperatura as w_temperatura, utils.fichario as f
+import os, threading, interface.w_tabela as w_tabela, interface.w_temperatura as w_temperatura, operacoes.fichario as f
 import interface.operacoes as op
 
-from utils.ref import Tag, Label, UR, Meses
+from interface.ref import Tag, Label, UR, Meses
 from datetime import date
 
 global fichario
