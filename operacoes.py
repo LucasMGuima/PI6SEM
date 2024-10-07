@@ -1,4 +1,4 @@
-import utils.fichario as f
+import fichario as f
 import pandas as pd
 
 import os
