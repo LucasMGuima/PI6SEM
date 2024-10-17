@@ -3,8 +3,6 @@ from interface.ref import Label, Tag, Meses
 import dearpygui.dearpygui as dpg
 import interface.my_window as my_window, fichario as f
 
-
-
 class WindowTabela(my_window.myWindow):
     def __init__(self, fichario: f.Fichario) -> None:
         self.fichario = fichario

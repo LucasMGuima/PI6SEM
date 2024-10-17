@@ -14,6 +14,7 @@ class Fichario():
             **dados** -> Pandas DataFrame contendo os dados iniciais.
         """
         self._dados_originais: pd.DataFrame = dados
+        self._areaUrbana: pd.DataFrame = pd.read_csv('./dados_tratados/areaUrbana.csv')
         self._dados: pd.DataFrame = self._dados_originais
         self.filtros = Filtros()
 
@@ -22,6 +23,12 @@ class Fichario():
             Retorna os dados contidos no fichario
         """
         return self._dados
+
+    def get_areaUrbana(self) -> pd.DataFrame:
+        """
+            Retorna a tabela com a relação das áreas urbanas de cada cidade
+        """
+        return self._areaUrbana
 
     def get_columnEntries(self, column_name: str, agrupar: bool = True) -> list:
         """
