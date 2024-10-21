@@ -1,10 +1,12 @@
+from scipy.stats import pearsonr
+
 import fichario as f
 import interface.my_window as my_window
 import dearpygui.dearpygui as dpg
 import pandas as pd
 import math
 
-class WindowHumidadeXTemperatura(my_window.myWindow):
+class WindowUmidadeXTemperatura(my_window.myWindow):
     def __init__(self, fichario: f.Fichario, estado: str = "SP", cidade: str = "São Paulo") -> None:
         self.id = id(self)
         self.estado = estado
@@ -18,7 +20,7 @@ class WindowHumidadeXTemperatura(my_window.myWindow):
         super().__init__()
 
     def criar_janela(self) -> None:
-        with dpg.window(label="HumidadeXTemperatura",
+        with dpg.window(label="UmidadeXTemperatura",
                         tag=300,
                         width=600, height=500,
                         on_close= lambda: dpg.delete_item(300)):
@@ -35,7 +37,7 @@ class WindowHumidadeXTemperatura(my_window.myWindow):
                     humi_med = cidade_dados['Umidade']
                     sum = 0
                     for humi in humi_med: sum += int(humi)
-                    media_humidade = math.floor(sum/len(humi_med))
+                    media_Umidade = math.floor(sum/len(humi_med))
 
                     temp_med = cidade_dados['Temp Med']
                     sum = 0
@@ -45,9 +47,15 @@ class WindowHumidadeXTemperatura(my_window.myWindow):
                     area_urbana = self.area_urbana.loc[(self.area_urbana['Cidade'] == cidade) & (self.area_urbana['Estado'] == estado[0])]
                     
                     if(area_urbana.empty == False):
-                        new_row = (cidade, estado[0], media, media_humidade, area_urbana['AreaUrbana'].values[0])
+                        new_row = (cidade, estado[0], media, media_Umidade, area_urbana['AreaUrbana'].values[0])
                         dados.append(new_row)
-                dados_agrupados = pd.DataFrame(dados, columns=['Cidade', 'Estado', 'Temp Media', 'Humidade', 'Area Urbana'])
+                dados_agrupados = pd.DataFrame(dados, columns=['Cidade', 'Estado', 'Temp Media', 'Umidade', 'Area Urbana'])
                 print(dados_agrupados.head())
+                corr1, pvalor = pearsonr(dados_agrupados['Temp Media'], dados_agrupados['Umidade'])
+                corr2, pvalor = pearsonr(dados_agrupados['Umidade'], dados_agrupados['Area Urbana'])
+                corr3, pvalor = pearsonr(dados_agrupados['Temp Media'], dados_agrupados['Area Urbana'])
+                print("Correlação entre Temperatura e Umidade: %.3f" % corr1)
+                print("Correlação entre Umidade e Area Urbana: %.3f" % corr2)
+                print("Correlação entre Temperatura e Area Urbana: %.3f" % corr3)
 
                 
