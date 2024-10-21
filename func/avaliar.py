@@ -1,6 +1,6 @@
 import pandas as pd
 import math
-import fichario as f
+
 
 def avaliar_ur(row: pd.Series) -> pd.Series:
     umidade = int(row["Umidade"])
@@ -34,7 +34,7 @@ def calc_tempMedia(row: pd.Series) -> pd.Series:
 
     return row
 
-def rankear_cidade(fichario: f.Fichario) -> list:
+def rankear_cidade(fichario) -> list:
     """
         Avalia as cidades e mostra quais são as melhores para se viver com base na avaliação da umidade relativa
 
