@@ -1,6 +1,6 @@
 import pandas as pd
 import dearpygui.dearpygui as dpg
-import os, threading, interface.w_tabela as w_tabela, interface.w_humidadeXTemperatura as w_humidadeTemperatura, interface.w_temperatura as w_temperatura, fichario as f
+import os, threading, interface.w_tabela as w_tabela, interface.w_correlacao as w_humidadeTemperatura, interface.w_temperatura as w_temperatura, fichario as f
 import operacoes as op
 
 from interface.ref import Tag, Label, UR, Meses
