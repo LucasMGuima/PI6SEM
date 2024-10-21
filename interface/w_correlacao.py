@@ -23,17 +23,6 @@ class WindowHumidadeXTemperatura(my_window.myWindow):
                         width=600, height=500,
                         on_close= lambda: dpg.delete_item(300)):
             with dpg.group(horizontal=True):
-                # with dpg.table(tag=301, 
-                #                header_row=True, row_background=True, 
-                #                borders_innerH=True, borders_outerH=True, 
-                #                borders_innerV=True, borders_outerV=True):
-                #     nome_colunas = list(self.area_urbana)
-                #     # Adiciona as colunas com o cabecalho
-                #     for nome in nome_colunas:
-                #         dpg.add_table_column(label=nome)
-
-                #     # Adiciona os valores
-                #     for index in self.area_urbana.index:
                 cidades = self.fichario.get_columnEntries('Cidade')
 
                 dados = []
