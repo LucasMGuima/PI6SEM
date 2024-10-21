@@ -51,7 +51,11 @@ for file_name in dir_list:
     print(f"- {data} ")
     # Pula os dias já lidos
     if(os.path.exists(out_file) and data not in df_out['Dia'].values):
-        dados[data] = pd.read_csv(file_path)
+        try:
+            dados[data] = pd.read_csv(file_path)
+        except:
+            print("Arquivo vazio\n")
+            continue
         print(f"adicionada ao csv\n")
     else: print(f"já no csv\n")
 
