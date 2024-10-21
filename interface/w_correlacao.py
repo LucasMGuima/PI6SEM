@@ -6,7 +6,7 @@ import dearpygui.dearpygui as dpg
 import pandas as pd
 import math
 
-class WindowUmidadeXTemperatura(my_window.myWindow):
+class WindowCorrelacoes(my_window.myWindow):
     def __init__(self, fichario: f.Fichario, estado: str = "SP", cidade: str = "São Paulo") -> None:
         self.id = id(self)
         self.estado = estado
@@ -50,12 +50,21 @@ class WindowUmidadeXTemperatura(my_window.myWindow):
                         new_row = (cidade, estado[0], media, media_Umidade, area_urbana['AreaUrbana'].values[0])
                         dados.append(new_row)
                 dados_agrupados = pd.DataFrame(dados, columns=['Cidade', 'Estado', 'Temp Media', 'Umidade', 'Area Urbana'])
-                print(dados_agrupados.head())
                 corr1, pvalor = pearsonr(dados_agrupados['Temp Media'], dados_agrupados['Umidade'])
                 corr2, pvalor = pearsonr(dados_agrupados['Umidade'], dados_agrupados['Area Urbana'])
                 corr3, pvalor = pearsonr(dados_agrupados['Temp Media'], dados_agrupados['Area Urbana'])
-                print("Correlação entre Temperatura e Umidade: %.3f" % corr1)
-                print("Correlação entre Umidade e Area Urbana: %.3f" % corr2)
-                print("Correlação entre Temperatura e Area Urbana: %.3f" % corr3)
+
+                with dpg.plot():
+                    dpg.add_plot_axis(dpg.mvXAxis, label="Temp. Média")
+                    dpg.add_plot_axis(dpg.mvYAxis, label='Umidade', tag=304)
+                    for cidade in dados_agrupados['Cidade']:
+                        row = dados_agrupados.loc[(dados_agrupados['Cidade'] == cidade)]
+                        print(row)
+                        dpg.add_scatter_series(row['Temp Media'].values[0], row['Umidade'].values[0], parent=304)
+
+                with dpg.group(horizontal=False):
+                    dpg.add_text("Correlação entre Temperatura e Umidade: %.3f" % corr1)
+                    dpg.add_text("Correlação entre Umidade e Area Urbana: %.3f" % corr2)
+                    dpg.add_text("Correlação entre Temperatura e Area Urbana: %.3f" % corr3)
 
                 

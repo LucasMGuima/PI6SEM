@@ -1,6 +1,6 @@
 import pandas as pd
 import dearpygui.dearpygui as dpg
-import os, threading, interface.w_tabela as w_tabela, interface.w_correlacao as w_UmidadeTemperatura, interface.w_temperatura as w_temperatura, fichario as f
+import os, threading, interface.w_tabela as w_tabela, interface.w_correlacao as w_correlacao, interface.w_temperatura as w_temperatura, fichario as f
 import operacoes as op
 
 from interface.ref import Tag, Label, UR, Meses
@@ -162,9 +162,9 @@ def callback_populateDias(sender, app_data):
         dpg.configure_item(Tag.ComboDiaFim, items=lst_dias)
         return
 
-def callback_UmidadeTemperatura():
-    p_humiTemp = w_UmidadeTemperatura.WindowUmidadeXTemperatura(fichario)
-    p_humiTemp.criar_janela()
+def callback_Correlacoes():
+    p_correlacoes = w_correlacao.WindowCorrelacoes(fichario)
+    p_correlacoes.criar_janela()
 
 # Funcoes de paines
 def painel_configPesquisa():
@@ -208,7 +208,7 @@ with dpg.window(tag=Tag.WindowPrimary):
             dpg.add_menu_item(label=Label.MenuItemTabela, callback=callback_showTabel)
             dpg.add_menu_item(label="Gráfico de Temperatura", callback=callback_showTemperatura)
             dpg.add_menu_item()
-            dpg.add_menu_item(label="Umidade x Temperatura", callback=callback_UmidadeTemperatura)
+            dpg.add_menu_item(label="Correlações", callback=callback_Correlacoes)
         with dpg.menu(label=Label.MenuOperacoes):
             dpg.add_menu_item(label=Label.MenuItemColetar, callback=callback_coletarDados)
         
