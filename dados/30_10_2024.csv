@@ -1,0 +1,3708 @@
+Cidade,Estado,Temp Max,Temp Min,Umidade,Umidade Min
+Abadia de Goiás, GO, 28º, 20º, 97% , 68% 
+Água Azul do Norte, PA, 33º, 24º, 88% , 50% 
+Água Branca, AL, 35º, 20º, 96% , 27% 
+Água Clara, MS, 33º, 21º, 100% , 50% 
+Agrolândia, SC, 26º, 18º, 97% , 65% 
+Afuá, PA, 35º, 26º, 83% , 50% 
+Afrânio, PE, 36º, 23º, 69% , 26% 
+Água Doce, SC, 26º, 15º, 97% , 44% 
+Agricolândia, PI, 37º, 26º, 64% , 29% 
+Adustina, BA, 33º, 22º, 95% , 39% 
+Afonso Bezerra, RN, 37º, 23º, 83% , 28% 
+Adrianópolis, PR, 28º, 16º, 99% , 53% 
+Adolfo, SP, 31º, 21º, 91% , 56% 
+Ariquemes, RO, 35º, 23º, 99% , 47% 
+Ariranha do Ivaí, PR, 28º, 17º, 97% , 55% 
+Avanhandava, SP, 32º, 20º, 87% , 49% 
+Afonso Cunha, MA, 37º, 25º, 81% , 32% 
+Barroquinha, CE, 37º, 25º, 82% , 32% 
+Barrolândia, TO, 34º, 24º, 92% , 50% 
+Barbacena, MG, 24º, 16º, 99% , 61% 
+Castanhal, PA, 34º, 25º, 91% , 54% 
+Castilho, SP, 32º, 22º, 94% , 57% 
+Casserengue, PB, 30º, 20º, 98% , 49% 
+Cascavel, PR, 30º, 19º, 94% , 41% 
+Castelo, ES, 25º, 20º, 100% , 68% 
+Cascavel, CE, 30º, 25º, 86% , 55% 
+Cássia dos Coqueiros, SP, 26º, 19º, 95% , 67% 
+Casimiro de Abreu, RJ, 25º, 20º, 96% , 75% 
+Cascalho Rico, MG, 26º, 21º, 95% , 72% 
+Castanheiras, RO, 32º, 23º, 100% , 62% 
+Caruaru, PE, 30º, 18º, 100% , 41% 
+Carolina, MA, 34º, 25º, 93% , 49% 
+Casa Branca, SP, 29º, 19º, 100% , 57% 
+Crissiumal, RS, 31º, 17º, 92% , 46% 
+Carrancas, MG, 25º, 16º, 99% , 54% 
+Duerê, TO, 33º, 23º, 94% , 58% 
+Divino das Laranjeiras, MG, 25º, 21º, 94% , 77% 
+Coqueiro Baixo, RS, 27º, 13º, 100% , 61% 
+Elias Fausto, SP, 30º, 18º, 96% , 48% 
+Guarapuava, PR, 26º, 16º, 99% , 51% 
+Guarani D'Oeste, SP, 31º, 20º, 98% , 55% 
+Guarani, MG, 24º, 17º, 100% , 72% 
+Guarani das Missões, RS, 31º, 17º, 97% , 47% 
+Guaraqueçaba, PR, 26º, 19º, 100% , 77% 
+Guarantã do Norte, MT, 31º, 23º, 97% , 64% 
+Guarantã, SP, 31º, 20º, 86% , 54% 
+Guarani de Goiás, GO, 32º, 23º, 81% , 48% 
+Guaranésia, MG, 27º, 19º, 96% , 63% 
+Guaraíta, GO, 30º, 21º, 88% , 52% 
+Guaraciaba do Norte, CE, 34º, 21º, 91% , 26% 
+Guaraí, TO, 34º, 24º, 92% , 48% 
+Itapecerica, MG, 26º, 16º, 97% , 65% 
+Guaraciama, MG, 23º, 20º, 94% , 84% 
+Guaramiranga, CE, 32º, 20º, 100% , 38% 
+Guaraciaba, MG, 27º, 18º, 97% , 55% 
+Itaparica, BA, 27º, 25º, 87% , 74% 
+Mogi das Cruzes, SP, 26º, 17º, 99% , 54% 
+Mogi Guaçu, SP, 30º, 18º, 94% , 48% 
+Mogeiro, PB, 33º, 22º, 92% , 43% 
+Monções, SP, 31º, 21º, 97% , 61% 
+Mombaça, CE, 37º, 24º, 75% , 22% 
+Moiporá, GO, 30º, 22º, 93% , 54% 
+Modelo, SC, 30º, 21º, 71% , 49% 
+Mirinzal, MA, 32º, 24º, 92% , 56% 
+Mombuca, SP, 29º, 17º, 98% , 53% 
+Mocajuba, PA, 33º, 25º, 86% , 59% 
+Miravânia, MG, 33º, 22º, 69% , 36% 
+Moeda, MG, 27º, 16º, 98% , 61% 
+Mirassolândia, SP, 31º, 20º, 98% , 54% 
+Mococa, SP, 30º, 19º, 91% , 45% 
+Miraselva, PR, 32º, 19º, 84% , 38% 
+Nova Mamoré, RO, 33º, 24º, 99% , 59% 
+Novo Triunfo, BA, 32º, 20º, 98% , 38% 
+Nacip Raydan, MG, 26º, 20º, 93% , 65% 
+Olivedos, PB, 31º, 19º, 97% , 36% 
+Santa Luzia do Paruá, MA, 34º, 24º, 88% , 50% 
+Santa Maria, DF, 25º, 19º, 98% , 72% 
+Santa Margarida do Sul, RS, 27º, 15º, 98% , 52% 
+Santa Maria, RS, 27º, 18º, 99% , 58% 
+Santa Margarida, MG, 25º, 17º, 97% , 59% 
+Santa Maria, RN, 34º, 22º, 90% , 37% 
+Santa Maria da Boa Vista, PE, 36º, 22º, 78% , 23% 
+Santa Maria da Serra, SP, 30º, 19º, 95% , 52% 
+Santa Luzia do Pará, PA, 34º, 24º, 92% , 50% 
+Santa Luzia do Norte, AL, 29º, 22º, 91% , 62% 
+Santa Luzia, PB, 36º, 21º, 87% , 20% 
+Santa Luzia do Itanhy, SE, 28º, 23º, 92% , 67% 
+Santa Luzia, MG, 26º, 18º, 96% , 64% 
+Santa Luzia, MA, 35º, 25º, 85% , 46% 
+São João Del Rei, MG, 26º, 16º, 97% , 53% 
+Santa Luzia do Oeste, RO, 34º, 23º, 92% , 52% 
+São Jorge do Patrocínio, PR, 32º, 23º, 87% , 53% 
+Sete de Setembro, RS, 30º, 17º, 97% , 45% 
+Sete Quedas, MS, 35º, 21º, 96% , 38% 
+Severiano de Almeida, RS, 29º, 16º, 100% , 47% 
+Setubinha, MG, 21º, 18º, 98% , 85% 
+Sete Lagoas, MG, 25º, 18º, 97% , 67% 
+Severínia, SP, 31º, 20º, 97% , 53% 
+Sete Barras, SP, 28º, 19º, 100% , 63% 
+Severiano Melo, RN, 37º, 24º, 77% , 28% 
+Sertãozinho, SP, 31º, 20º, 93% , 49% 
+Sertão Santana, RS, 27º, 17º, 98% , 62% 
+Sertão, RS, 29º, 15º, 100% , 44% 
+Sertãozinho, PB, 32º, 21º, 97% , 49% 
+Sertânia, PE, 34º, 19º, 86% , 27% 
+Sertanópolis, PR, 33º, 19º, 87% , 35% 
+Sertaneja, PR, 32º, 19º, 92% , 42% 
+Terra Roxa, SP, 28º, 21º, 97% , 68% 
+Terra Roxa, PR, 34º, 21º, 95% , 35% 
+Vila Flores, RS, 27º, 14º, 100% , 55% 
+Vila Flor, RN, 30º, 23º, 89% , 61% 
+Vila Boa, GO, 33º, 23º, 79% , 44% 
+Wanderlândia, TO, 33º, 23º, 87% , 49% 
+Vieirópolis, PB, 36º, 22º, 76% , 23% 
+Vila Bela da Santíssima Trindade, MT, 28º, 24º, 96% , 78% 
+Wanderley, BA, 34º, 23º, 63% , 32% 
+Vigia, PA, 34º, 25º, 87% , 52% 
+Wagner, BA, 31º, 21º, 92% , 40% 
+Wall Ferraz, PI, 39º, 27º, 48% , 18% 
+Votorantim, SP, 28º, 16º, 95% , 49% 
+Xexéu, PE, 30º, 20º, 99% , 52% 
+Zortéa, SC, 29º, 16º, 99% , 45% 
+Xinguara, PA, 34º, 25º, 86% , 50% 
+Zacarias, SP, 29º, 23º, 94% , 66% 
+Xique-Xique, BA, 37º, 24º, 68% , 24% 
+Xaxim, SC, 29º, 15º, 96% , 46% 
+Xapuri, AC, 33º, 23º, 98% , 55% 
+Xambrê, PR, 33º, 21º, 89% , 49% 
+Volta Redonda, RJ, 26º, 19º, 95% , 62% 
+Xambioá, TO, 32º, 25º, 93% , 57% 
+Wenceslau Guimarães, BA, 29º, 21º, 100% , 60% 
+Wenceslau Braz, MG, 25º, 15º, 99% , 61% 
+Volta Grande, MG, 26º, 19º, 98% , 66% 
+Wenceslau Braz, PR, 28º, 14º, 100% , 43% 
+Witmarsum, SC, 27º, 17º, 95% , 61% 
+Vitória da Conquista, BA, 28º, 18º, 98% , 48% 
+Vitorino, PR, 28º, 17º, 91% , 57% 
+Vitória do Xingu, PA, 34º, 25º, 88% , 54% 
+Vitória do Mearim, MA, 37º, 26º, 83% , 39% 
+Vitória Brasil, SP, 28º, 22º, 97% , 67% 
+Vitória do Jari, AP, 35º, 22º, 92% , 44% 
+Vitória de Santo Antão, PE, 30º, 21º, 95% , 51% 
+Vitória, ES, 25º, 22º, 93% , 80% 
+Visconde De Mauá, RJ, 21º, 14º, 99% , 81% 
+Virgolândia, MG, 23º, 19º, 95% , 67% 
+Vista Alegre do Alto, SP, 28º, 20º, 96% , 66% 
+Vista Alegre, RS, 29º, 16º, 100% , 47% 
+Vítor Meireles, SC, 27º, 17º, 95% , 61% 
+Virgínia, MG, 25º, 13º, 100% , 54% 
+Virmond, PR, 26º, 16º, 94% , 70% 
+Vista Gaúcha, RS, 30º, 17º, 99% , 50% 
+Vinhedo, SP, 29º, 17º, 94% , 42% 
+Viseu, PA, 31º, 26º, 86% , 65% 
+Virgem da Lapa, MG, 23º, 21º, 99% , 82% 
+Vila Velha, ES, 25º, 22º, 93% , 80% 
+Vila Pavão, ES, 26º, 21º, 89% , 72% 
+Vila Nova dos Martírios, MA, 35º, 25º, 75% , 41% 
+Vila Nova do Sul, RS, 27º, 16º, 94% , 55% 
+Vila Valério, ES, 25º, 21º, 97% , 74% 
+Vilhena, RO, 31º, 22º, 99% , 61% 
+Videira, SC, 27º, 16º, 96% , 42% 
+Victor Graeff, RS, 29º, 16º, 98% , 51% 
+Viçosa, AL, 29º, 20º, 98% , 55% 
+Vicentina, MS, 34º, 21º, 92% , 43% 
+Vicentinópolis, GO, 31º, 20º, 99% , 56% 
+Vicente Dutra, RS, 32º, 17º, 95% , 45% 
+Vidal Ramos, SC, 24º, 15º, 99% , 67% 
+Vila Nova do Piauí, PI, 38º, 25º, 50% , 19% 
+Viana, ES, 25º, 21º, 97% , 73% 
+Vianópolis, GO, 27º, 19º, 99% , 67% 
+Viadutos, RS, 30º, 15º, 100% , 44% 
+Viamão, RS, 26º, 19º, 96% , 69% 
+Viana, MA, 35º, 25º, 87% , 48% 
+Vertente do Lério, PE, 31º, 19º, 97% , 42% 
+Vespasiano, MG, 27º, 19º, 94% , 62% 
+Vertentes, PE, 32º, 19º, 99% , 36% 
+Veredinha, MG, 28º, 20º, 88% , 57% 
+Veranópolis, RS, 27º, 15º, 100% , 50% 
+Verê, PR, 29º, 16º, 100% , 53% 
+Verdejante, PE, 36º, 22º, 72% , 22% 
+Veríssimo, MG, 28º, 21º, 97% , 67% 
+Vera Mendes, PI, 38º, 26º, 53% , 19% 
+Vera Cruz, RN, 32º, 22º, 91% , 50% 
+Vera Cruz do Oeste, PR, 31º, 19º, 93% , 44% 
+Vera Cruz, SP, 31º, 19º, 90% , 54% 
+Vera Cruz, RS, 27º, 19º, 98% , 61% 
+Venturosa, PE, 32º, 18º, 96% , 32% 
+Ventania, PR, 27º, 15º, 98% , 47% 
+Vera, MT, 28º, 23º, 96% , 78% 
+Venha-Ver, RN, 34º, 20º, 84% , 24% 
+Vazante, MG, 27º, 21º, 94% , 70% 
+Varzedo, BA, 29º, 22º, 99% , 57% 
+Venda Nova do Imigrante, ES, 23º, 17º, 98% , 69% 
+Venâncio Aires, RS, 27º, 19º, 99% , 63% 
+Vassouras, RJ, 25º, 18º, 98% , 65% 
+Várzea Nova, BA, 30º, 18º, 97% , 41% 
+Várzea Paulista, SP, 28º, 16º, 97% , 46% 
+Várzea da Roça, BA, 33º, 22º, 93% , 35% 
+Várzea Grande, MT, 32º, 24º, 98% , 64% 
+Várzea do Poço, BA, 33º, 20º, 93% , 36% 
+Varzelândia, MG, 25º, 20º, 95% , 70% 
+Várzea Grande, PI, 39º, 27º, 49% , 18% 
+Várzea Branca, PI, 36º, 25º, 54% , 27% 
+Várzea da Palma, MG, 27º, 22º, 97% , 69% 
+Várzea, PB, 37º, 22º, 74% , 24% 
+Várzea, RN, 32º, 22º, 91% , 46% 
+Varjota, CE, 38º, 24º, 81% , 23% 
+Várzea Alegre, CE, 37º, 23º, 84% , 21% 
+Varginha, MG, 27º, 17º, 98% , 51% 
+Varjão de Minas, MG, 23º, 19º, 98% , 85% 
+Varre-Sai, RJ, 25º, 18º, 97% , 71% 
+Vargem Grande Paulista, SP, 25º, 15º, 100% , 55% 
+Varjão, GO, 29º, 22º, 95% , 54% 
+Vargem Grande do Sul, SP, 28º, 18º, 94% , 49% 
+Vargem Bonita, SC, 27º, 14º, 98% , 48% 
+Vargem Grande do Rio Pardo, MG, 26º, 19º, 91% , 56% 
+Vargem Bonita, MG, 25º, 18º, 99% , 67% 
+Vargem Grande, MA, 37º, 25º, 82% , 36% 
+Vargem Alegre, MG, 26º, 19º, 100% , 67% 
+Vargem Alta, ES, 20º, 18º, 100% , 90% 
+Vargem, SC, 27º, 14º, 100% , 45% 
+Vargem, SP, 26º, 17º, 98% , 61% 
+Valparaíso de Goiás, GO, 26º, 19º, 97% , 71% 
+Valinhos, SP, 29º, 17º, 94% , 42% 
+Valentim Gentil, SP, 29º, 21º, 95% , 67% 
+Valente, BA, 34º, 22º, 92% , 35% 
+Vargeão, SC, 28º, 14º, 99% , 50% 
+Vanini, RS, 27º, 13º, 100% , 51% 
+Valparaíso, SP, 32º, 22º, 87% , 51% 
+Vale Real, RS, 27º, 15º, 98% , 60% 
+Vale do Sol, RS, 26º, 14º, 100% , 62% 
+Valença do Piauí, PI, 37º, 25º, 62% , 26% 
+Vale Verde, RS, 27º, 16º, 100% , 62% 
+Valença, BA, 29º, 21º, 98% , 67% 
+Vale do Anari, RO, 33º, 23º, 99% , 60% 
+Vale de São Domingos, MT, 28º, 21º, 100% , 74% 
+Utinga, BA, 31º, 21º, 91% , 38% 
+Vale do Paraíso, RO, 32º, 23º, 99% , 63% 
+Vacaria, RS, 24º, 15º, 98% , 53% 
+Urussanga, SC, 29º, 17º, 99% , 56% 
+Urutaí, GO, 28º, 21º, 97% , 61% 
+Valença, RJ, 27º, 19º, 98% , 57% 
+Urupês, SP, 31º, 20º, 90% , 54% 
+Urupema, SC, 23º, 13º, 99% , 48% 
+Urucurituba, AM, 35º, 26º, 90% , 48% 
+Urupá, RO, 31º, 23º, 100% , 65% 
+Uruguaiana, RS, 30º, 18º, 94% , 51% 
+Uruoca, CE, 36º, 25º, 83% , 34% 
+Urucuia, MG, 25º, 22º, 96% , 77% 
+Uruçuí, PI, 35º, 22º, 72% , 39% 
+Urucará, AM, 36º, 25º, 78% , 40% 
+Uruçuca, BA, 29º, 22º, 100% , 63% 
+Uruburetama, CE, 34º, 22º, 95% , 35% 
+Uruará, PA, 29º, 23º, 98% , 73% 
+Urubici, SC, 22º, 14º, 100% , 57% 
+Urucânia, MG, 28º, 18º, 99% , 59% 
+Uru, SP, 31º, 21º, 86% , 57% 
+Uruaçu, GO, 33º, 25º, 81% , 48% 
+Uraí, PR, 31º, 17º, 94% , 41% 
+Urânia, SP, 29º, 22º, 96% , 69% 
+Uruana, GO, 29º, 22º, 89% , 63% 
+Uruana de Minas, MG, 31º, 22º, 87% , 51% 
+Urbano Santos, MA, 35º, 25º, 86% , 41% 
+União do Sul, MT, 35º, 23º, 91% , 48% 
+Urandi, BA, 34º, 20º, 79% , 34% 
+Upanema, RN, 38º, 24º, 69% , 27% 
+Uniflor, PR, 32º, 20º, 89% , 46% 
+União do Oeste, SC, 30º, 16º, 98% , 44% 
+União Paulista, SP, 30º, 21º, 96% , 62% 
+União dos Palmares, AL, 30º, 20º, 98% , 52% 
+Unistalda, RS, 29º, 17º, 90% , 51% 
+União de Minas, MG, 29º, 22º, 95% , 67% 
+União da Vitória, PR, 26º, 15º, 100% , 67% 
+União da Serra, RS, 27º, 14º, 100% , 54% 
+Una, BA, 29º, 21º, 100% , 66% 
+Unaí, MG, 27º, 21º, 96% , 69% 
+Umuarama, PR, 34º, 21º, 90% , 35% 
+União, PI, 39º, 25º, 81% , 26% 
+Umburanas, BA, 32º, 19º, 90% , 34% 
+Umbuzeiro, PB, 30º, 20º, 97% , 43% 
+Umburatiba, MG, 31º, 21º, 88% , 52% 
+Umbaúba, SE, 30º, 22º, 95% , 57% 
+Umirim, CE, 36º, 24º, 85% , 30% 
+Umarizal, RN, 37º, 23º, 70% , 23% 
+Uiraúna, PB, 36º, 22º, 76% , 23% 
+Uibaí, BA, 34º, 21º, 86% , 28% 
+Umari, CE, 36º, 23º, 74% , 21% 
+Uchoa, SP, 28º, 21º, 97% , 66% 
+Uirapuru, GO, 34º, 25º, 78% , 46% 
+Ubirajara, SP, 30º, 18º, 94% , 51% 
+Ubiretama, RS, 31º, 17º, 98% , 47% 
+Uberlândia, MG, 28º, 19º, 97% , 64% 
+Ulianópolis, PA, 36º, 25º, 81% , 42% 
+Uiramutã, RR, 33º, 20º, 79% , 37% 
+Ubarana, SP, 31º, 22º, 91% , 57% 
+Ubatã, BA, 29º, 22º, 99% , 61% 
+Ubaporanga, MG, 25º, 18º, 99% , 68% 
+Uberaba, MG, 29º, 19º, 95% , 59% 
+Ubajara, CE, 33º, 20º, 95% , 29% 
+Ubaitaba, BA, 29º, 21º, 100% , 61% 
+Ubaíra, BA, 27º, 20º, 99% , 62% 
+Ubatuba, SP, 21º, 18º, 99% , 88% 
+Turvolândia, MG, 27º, 17º, 99% , 50% 
+Ubaí, MG, 30º, 23º, 77% , 51% 
+Ubá, MG, 28º, 20º, 93% , 57% 
+Turvo, SC, 28º, 17º, 100% , 63% 
+Uauá, BA, 34º, 20º, 89% , 31% 
+Turvo, PR, 25º, 15º, 100% , 55% 
+Turvânia, GO, 30º, 22º, 93% , 54% 
+Uarini, AM, 34º, 24º, 95% , 56% 
+Tutóia, MA, 33º, 26º, 85% , 50% 
+Tururu, CE, 34º, 24º, 87% , 42% 
+Turvelândia, GO, 30º, 23º, 98% , 68% 
+Turuçu, RS, 24º, 16º, 100% , 77% 
+Turmalina, MG, 22º, 20º, 97% , 89% 
+Turmalina, SP, 29º, 22º, 98% , 67% 
+Turiúba, SP, 32º, 21º, 97% , 55% 
+Turilândia, MA, 33º, 24º, 92% , 55% 
+Turiaçu, MA, 31º, 25º, 86% , 62% 
+Tupiratins, TO, 35º, 23º, 98% , 46% 
+Tuparendi, RS, 31º, 17º, 100% , 46% 
+Tupirama, TO, 36º, 23º, 98% , 40% 
+Tupãssi, PR, 30º, 20º, 90% , 57% 
+Tupi Paulista, SP, 33º, 22º, 93% , 40% 
+Tupandi, RS, 27º, 15º, 98% , 59% 
+Tuparetama, PE, 34º, 18º, 88% , 25% 
+Tupanciretã, RS, 27º, 16º, 100% , 56% 
+Tupanci do Sul, RS, 27º, 15º, 99% , 50% 
+Tupanatinga, PE, 31º, 18º, 96% , 35% 
+Tupaciguara, MG, 27º, 19º, 100% , 64% 
+Tupã, SP, 32º, 20º, 79% , 45% 
+Tuntum, MA, 36º, 25º, 81% , 39% 
+Tunas, RS, 28º, 14º, 100% , 51% 
+Tumiritinga, MG, 28º, 21º, 92% , 64% 
+Tuneiras do Oeste, PR, 32º, 21º, 90% , 49% 
+Tunas do Paraná, PR, 26º, 14º, 100% , 56% 
+Tuiuti, SP, 27º, 16º, 100% , 55% 
+Tubarão, SC, 25º, 19º, 97% , 72% 
+Tufilândia, MA, 35º, 25º, 85% , 44% 
+Trizidela do Vale, MA, 37º, 26º, 78% , 37% 
+Tucumã, PA, 33º, 24º, 87% , 52% 
+Trombas, GO, 33º, 24º, 76% , 44% 
+Trombudo Central, SC, 27º, 18º, 96% , 62% 
+Tucano, BA, 36º, 22º, 92% , 27% 
+Tucuruí, PA, 32º, 25º, 89% , 61% 
+Triunfo Potiguar, RN, 37º, 23º, 72% , 24% 
+Triunfo, PB, 37º, 24º, 70% , 20% 
+Trindade, GO, 29º, 20º, 98% , 65% 
+Triunfo, PE, 32º, 18º, 87% , 25% 
+Triunfo, RS, 28º, 16º, 100% , 59% 
+Trindade, PE, 37º, 23º, 72% , 22% 
+Trindade do Sul, RS, 29º, 16º, 94% , 48% 
+Treze Tílias, SC, 28º, 14º, 99% , 47% 
+Treze de Maio, SC, 25º, 19º, 97% , 72% 
+Três Pontas, MG, 27º, 17º, 97% , 48% 
+Três Ranchos, GO, 27º, 22º, 91% , 70% 
+Três Rios, RJ, 29º, 19º, 95% , 54% 
+Três Marias, MG, 26º, 21º, 95% , 72% 
+Três Lagoas, MS, 33º, 23º, 97% , 51% 
+Três Passos, RS, 30º, 17º, 94% , 47% 
+Três Forquilhas, RS, 25º, 14º, 99% , 70% 
+Treviso, SC, 25º, 15º, 95% , 69% 
+Três Palmeiras, RS, 29º, 17º, 96% , 47% 
+Três de Maio, RS, 31º, 16º, 99% , 47% 
+Três Coroas, RS, 27º, 14º, 100% , 62% 
+Três Cachoeiras, RS, 22º, 19º, 98% , 88% 
+Três Corações, MG, 27º, 16º, 98% , 53% 
+Três Barras do Paraná, PR, 27º, 20º, 91% , 72% 
+Três Fronteiras, SP, 30º, 22º, 95% , 63% 
+Travesseiro, RS, 26º, 18º, 100% , 63% 
+Trancoso, BA, 27º, 23º, 97% , 63% 
+Tremembé, SP, 29º, 18º, 93% , 58% 
+Tremedal, BA, 32º, 20º, 87% , 38% 
+Três Arroios, RS, 30º, 15º, 100% , 45% 
+Tramandaí, RS, 23º, 21º, 93% , 79% 
+Três Barras, SC, 27º, 16º, 98% , 57% 
+Traipu, AL, 34º, 22º, 92% , 41% 
+Touros, RN, 31º, 24º, 84% , 51% 
+Trairi, CE, 32º, 25º, 83% , 51% 
+Tracuateua, PA, 32º, 24º, 91% , 57% 
+Trabiju, SP, 30º, 20º, 88% , 55% 
+Trairão, PA, 34º, 26º, 82% , 54% 
+Tracunhaém, PE, 30º, 21º, 96% , 54% 
+Toropi, RS, 27º, 14º, 100% , 56% 
+Torre de Pedra, SP, 29º, 16º, 97% , 46% 
+Torres, RS, 21º, 20º, 93% , 86% 
+Torrinha, SP, 29º, 17º, 97% , 51% 
+Toritama, PE, 33º, 19º, 98% , 34% 
+Torixoréu, MT, 32º, 23º, 93% , 55% 
+Tonantins, AM, 33º, 24º, 98% , 64% 
+Toledo, MG, 24º, 15º, 98% , 55% 
+Tombos, MG, 25º, 19º, 98% , 68% 
+Tomar do Geru, SE, 31º, 22º, 96% , 53% 
+Toledo, PR, 32º, 20º, 93% , 37% 
+Tomé-Açú, PA, 35º, 25º, 87% , 48% 
+Tocos do Moji, MG, 25º, 16º, 100% , 59% 
+Tomazina, PR, 29º, 16º, 94% , 45% 
+Tocantinópolis, TO, 35º, 26º, 83% , 42% 
+Tobias Barreto, SE, 33º, 22º, 96% , 44% 
+Tiradentes do Sul, RS, 31º, 16º, 90% , 48% 
+Tocantínia, TO, 36º, 23º, 96% , 40% 
+Tiradentes, MG, 25º, 16º, 98% , 54% 
+Tocantins, MG, 28º, 19º, 97% , 56% 
+Timóteo, MG, 28º, 21º, 98% , 65% 
+Tio Hugo, RS, 28º, 16º, 95% , 49% 
+Timbó Grande, SC, 24º, 15º, 100% , 54% 
+Timbó, SC, 25º, 19º, 99% , 74% 
+Timon, MA, 39º, 25º, 78% , 25% 
+Timbiras, MA, 37º, 25º, 82% , 37% 
+Timburi, SP, 28º, 17º, 97% , 55% 
+Timbé do Sul, SC, 27º, 16º, 98% , 67% 
+Timbaúba dos Batistas, RN, 37º, 23º, 70% , 23% 
+Tibau do Sul, RN, 29º, 24º, 90% , 59% 
+Tietê, SP, 30º, 17º, 94% , 43% 
+Tibau, RN, 31º, 24º, 81% , 55% 
+Tigrinhos, SC, 30º, 20º, 84% , 48% 
+Timbaúba, PE, 31º, 21º, 95% , 50% 
+Tijucas do Sul, PR, 23º, 16º, 99% , 64% 
+Tijucas, SC, 25º, 20º, 95% , 76% 
+Tianguá, CE, 32º, 20º, 91% , 36% 
+Theobroma, RO, 32º, 23º, 100% , 66% 
+Tunápolis, SC, 31º, 18º, 87% , 43% 
+Terra Santa, PA, 35º, 26º, 84% , 44% 
+Tesouro, MT, 30º, 23º, 95% , 65% 
+Tibagi, PR, 29º, 14º, 100% , 45% 
+Teutônia, RS, 27º, 15º, 100% , 62% 
+Terra Rica, PR, 32º, 22º, 74% , 43% 
+Terra Nova do Norte, MT, 35º, 23º, 88% , 50% 
+Terra Nova, PE, 37º, 23º, 77% , 22% 
+Terra Boa, PR, 31º, 20º, 93% , 48% 
+Terra Nova, BA, 32º, 21º, 97% , 50% 
+Terezópolis de Goiás, GO, 27º, 20º, 100% , 68% 
+Terezinha, PE, 30º, 18º, 100% , 40% 
+Terra Alta, PA, 34º, 24º, 89% , 49% 
+Terenos, MS, 33º, 23º, 93% , 54% 
+Teotônio Vilela, AL, 32º, 21º, 97% , 48% 
+Teresina, PI, 39º, 25º, 80% , 26% 
+Teresópolis, RJ, 21º, 14º, 100% , 72% 
+Teresina de Goiás, GO, 28º, 21º, 79% , 58% 
+Teolândia, BA, 29º, 22º, 100% , 59% 
+Teofilândia, BA, 33º, 22º, 90% , 36% 
+Teodoro Sampaio, SP, 32º, 21º, 84% , 41% 
+Tenório, PB, 33º, 19º, 91% , 30% 
+Tenente Portela, RS, 30º, 17º, 94% , 43% 
+Telêmaco Borba, PR, 30º, 16º, 99% , 38% 
+Telha, SE, 32º, 22º, 93% , 45% 
+Tenente Laurentino Cruz, RN, 34º, 20º, 84% , 29% 
+Tenente Ananias, RN, 36º, 22º, 78% , 22% 
+Tejuçuoca, CE, 36º, 23º, 89% , 27% 
+Teixeirópolis, RO, 33º, 23º, 98% , 57% 
+Teixeiras, MG, 26º, 17º, 99% , 57% 
+Tejupá, SP, 28º, 15º, 100% , 50% 
+Tefé, AM, 34º, 25º, 91% , 56% 
+Teixeira de Freitas, BA, 26º, 21º, 97% , 74% 
+Teixeira, PB, 34º, 20º, 82% , 25% 
+Teixeira Soares, PR, 27º, 15º, 99% , 56% 
+Taubaté, SP, 28º, 17º, 96% , 52% 
+Tavares, RS, 23º, 20º, 92% , 81% 
+Tatuí, SP, 28º, 16º, 97% , 47% 
+Tauá, CE, 36º, 23º, 73% , 23% 
+Tasso Fragoso, MA, 38º, 25º, 72% , 22% 
+Tarumirim, MG, 26º, 21º, 97% , 70% 
+Tartarugalzinho, AP, 35º, 23º, 91% , 43% 
+Tarrafas, CE, 36º, 24º, 74% , 20% 
+Taquarussu, MS, 33º, 23º, 84% , 43% 
+Tarabai, SP, 31º, 20º, 89% , 54% 
+Tarauacá, AC, 34º, 23º, 94% , 53% 
+Taquaruçu do Sul, RS, 31º, 17º, 95% , 44% 
+Taquarivaí, SP, 26º, 16º, 97% , 58% 
+Taquarituba, SP, 28º, 16º, 97% , 51% 
+Taquaritinga do Norte, PE, 31º, 19º, 95% , 37% 
+Tavares, PB, 35º, 19º, 89% , 21% 
+Taquari, RS, 28º, 16º, 100% , 59% 
+Taquarana, AL, 32º, 20º, 97% , 42% 
+Taquaral de Goiás, GO, 27º, 20º, 95% , 66% 
+Taquaraçu de Minas, MG, 26º, 18º, 97% , 62% 
+Taquaral, SP, 28º, 21º, 96% , 66% 
+Taquara, RS, 27º, 16º, 100% , 64% 
+Tapiraí, MG, 27º, 18º, 100% , 64% 
+Tapiraí, SP, 23º, 16º, 100% , 69% 
+Tapurah, MT, 30º, 23º, 99% , 68% 
+Tapiramutá, BA, 29º, 18º, 99% , 50% 
+Tapiratiba, SP, 28º, 18º, 97% , 50% 
+Tapes, RS, 24º, 20º, 93% , 78% 
+Tapira, MG, 24º, 16º, 100% , 66% 
+Tapira, PR, 34º, 22º, 85% , 37% 
+Tapejara, RS, 27º, 16º, 97% , 48% 
+Taperoá, BA, 29º, 22º, 96% , 69% 
+Taperoá, PB, 33º, 19º, 90% , 28% 
+Tapera, RS, 29º, 14º, 100% , 48% 
+Tapejara, PR, 33º, 21º, 84% , 37% 
+Taparuba, MG, 28º, 20º, 96% , 59% 
+Tapauá, AM, 34º, 24º, 96% , 61% 
+Tanque Novo, BA, 32º, 19º, 88% , 34% 
+Tanhaçu, BA, 34º, 21º, 90% , 31% 
+Tanque do Piauí, PI, 38º, 27º, 52% , 27% 
+Tanque D'Arca, AL, 32º, 20º, 98% , 43% 
+Tanquinho, BA, 34º, 22º, 94% , 38% 
+Tamboril do Piauí, PI, 36º, 26º, 50% , 29% 
+Tangará, SC, 27º, 17º, 95% , 43% 
+Tangará, RN, 34º, 22º, 91% , 37% 
+Tanabi, SP, 29º, 21º, 97% , 66% 
+Tamboril, CE, 35º, 23º, 79% , 25% 
+Tamboara, PR, 34º, 21º, 79% , 33% 
+Tangará da Serra, MT, 31º, 24º, 99% , 68% 
+Tanguá, RJ, 25º, 19º, 97% , 72% 
+Tambaú, SP, 29º, 19º, 94% , 51% 
+Taipas do Tocantins, TO, 35º, 24º, 82% , 40% 
+Taiobeiras, MG, 25º, 20º, 93% , 64% 
+Talismã, TO, 36º, 25º, 82% , 39% 
+Tamarana, PR, 30º, 17º, 96% , 40% 
+Tamandaré, PE, 27º, 24º, 85% , 75% 
+Taipu, RN, 33º, 22º, 89% , 42% 
+Taiúva, SP, 28º, 21º, 96% , 66% 
+Tailândia, PA, 35º, 24º, 87% , 51% 
+Taguatinga, TO, 33º, 22º, 71% , 39% 
+Taguatinga, DF, 27º, 19º, 96% , 67% 
+Taguaí, SP, 29º, 16º, 100% , 47% 
+Tacuru, MS, 33º, 22º, 88% , 47% 
+Taiaçu, SP, 28º, 21º, 96% , 66% 
+Taió, SC, 26º, 17º, 100% , 63% 
+Tabuleiro, MG, 28º, 19º, 94% , 58% 
+Tacima, PB, 32º, 22º, 92% , 43% 
+Tacaratu, PE, 34º, 19º, 96% , 31% 
+Taboleiro Grande, RN, 37º, 24º, 69% , 22% 
+Tacaimbó, PE, 29º, 18º, 100% , 43% 
+Tabocas do Brejo Velho, BA, 35º, 22º, 64% , 33% 
+Tabuleiro do Norte, CE, 39º, 24º, 72% , 24% 
+Taciba, SP, 31º, 20º, 90% , 53% 
+Tabocão, TO, 36º, 22º, 97% , 41% 
+Taboão da Serra, SP, 25º, 16º, 100% , 60% 
+Tabira, PE, 35º, 19º, 90% , 22% 
+Tabatinga, SP, 30º, 21º, 90% , 61% 
+Tabaí, RS, 27º, 15º, 100% , 61% 
+Tabatinga, AM, 31º, 23º, 100% , 68% 
+Tabaporã, MT, 36º, 25º, 84% , 42% 
+Suzano, SP, 26º, 17º, 98% , 54% 
+Tabapuã, SP, 28º, 21º, 97% , 66% 
+Sumidouro, RJ, 24º, 16º, 97% , 66% 
+Suzanápolis, SP, 32º, 21º, 98% , 55% 
+Sumaré, SP, 30º, 17º, 94% , 44% 
+Sussuapara, PI, 39º, 28º, 46% , 18% 
+Sumé, PB, 34º, 19º, 86% , 27% 
+Sulina, PR, 27º, 19º, 94% , 73% 
+Surubim, PE, 31º, 20º, 98% , 40% 
+Sud Mennucci, SP, 32º, 21º, 96% , 53% 
+Sucupira do Riachão, MA, 35º, 23º, 81% , 41% 
+Sul Brasil, SC, 30º, 16º, 95% , 45% 
+Sucupira, TO, 36º, 24º, 92% , 40% 
+Souto Soares, BA, 31º, 20º, 90% , 35% 
+Sucupira do Norte, MA, 35º, 25º, 60% , 30% 
+Sousa, PB, 37º, 24º, 69% , 21% 
+Sombrio, SC, 24º, 20º, 94% , 73% 
+Sorriso, MT, 30º, 23º, 95% , 70% 
+Soure, PA, 33º, 25º, 85% , 51% 
+Sooretama, ES, 25º, 21º, 99% , 82% 
+Sorocaba, SP, 28º, 16º, 96% , 49% 
+Sossego, PB, 32º, 18º, 97% , 32% 
+Sonora, MS, 30º, 24º, 91% , 63% 
+Solonópole, CE, 38º, 24º, 84% , 24% 
+Solidão, PE, 33º, 18º, 92% , 25% 
+Soledade de Minas, MG, 26º, 14º, 100% , 51% 
+Soledade, RS, 26º, 15º, 100% , 57% 
+Socorro do Piauí, PI, 37º, 27º, 47% , 26% 
+Solânea, PB, 31º, 21º, 96% , 47% 
+Sobrália, MG, 28º, 20º, 97% , 65% 
+Soledade, PB, 34º, 19º, 99% , 27% 
+Socorro, SP, 27º, 15º, 98% , 50% 
+Sobradinho, DF, 26º, 20º, 94% , 64% 
+Sobral, CE, 36º, 23º, 86% , 34% 
+Sobradinho, RS, 27º, 15º, 98% , 55% 
+Sobrado, PB, 31º, 21º, 96% , 51% 
+Sítio Novo, MA, 33º, 24º, 81% , 49% 
+Sítio Novo do Tocantins, TO, 36º, 26º, 74% , 38% 
+Sítio D'Abadia, GO, 29º, 20º, 91% , 55% 
+Sítio do Quinto, BA, 33º, 21º, 97% , 38% 
+Sítio Novo, RN, 33º, 21º, 94% , 39% 
+Sítio do Mato, BA, 37º, 24º, 65% , 30% 
+Siriri, SE, 30º, 22º, 96% , 57% 
+Siqueira Campos, PR, 28º, 16º, 96% , 49% 
+Sobradinho, BA, 36º, 23º, 73% , 29% 
+Sirinhaém, PE, 28º, 23º, 91% , 67% 
+Sinop, MT, 30º, 23º, 97% , 69% 
+Simplício Mendes, PI, 38º, 26º, 55% , 20% 
+Sinimbu, RS, 26º, 17º, 100% , 60% 
+Simolândia, GO, 32º, 23º, 78% , 41% 
+Simonésia, MG, 23º, 17º, 98% , 71% 
+Silves, AM, 35º, 25º, 88% , 46% 
+Silveiras, SP, 26º, 17º, 90% , 62% 
+Simão Pereira, MG, 28º, 19º, 97% , 55% 
+Simões Filho, BA, 30º, 22º, 97% , 59% 
+Simão Dias, SE, 33º, 20º, 99% , 37% 
+Simões, PI, 35º, 23º, 64% , 20% 
+Silvianópolis, MG, 27º, 17º, 96% , 60% 
+Silvânia, GO, 27º, 19º, 97% , 62% 
+Silveirânia, MG, 26º, 18º, 97% , 61% 
+Silvanópolis, TO, 34º, 24º, 87% , 55% 
+Sidrolândia, MS, 33º, 21º, 95% , 52% 
+Siderópolis, SC, 29º, 18º, 97% , 58% 
+Silveira Martins, RS, 27º, 14º, 100% , 57% 
+Silva Jardim, RJ, 27º, 20º, 94% , 67% 
+Sigefredo Pacheco, PI, 39º, 25º, 70% , 23% 
+Serrolândia, BA, 33º, 20º, 94% , 38% 
+Serro, MG, 21º, 17º, 100% , 91% 
+Serrinha, RN, 33º, 22º, 91% , 43% 
+Serrinha dos Pintos, RN, 36º, 22º, 76% , 25% 
+Serrinha, BA, 34º, 21º, 94% , 31% 
+Serraria, PB, 30º, 20º, 98% , 50% 
+Serranópolis de Minas, MG, 32º, 21º, 81% , 41% 
+Serranópolis do Iguaçu, PR, 32º, 20º, 100% , 47% 
+Serranos, MG, 24º, 16º, 96% , 59% 
+Serrita, PE, 36º, 22º, 71% , 22% 
+Serra Talhada, PE, 37º, 22º, 71% , 20% 
+Serrana, SP, 28º, 21º, 95% , 66% 
+Serrania, MG, 27º, 18º, 97% , 49% 
+Serranópolis, GO, 30º, 20º, 99% , 59% 
+Serrano do Maranhão, MA, 33º, 25º, 91% , 55% 
+Serra Preta, BA, 33º, 21º, 98% , 39% 
+Serra Negra do Norte, RN, 37º, 22º, 77% , 20% 
+Serra Redonda, PB, 31º, 20º, 96% , 44% 
+Serra Nova Dourada, MT, 32º, 23º, 97% , 57% 
+Serra Dourada, BA, 34º, 22º, 63% , 34% 
+Serra Negra, SP, 27º, 15º, 99% , 50% 
+Serra Grande, PB, 35º, 22º, 70% , 24% 
+Serra dos Aimorés, MG, 25º, 21º, 97% , 69% 
+Serra do Mel, RN, 35º, 22º, 83% , 32% 
+Serra do Salitre, MG, 24º, 18º, 98% , 73% 
+Serra do Ramalho, BA, 37º, 23º, 73% , 29% 
+Serra Do Navio, AP, 36º, 23º, 92% , 42% 
+Serra de São Bento, RN, 32º, 21º, 95% , 43% 
+Serra da Raiz, PB, 31º, 21º, 98% , 49% 
+Serra Azul de Minas, MG, 21º, 18º, 99% , 89% 
+Serra da Saudade, MG, 26º, 19º, 100% , 65% 
+Seropédica, RJ, 27º, 21º, 94% , 68% 
+Serra Azul, SP, 28º, 20º, 96% , 66% 
+Serra Alta, SC, 30º, 16º, 95% , 45% 
+Serra, ES, 25º, 22º, 98% , 79% 
+Serra Branca, PB, 34º, 19º, 95% , 26% 
+Seritinga, MG, 24º, 16º, 96% , 59% 
+Sério, RS, 25º, 15º, 99% , 65% 
+Sericita, MG, 26º, 17º, 98% , 58% 
+Seridó, PB, 31º, 18º, 96% , 34% 
+Sento Sé, BA, 34º, 25º, 64% , 29% 
+Seringueiras, RO, 28º, 23º, 100% , 83% 
+Serafina Corrêa, RS, 27º, 15º, 100% , 56% 
+Senhora do Porto, MG, 26º, 18º, 100% , 66% 
+Sengés, PR, 27º, 16º, 94% , 49% 
+Senhora dos Remédios, MG, 25º, 16º, 97% , 67% 
+Sentinela do Sul, RS, 25º, 19º, 98% , 70% 
+Senador Salgado Filho, RS, 31º, 17º, 97% , 47% 
+Senhor do Bonfim, BA, 32º, 20º, 94% , 36% 
+Senhora de Oliveira, MG, 26º, 17º, 99% , 58% 
+Senador Rui Palmeira, AL, 36º, 21º, 95% , 26% 
+Senador Sá, CE, 37º, 24º, 86% , 26% 
+Senador Pompeu, CE, 37º, 24º, 85% , 24% 
+Senador La Rocque, MA, 35º, 25º, 79% , 43% 
+Senador Modestino Gonçalves, MG, 27º, 20º, 89% , 62% 
+Senador José Porfírio, PA, 34º, 26º, 85% , 57% 
+Senador José Bento, MG, 26º, 16º, 98% , 49% 
+Senador Guiomard, AC, 34º, 23º, 94% , 56% 
+Senador Firmino, MG, 25º, 18º, 98% , 61% 
+Senador Georgino Avelino, RN, 29º, 23º, 86% , 63% 
+Senador Elói de Souza, RN, 34º, 22º, 90% , 38% 
+Senador Canedo, GO, 29º, 20º, 98% , 65% 
+Senador Alexandre Costa, MA, 36º, 24º, 83% , 39% 
+Senador Cortes, MG, 25º, 17º, 100% , 62% 
+Senador Amaral, MG, 23º, 14º, 100% , 60% 
+Sena Madureira, AC, 34º, 23º, 95% , 51% 
+Sem Peixe, MG, 27º, 18º, 97% , 63% 
+Selbach, RS, 29º, 14º, 100% , 47% 
+Sede Nova, RS, 30º, 17º, 95% , 46% 
+Seberi, RS, 30º, 17º, 100% , 50% 
+Segredo, RS, 28º, 15º, 100% , 52% 
+Sebastião Laranjeiras, BA, 33º, 21º, 82% , 34% 
+Sebastião Barros, PI, 38º, 26º, 47% , 20% 
+Sebastianópolis do Sul, SP, 31º, 20º, 97% , 56% 
+Saúde, BA, 31º, 20º, 93% , 42% 
+Seara, SC, 29º, 14º, 99% , 51% 
+Seabra, BA, 28º, 17º, 95% , 45% 
+Sebastião Leal, PI, 36º, 25º, 52% , 27% 
+Schroeder, SC, 25º, 19º, 100% , 75% 
+Selvíria, MS, 31º, 23º, 96% , 62% 
+Saudade do Iguaçu, PR, 27º, 19º, 95% , 71% 
+Saudades, SC, 31º, 17º, 94% , 45% 
+Satuba, AL, 29º, 23º, 91% , 62% 
+Sarzedo, MG, 25º, 17º, 99% , 64% 
+Sarutaiá, SP, 28º, 16º, 98% , 49% 
+Satubinha, MA, 36º, 26º, 83% , 39% 
+Sátiro Dias, BA, 34º, 21º, 96% , 36% 
+Saubara, BA, 29º, 23º, 96% , 66% 
+Sardoá, MG, 25º, 19º, 98% , 69% 
+Sarapuí, SP, 28º, 16º, 98% , 49% 
+Saquarema, RJ, 25º, 21º, 91% , 73% 
+Sarandi, PR, 33º, 20º, 80% , 36% 
+Sapucaia do Sul, RS, 27º, 17º, 100% , 64% 
+Sarandi, RS, 29º, 16º, 98% , 42% 
+Sapucaia, RJ, 26º, 16º, 100% , 63% 
+Sapucaia, PA, 34º, 25º, 87% , 50% 
+Sapucaí-Mirim, MG, 23º, 14º, 100% , 58% 
+São Vicente Ferrer, PE, 29º, 19º, 100% , 53% 
+São Vicente Ferrer, MA, 34º, 25º, 89% , 52% 
+São Vicente do Sul, RS, 27º, 18º, 98% , 59% 
+Sapé, PB, 31º, 21º, 96% , 51% 
+Sapeaçu, BA, 30º, 22º, 99% , 56% 
+São Vicente do Seridó, PB, 31º, 18º, 96% , 34% 
+São Vicente de Minas, MG, 26º, 15º, 96% , 63% 
+Sapopema, PR, 29º, 15º, 100% , 47% 
+Sapezal, MT, 32º, 22º, 98% , 63% 
+São Vicente, SP, 24º, 22º, 86% , 81% 
+São Valério do Sul, RS, 30º, 17º, 94% , 45% 
+São Valério da Natividade, TO, 35º, 25º, 84% , 40% 
+São Vicente, RN, 35º, 20º, 86% , 28% 
+São Valentim do Sul, RS, 27º, 15º, 100% , 57% 
+São Vendelino, RS, 26º, 14º, 100% , 63% 
+São Tomé, PR, 33º, 21º, 90% , 44% 
+São Valentim, RS, 31º, 17º, 93% , 45% 
+São Tomé das Letras, MG, 25º, 16º, 96% , 53% 
+São Tomé, RN, 35º, 21º, 90% , 32% 
+São Tomás de Aquino, MG, 27º, 18º, 97% , 56% 
+São Tiago, MG, 25º, 16º, 98% , 51% 
+São Sebastião do Uatumã, AM, 36º, 26º, 85% , 42% 
+São Sebastião do Umbuzeiro, PB, 33º, 19º, 91% , 31% 
+São Sebastião do Rio Verde, MG, 26º, 17º, 100% , 60% 
+São Sebastião do Tocantins, TO, 36º, 26º, 78% , 42% 
+São Simão, SP, 28º, 20º, 94% , 61% 
+São Simão, GO, 29º, 22º, 95% , 70% 
+São Sebastião do Rio Preto, MG, 27º, 19º, 99% , 65% 
+São Sepé, RS, 28º, 18º, 97% , 51% 
+São Sebastião do Alto, RJ, 22º, 18º, 96% , 73% 
+São Sebastião do Oeste, MG, 27º, 18º, 97% , 60% 
+São Sebastião do Caí, RS, 28º, 18º, 99% , 61% 
+São Sebastião do Anta, MG, 27º, 18º, 96% , 62% 
+São Sebastião do Paraíso, MG, 26º, 19º, 97% , 66% 
+São Sebastião de Lagoa de Roça, PB, 30º, 19º, 100% , 47% 
+São Sebastião do Passe, BA, 32º, 22º, 98% , 50% 
+São Sebastião do Maranhão, MG, 22º, 19º, 98% , 89% 
+São Sebastião da Grama, SP, 25º, 19º, 91% , 65% 
+São Sebastião, AL, 33º, 21º, 97% , 42% 
+São Sebastião da Amoreira, PR, 31º, 19º, 83% , 39% 
+São Sebastião, SP, 21º, 19º, 100% , 85% 
+São Sebastião, DF, 27º, 19º, 97% , 63% 
+São Sebastião da Boa Vista, PA, 34º, 25º, 85% , 52% 
+São Sebastião da Bela Vista, MG, 27º, 17º, 95% , 56% 
+São Sebastião da Vargem Alegre, MG, 22º, 17º, 100% , 82% 
+São Roberto, MA, 35º, 24º, 88% , 45% 
+São Raimundo Nonato, PI, 36º, 25º, 58% , 26% 
+São Romão, MG, 25º, 22º, 94% , 77% 
+São Salvador do Tocantins, TO, 36º, 25º, 83% , 37% 
+São Raimundo do Doca Bezerra, MA, 35º, 24º, 84% , 41% 
+São Raimundo das Mangabeiras, MA, 38º, 25º, 71% , 25% 
+São Roque do Canaã, ES, 26º, 21º, 94% , 75% 
+São Roque de Minas, MG, 26º, 19º, 99% , 66% 
+São Roque, SP, 26º, 15º, 99% , 53% 
+São Rafael, RN, 37º, 24º, 75% , 31% 
+São Pedro dos Ferros, MG, 28º, 19º, 98% , 60% 
+São Pedro dos Crentes, MA, 36º, 24º, 78% , 31% 
+São Pedro do Ivaí, PR, 33º, 20º, 89% , 36% 
+São Pedro do Piauí, PI, 37º, 24º, 76% , 28% 
+São Pedro do Paraná, PR, 33º, 23º, 78% , 47% 
+São Pedro do Sul, RS, 27º, 18º, 100% , 58% 
+São Pedro do Turvo, SP, 30º, 17º, 95% , 44% 
+São Pedro do Suaçuí, MG, 23º, 19º, 99% , 83% 
+São Pedro do Iguaçu, PR, 29º, 21º, 90% , 59% 
+São Pedro da União, MG, 26º, 16º, 99% , 55% 
+São Pedro da Serra, RS, 25º, 14º, 100% , 65% 
+São Pedro do Butiá, RS, 31º, 18º, 93% , 44% 
+São Pedro da Aldeia, RJ, 26º, 21º, 92% , 66% 
+São Pedro das Missões, RS, 31º, 16º, 99% , 49% 
+São Pedro da Água Branca, MA, 35º, 25º, 81% , 43% 
+São Pedro da Cipa, MT, 31º, 23º, 100% , 68% 
+São Pedro de Alcântara, SC, 21º, 18º, 98% , 87% 
+São Paulo do Potengi, RN, 33º, 22º, 94% , 42% 
+São Pedro, SP, 29º, 16º, 100% , 49% 
+São Paulo de Olivença, AM, 32º, 24º, 99% , 64% 
+São Pedro, RN, 33º, 22º, 90% , 42% 
+São Paulo das Missões, RS, 31º, 16º, 99% , 49% 
+São Patrício, GO, 31º, 22º, 87% , 54% 
+São Paulo, SP, 26º, 16º, 99% , 57% 
+São Nicolau, RS, 31º, 17º, 93% , 51% 
+São Miguel dos Campos, AL, 30º, 21º, 94% , 61% 
+São Miguel dos Milagres, AL, 29º, 23º, 87% , 62% 
+São Miguel do Tapuio, PI, 37º, 24º, 70% , 21% 
+São Miguel do Tocantins, TO, 35º, 26º, 75% , 42% 
+São Miguel do Oeste, SC, 30º, 18º, 92% , 43% 
+São Miguel do Passa Quatro, GO, 29º, 20º, 97% , 58% 
+São Miguel do Iguaçu, PR, 32º, 20º, 98% , 45% 
+São Miguel do Guamá, PA, 34º, 24º, 92% , 51% 
+São Miguel do Guaporé, RO, 29º, 23º, 100% , 75% 
+São Miguel do Araguaia, GO, 34º, 25º, 88% , 50% 
+São Miguel de Touros, RN, 31º, 23º,70%,
+São Miguel do Gostoso, RN, 32º, 23º, 88% , 48% 
+São Miguel do Fidalgo, PI, 38º, 27º, 43% , 25% 
+São Miguel de Taipú, PB, 31º, 21º, 96% , 51% 
+São Miguel do Anta, MG, 25º, 17º, 97% , 69% 
+São Miguel do Aleixo, SE, 34º, 21º, 98% , 37% 
+São Mateus do Maranhão, MA, 38º, 26º, 78% , 34% 
+São Miguel Arcanjo, SP, 25º, 16º, 99% , 61% 
+São Miguel das Matas, BA, 29º, 22º, 98% , 56% 
+São Miguel da Boa Vista, SC, 31º, 17º, 95% , 47% 
+São Miguel da Baixa Grande, PI, 39º, 27º, 59% , 19% 
+São Miguel das Missões, RS, 30º, 17º, 96% , 50% 
+São Miguel, RN, 34º, 21º, 84% , 24% 
+São Mateus do Sul, PR, 26º, 18º, 96% , 53% 
+São Mateus, ES, 24º, 21º, 100% , 87% 
+São Martinho, RS, 26º, 18º, 100% , 62% 
+São Martinho da Serra, RS, 27º, 15º, 98% , 56% 
+São Manuel, SP, 30º, 16º, 93% , 39% 
+São Marcos, RS, 27º, 16º, 100% , 56% 
+São Mamede, PB, 37º, 22º, 81% , 20% 
+São Martinho, SC, 24º, 18º, 99% , 75% 
+São Manoel do Paraná, PR, 33º, 21º, 90% , 41% 
+São Luiz Gonzaga, RS, 30º, 17º, 94% , 50% 
+São Luís Gonzaga do Maranhão, MA, 35º, 25º, 86% , 44% 
+São Luís do Quitunde, AL, 31º, 21º, 97% , 52% 
+São Luiz do Norte, GO, 31º, 23º, 84% , 54% 
+São Luiz do Paraitinga, SP, 25º, 15º, 99% , 54% 
+São Luiz, RR, 37º, 23º, 84% , 34% 
+São Luís do Piauí, PI, 38º, 26º, 59% , 19% 
+São Luís do Curu, CE, 36º, 24º, 87% , 33% 
+São Luís, MA, 31º, 26º, 84% , 64% 
+São Lourenço do Piauí, PI, 37º, 26º, 58% , 25% 
+São Lourenço da Mata, PE, 29º, 21º, 97% , 60% 
+São Lourenço, MG, 27º, 14º, 100% , 49% 
+São Ludgero, SC, 25º, 18º, 100% , 72% 
+São Lourenço do Sul, RS, 24º, 19º, 96% , 76% 
+São Lourenço da Serra, SP, 22º, 15º, 99% , 72% 
+São Luís de Montes Belos, GO, 31º, 21º, 95% , 57% 
+São Lourenço do Oeste, SC, 28º, 17º, 91% , 53% 
+São José dos Ramos, PB, 33º, 21º, 94% , 43% 
+São José dos Pinhais, PR, 23º, 16º, 99% , 66% 
+São José dos Quatro Marcos, MT, 30º, 24º, 98% , 72% 
+São José dos Cordeiros, PB, 33º, 19º, 90% , 28% 
+São Julião, PI, 38º, 24º, 69% , 21% 
+São Leopoldo, RS, 27º, 17º, 100% , 64% 
+São José dos Campos, SP, 28º, 17º, 97% , 46% 
+São José do Vale do Rio Preto, RJ, 23º, 15º, 100% , 68% 
+São José do Seridó, RN, 37º, 22º, 80% , 23% 
+São José do Sul, RS, 26º, 17º, 100% , 63% 
+São José do Xingu, MT, 31º, 23º, 98% , 67% 
+São José do Sabugi, PB, 36º, 21º, 85% , 22% 
+São José do Rio Preto, SP, 31º, 20º, 98% , 55% 
+São José do Rio Claro, MT, 29º, 23º, 100% , 76% 
+São José do Povo, MT, 32º, 23º, 100% , 63% 
+São José do Peixe, PI, 38º, 26º, 47% , 28% 
+São José do Divino, PI, 38º, 25º, 77% , 30% 
+São José do Norte, RS, 22º, 19º, 92% , 81% 
+São José do Mantimento, MG, 26º, 18º, 96% , 67% 
+São José do Jacuípe, BA, 34º, 21º, 90% , 34% 
+São José do Hortêncio, RS, 27º, 15º, 100% , 60% 
+São José do Egito, PE, 34º, 19º, 92% , 22% 
+São José do Cerrito, SC, 25º, 17º, 96% , 52% 
+São José do Herval, RS, 27º, 15º, 98% , 56% 
+São José do Cedro, SC, 30º, 16º, 99% , 43% 
+São José do Barreiro, SP, 27º, 19º, 93% , 60% 
+São José do Bonfim, PB, 36º, 20º, 86% , 22% 
+São José do Calçado, ES, 24º, 18º, 100% , 72% 
+São José do Brejo do Cruz, PB, 37º, 23º, 71% , 23% 
+São José de Caiana, PB, 35º, 23º, 70% , 23% 
+São José de Princesa, PB, 34º, 18º, 89% , 22% 
+São José da Vitória, BA, 28º, 20º, 100% , 66% 
+São José de Espinharas, PB, 37º, 23º, 72% , 24% 
+São José da Varginha, MG, 26º, 17º, 96% , 66% 
+São José das Missões, RS, 30º, 16º, 99% , 43% 
+São José de Ribamar, MA, 30º, 27º, 85% , 69% 
+São José de Ubá, RJ, 27º, 20º, 98% , 64% 
+São José da Laje, AL, 31º, 20º, 97% , 47% 
+São José da Bela Vista, SP, 29º, 18º, 95% , 54% 
+São José da Boa Vista, PR, 28º, 16º, 96% , 47% 
+São José da Coroa Grande, PE, 28º, 24º, 87% , 70% 
+São José da Barra, MG, 27º, 19º, 97% , 63% 
+São José da Lapa, MG, 24º, 17º, 99% , 69% 
+São Jorge do Ivaí, PR, 33º, 21º, 79% , 34% 
+São Joaquim do Monte, PE, 29º, 19º, 100% , 48% 
+São Joaquim de Bicas, MG, 26º, 17º, 100% , 62% 
+São Joaquim da Barra, SP, 30º, 19º, 96% , 52% 
+São João Evangelista, MG, 22º, 19º, 99% , 84% 
+São Joaquim, SC, 21º, 14º, 100% , 56% 
+São João do Sabugi, RN, 38º, 23º, 76% , 20% 
+São João do Rio do Peixe, PB, 38º, 24º, 75% , 20% 
+São João do Tigre, PB, 34º, 18º, 89% , 24% 
+São João dos Patos, MA, 33º, 23º, 83% , 40% 
+São João do Sóter, MA, 36º, 25º, 82% , 36% 
+São João do Paraíso, MA, 34º, 25º, 86% , 45% 
+São João do Paraíso, MG, 27º, 19º, 87% , 52% 
+São João do Itaperiú, SC, 25º, 20º, 96% , 76% 
+São João do Oeste, SC, 32º, 18º, 91% , 36% 
+São João do Manhuaçu, MG, 24º, 17º, 99% , 61% 
+São João do Ivaí, PR, 32º, 20º, 84% , 37% 
+São João do Pacuí, MG, 24º, 21º, 92% , 77% 
+São João do Jaguaribe, CE, 38º, 25º, 71% , 21% 
+São João de Meriti, RJ, 26º, 20º, 96% , 68% 
+São João de Pirabas, PA, 31º, 25º, 90% , 62% 
+São João do Arraial, PI, 38º, 24º, 81% , 30% 
+São João de Iracema, SP, 32º, 21º, 96% , 54% 
+São João das Missões, MG, 33º, 22º, 84% , 39% 
+São João do Caiuá, PR, 33º, 21º, 76% , 38% 
+São João das Duas Pontes, SP, 32º, 20º, 97% , 54% 
+São João da Serra, PI, 39º, 26º, 72% , 26% 
+São João da Paraúna, GO, 30º, 22º, 95% , 53% 
+São João da Barra, RJ, 26º, 22º, 91% , 67% 
+São João da Boa Vista, SP, 28º, 18º, 92% , 51% 
+São João da Ponta, PA, 32º, 25º, 91% , 60% 
+São João da Baliza, RR, 37º, 23º, 88% , 34% 
+São João Batista do Glória, MG, 27º, 20º, 93% , 65% 
+São João da Mata, MG, 26º, 16º, 98% , 51% 
+São Gonçalo dos Campos, BA, 33º, 21º, 98% , 42% 
+São João, PR, 27º, 18º, 94% , 72% 
+São Gonçalo do Rio Abaixo, MG, 25º, 18º, 100% , 66% 
+São Jerônimo, RS, 27º, 20º, 97% , 61% 
+São Gonçalo do Rio Preto, MG, 26º, 19º, 92% , 63% 
+São Gotardo, MG, 24º, 17º, 100% , 68% 
+São João do Sul, SC, 25º, 21º, 95% , 71% 
+São Gonçalo do Pará, MG, 27º, 18º, 98% , 62% 
+São Gonçalo do Piauí, PI, 37º, 26º, 64% , 29% 
+São Gonçalo do Amarante, RN, 31º, 23º, 89% , 55% 
+São João Batista, SC, 22º, 19º, 97% , 85% 
+São Gonçalo do Amarante, CE, 34º, 25º, 85% , 42% 
+São Geraldo do Baixio, MG, 25º, 21º, 97% , 73% 
+São Gonçalo, RJ, 25º, 21º, 91% , 72% 
+São Geraldo do Araguaia, PA, 34º, 25º, 88% , 52% 
+São Geraldo, MG, 25º, 17º, 100% , 70% 
+São Francisco do Sul, SC, 24º, 21º, 94% , 80% 
+São Geraldo da Piedade, MG, 26º, 20º, 97% , 68% 
+São Gabriel da Cachoeira, AM, 33º, 24º, 98% , 58% 
+São Francisco do Piauí, PI, 38º, 26º, 51% , 29% 
+São Francisco do Pará, PA, 35º, 24º, 89% , 47% 
+São Francisco do Oeste, RN, 38º, 24º, 74% , 23% 
+São Gabriel, RS, 29º, 18º, 97% , 49% 
+São Francisco, PB, 36º, 22º, 75% , 23% 
+São Francisco do Glória, MG, 23º, 17º, 96% , 75% 
+São Francisco do Brejão, MA, 35º, 25º, 78% , 40% 
+São Francisco de Paula, MG, 26º, 16º, 96% , 62% 
+São Francisco de Goiás, GO, 27º, 21º, 95% , 71% 
+São Francisco de Sales, MG, 29º, 23º, 95% , 69% 
+São Francisco de Itabapoana, RJ, 26º, 22º, 91% , 70% 
+São Francisco, SE, 32º, 22º, 94% , 48% 
+São Francisco, SP, 32º, 21º, 97% , 52% 
+São Félix do Xingu, PA, 34º, 24º, 95% , 54% 
+São Félix de Minas, MG, 25º, 20º, 91% , 71% 
+São Felipe, BA, 29º, 21º, 100% , 61% 
+São Félix do Araguaia, MT, 36º, 24º, 97% , 45% 
+São Félix do Tocantins, TO, 36º, 23º, 92% , 30% 
+São Félix de Balsas, MA, 37º, 24º, 67% , 35% 
+São Francisco, MG, 26º, 22º, 88% , 72% 
+São Félix do Coribe, BA, 35º, 23º, 81% , 34% 
+São Francisco do Guaporé, RO, 27º, 24º, 95% , 82% 
+São Domingos do Prata, MG, 26º, 17º, 100% , 66% 
+São Domingos do Azeitão, MA, 34º, 25º, 60% , 30% 
+São Domingos do Araguaia, PA, 35º, 25º, 86% , 46% 
+São Domingos de Pombal, PB, 38º, 23º, 73% , 21% 
+São Domingos do Cariri, PB, 34º, 20º, 95% , 27% 
+São Domingos do Norte, ES, 27º, 21º, 98% , 67% 
+São Domingos das Dores, MG, 27º, 18º, 96% , 62% 
+São Domingos do Capim, PA, 35º, 24º, 91% , 47% 
+São Domingos, GO, 31º, 21º, 75% , 42% 
+São Domingos, SC, 29º, 18º, 96% , 44% 
+São Domingos, BA, 35º, 22º, 88% , 28% 
+São Carlos do Ivaí, PR, 33º, 21º, 89% , 42% 
+São Carlos - SP, SP, 29º, 17º, 95% , 44% 
+São Caetano de Odivelas, PA, 33º, 25º, 85% , 53% 
+São Caetano do Sul, SP, 24º, 16º, 99% , 64% 
+São Carlos - SC, SC, 31º, 18º, 89% , 46% 
+São Bernardo do Campo, SP, 23º, 16º, 100% , 70% 
+São Caetano, PE, 29º, 18º, 98% , 46% 
+São Braz do Piauí, PI, 38º, 24º, 53% , 20% 
+São Borja, RS, 31º, 18º, 94% , 48% 
+São Bonifácio, SC, 24º, 16º, 98% , 67% 
+São Bento do Tocantins, TO, 35º, 25º, 84% , 45% 
+São Bento do Trairi, RN, 34º, 20º, 90% , 35% 
+São Bernardo, MA, 39º, 25º, 82% , 31% 
+São Bento do Una, PE, 32º, 19º, 98% , 33% 
+São Bento do Sul, SC, 22º, 16º, 100% , 77% 
+São Bento do Norte, RN, 35º, 23º, 83% , 36% 
+São Bento Abade, MG, 25º, 16º, 94% , 65% 
+São Bento, MA, 32º, 25º, 87% , 57% 
+São Benedito do Sul, PE, 27º, 18º, 100% , 58% 
+São Benedito, CE, 32º, 19º, 97% , 29% 
+São Bento de Pombal, PB, 37º, 22º, 77% , 20% 
+Santos, SP, 24º, 19º, 97% , 80% 
+Santópolis do Aguapeí, SP, 31º, 21º, 88% , 56% 
+Santo Hipólito, MG, 24º, 21º, 97% , 79% 
+Santos Dumont, MG, 25º, 17º, 100% , 60% 
+Santo Cristo, RS, 31º, 17º, 98% , 48% 
+Santo Inácio, PR, 31º, 20º, 88% , 51% 
+Santo Estevão, BA, 34º, 21º, 98% , 38% 
+Santo Expedito, SP, 33º, 21º, 74% , 41% 
+Santo Augusto, RS, 30º, 17º, 96% , 47% 
+Santo Antônio dos Milagres, PI, 39º, 28º, 47% , 22% 
+Santo Antônio do Sudoeste, PR, 29º, 17º, 99% , 46% 
+Santo Antônio do Palma, RS, 27º, 14º, 100% , 55% 
+Santo Antônio do Rio Abaixo, MG, 26º, 19º, 99% , 68% 
+Santo Antônio do Retiro, MG, 27º, 19º, 87% , 53% 
+Santo Antônio do Tauá, PA, 34º, 24º, 89% , 49% 
+Santo Antônio do Paraíso, PR, 29º, 16º, 98% , 45% 
+Santo Antônio do Planalto, RS, 29º, 16º, 99% , 51% 
+Santo Antônio do Monte, MG, 26º, 17º, 98% , 63% 
+Santo Antônio do Descoberto, GO, 27º, 20º, 97% , 66% 
+Santo Antônio do Grama, MG, 27º, 17º, 100% , 65% 
+Santo Antônio do Jacinto, MG, 30º, 19º, 98% , 48% 
+Santo Antônio do Aracanguá, SP, 31º, 22º, 93% , 57% 
+Santo Antônio do Leste, MT, 30º, 23º, 96% , 67% 
+Santo Antônio do Jardim, SP, 27º, 18º, 92% , 59% 
+Santo Antônio do Amparo, MG, 26º, 16º, 98% , 63% 
+Santo Antônio do Aventureiro, MG, 24º, 17º, 99% , 72% 
+Santo Antônio de Goiás, GO, 29º, 21º, 97% , 64% 
+Santo Antônio de Pádua, RJ, 28º, 20º, 97% , 60% 
+Santo Antônio de Jesus, BA, 30º, 21º, 98% , 56% 
+Santo Antônio da Platina, PR, 30º, 17º, 95% , 43% 
+Santo Antônio de Posse, SP, 29º, 20º, 88% , 54% 
+Santo Antônio da Patrulha, RS, 26º, 19º, 99% , 68% 
+Santo Antônio das Missões, RS, 30º, 16º, 94% , 50% 
+Santo Antônio de Lisboa, PI, 32º, 21º,26%,
+Santo Amaro das Brotas, SE, 30º, 23º, 95% , 62% 
+Santo Antônio da Alegria, SP, 26º, 19º, 94% , 67% 
+Santo André, PB, 33º, 19º, 93% , 30% 
+Santo Ângelo, RS, 31º, 17º, 100% , 49% 
+Santo Anastácio, SP, 33º, 22º, 78% , 38% 
+Santo Amaro da Imperatriz, SC, 20º, 18º, 99% , 91% 
+Santo André, SP, 22º, 15º, 100% , 72% 
+Santo Antônio, RN, 33º, 22º, 91% , 43% 
+Santo Amaro, BA, 31º, 22º, 99% , 58% 
+Santarém, PA, 31º, 26º, 82% , 58% 
+Santanópolis, BA, 33º, 22º, 94% , 41% 
+Santiago do Sul, SC, 30º, 17º, 98% , 44% 
+Santana dos Montes, MG, 25º, 16º, 98% , 69% 
+Santarém, PB, 36º, 22º, 74% , 22% 
+Santana dos Garrotes, PB, 37º, 22º, 76% , 20% 
+Santana do Seridó, RN, 35º, 20º, 85% , 28% 
+Santana do Paraíso, MG, 26º, 19º, 99% , 72% 
+Santana do Mundaú, AL, 29º, 20º, 96% , 54% 
+Santana do Maranhão, MA, 36º, 25º, 86% , 38% 
+Santana do São Francisco, SE, 30º, 22º, 96% , 58% 
+Santana do Garambéu, MG, 24º, 15º, 97% , 68% 
+Santana do Ipanema, AL, 33º, 21º, 95% , 36% 
+Santana do Manhuaçu, MG, 23º, 18º, 97% , 79% 
+Santana do Deserto, MG, 26º, 17º, 98% , 65% 
+Santana do Cariri, CE, 34º, 21º, 68% , 22% 
+Santana do Araguaia, PA, 34º, 25º, 92% , 57% 
+Santana do Jacaré, MG, 26º, 16º, 97% , 64% 
+Santana de Parnaíba, SP, 26º, 16º, 99% , 53% 
+Santana de Mangueira, PB, 36º, 21º, 72% , 21% 
+Santana de Cataguases, MG, 25º, 19º, 97% , 71% 
+Santa Terezinha do Tocantins, TO, 34º, 24º, 86% , 48% 
+Santana da Boa Vista, RS, 27º, 14º, 100% , 56% 
+Santana, BA, 34º, 22º, 67% , 34% 
+Santana, AP, 34º, 24º, 89% , 50% 
+Santaluz, BA, 34º, 21º, 92% , 26% 
+Santa Terezinha do Progresso, SC, 30º, 18º, 88% , 46% 
+Santa Terezinha de Goiás, GO, 33º, 25º, 81% , 49% 
+Santa Terezinha, MT, 35º, 24º, 100% , 51% 
+Santa Terezinha, SC, 26º, 16º, 97% , 62% 
+Santa Terezinha de Itaipu, PR, 32º, 22º, 97% , 46% 
+Santa Tereza do Tocantins, TO, 35º, 22º, 91% , 45% 
+Santa Tereza do Oeste, PR, 30º, 19º, 94% , 43% 
+Santa Tereza, RS, 27º, 15º, 97% , 61% 
+Santa Tereza de Goiás, GO, 34º, 25º, 74% , 42% 
+Santa Teresinha, PB, 36º, 22º, 74% , 24% 
+Santa Rosa do Piauí, PI, 39º, 27º, 41% , 17% 
+Santa Rosa do Purus, AC, 33º, 23º, 100% , 52% 
+Santa Rosa do Tocantins, TO, 35º, 24º, 92% , 51% 
+Santa Rosa de Lima, SE, 30º, 22º, 96% , 56% 
+Santa Rosa de Lima, SC, 24º, 19º, 92% , 72% 
+Santa Rosa de Goiás, GO, 28º, 19º, 93% , 54% 
+Santa Rosa do Sul, SC, 25º, 20º, 96% , 71% 
+Santa Rosa da Serra, MG, 23º, 18º, 99% , 82% 
+Santa Rosa, RS, 31º, 17º, 93% , 46% 
+Santa Rita do Pardo, MS, 32º, 21º, 95% , 53% 
+Santa Rita do Tocantins, TO, 34º, 23º, 93% , 49% 
+Santa Rita do Passa Quatro, SP, 28º, 20º, 92% , 62% 
+Santa Rita do Novo Destino, GO, 30º, 21º, 88% , 52% 
+Santa Rita do Trivelato, MT, 31º, 23º, 100% , 68% 
+Santa Rita do Sapucaí, MG, 27º, 17º, 95% , 51% 
+Santa Rita do Itueto, MG, 25º, 20º, 97% , 71% 
+Santa Rita de Jacutinga, MG, 24º, 17º, 100% , 66% 
+Santa Rita do Araguaia, GO, 29º, 20º, 99% , 64% 
+Santa Rita do Ibitipoca, MG, 23º, 16º, 100% , 63% 
+Santa Rita de Caldas, MG, 25º, 14º, 100% , 51% 
+Santa Rita de Minas, MG, 24º, 17º, 96% , 70% 
+Santa Rita de Cássia, BA, 37º, 25º, 62% , 25% 
+Santa Rita D'Oeste, SP, 30º, 22º, 97% , 64% 
+Santa Rita, MA, 34º, 25º, 88% , 51% 
+Santa Rita, PB, 30º, 22º, 96% , 52% 
+Santa Quitéria do Maranhão, MA, 39º, 25º, 82% , 30% 
+Santa Mônica, PR, 33º, 21º, 92% , 43% 
+Santa Mercedes, SP, 34º, 23º, 91% , 40% 
+Santa Maria do Tocantins, TO, 36º, 23º, 95% , 40% 
+Santa Mariana, PR, 31º, 18º, 93% , 41% 
+Santa Maria do Suaçuí, MG, 24º, 20º, 97% , 84% 
+Santa Maria do Cambucá, PE, 31º, 19º, 96% , 38% 
+Santa Maria do Salto, MG, 34º, 21º, 94% , 37% 
+Santa Maria do Herval, RS, 25º, 14º, 99% , 64% 
+Santa Maria do Oeste, PR, 34º, 21º, 92% , 35% 
+Santa Maria do Pará, PA, 34º, 24º, 91% , 54% 
+Santa Maria de Jetibá, ES, 22º, 17º, 99% , 74% 
+Santa Luzia, BA, 30º, 21º, 97% , 57% 
+Santa Maria de Itabira, MG, 24º, 18º, 99% , 73% 
+Santa Maria Madalena, RJ, 22º, 17º, 99% , 78% 
+Santa Maria das Barreiras, PA, 32º, 25º, 94% , 65% 
+Santa Luz, PI, 38º, 27º, 40% , 23% 
+Santa Maria da Vitória, BA, 35º, 23º, 81% , 34% 
+Santa Lúcia, SP, 29º, 20º, 93% , 57% 
+Santa Lúcia, PR, 30º, 19º, 98% , 53% 
+Santa Juliana, MG, 24º, 19º, 97% , 75% 
+Santa Izabel do Oeste, PR, 28º, 19º, 88% , 67% 
+Santa Isabel do Ivaí, PR, 32º, 22º, 92% , 48% 
+Santa Leopoldina, ES, 23º, 20º, 97% , 79% 
+Santa Isabel do Rio Negro, AM, 35º, 25º, 94% , 48% 
+Santa Isabel, GO, 31º, 22º, 90% , 54% 
+Santa Izabel do Pará, PA, 34º, 24º, 89% , 48% 
+Santa Inês, PB, 36º, 21º, 73% , 21% 
+Santa Inês, PR, 32º, 21º, 91% , 49% 
+Santa Isabel, SP, 27º, 17º, 97% , 53% 
+Santa Inês, MA, 35º, 25º, 86% , 45% 
+Santa Helena de Goiás, GO, 31º, 20º, 100% , 60% 
+Santa Helena, PB, 37º, 23º, 75% , 20% 
+Santa Helena de Minas, MG, 30º, 21º, 93% , 56% 
+Santa Inês, BA, 30º, 20º, 99% , 47% 
+Santa Helena, PR, 34º, 21º, 94% , 39% 
+Santa Helena, MA, 34º, 25º, 91% , 51% 
+Santa Helena, SC, 31º, 18º, 87% , 42% 
+Santa Gertrudes, SP, 30º, 18º, 97% , 52% 
+Santa Fé de Minas, MG, 25º, 22º, 93% , 71% 
+Santa Fé, PR, 32º, 20º, 87% , 41% 
+Santa Filomena, PI, 35º, 25º, 68% , 38% 
+Santa Efigênia de Minas, MG, 25º, 19º, 98% , 69% 
+Santa Filomena, PE, 35º, 21º, 79% , 25% 
+Santa Filomena do Maranhão, MA, 36º, 24º, 83% , 39% 
+Santa Fé do Araguaia, TO, 34º, 24º, 90% , 50% 
+Santa Cruz do Sul, RS, 27º, 19º, 98% , 61% 
+Santa Cruz do Rio Pardo, SP, 30º, 17º, 94% , 46% 
+Santa Cruz de Salinas, MG, 22º, 19º, 97% , 82% 
+Santa Cruz do Xingu, MT, 34º, 23º, 95% , 51% 
+Santa Cruz das Palmeiras, SP, 29º, 17º, 100% , 58% 
+Santa Cruz do Piauí, PI, 39º, 27º, 47% , 18% 
+Santa Cruz do Escalvado, MG, 27º, 18º, 98% , 64% 
+Santa Cruz do Capibaribe, PE, 33º, 20º, 92% , 32% 
+Santa Cruz da Esperança, SP, 28º, 21º, 94% , 64% 
+Santa Cruz da Baixa Verde, PE, 33º, 19º, 83% , 24% 
+Santa Cruz, PB, 36º, 22º, 78% , 22% 
+Santa Cruz, RN, 33º, 21º, 95% , 38% 
+Santa Clara D'Oeste, SP, 30º, 22º, 96% , 65% 
+Santa Cecília do Sul, RS, 28º, 15º, 99% , 47% 
+Santa Cruz Cabrália, BA, 28º, 24º, 89% , 69% 
+Santa Brígida, BA, 35º, 21º, 92% , 33% 
+Santa Cecília, SC, 23º, 15º, 100% , 57% 
+Santa Branca, SP, 27º, 16º, 98% , 52% 
+Santa Bárbara d'Oeste, SP, 30º, 17º, 95% , 45% 
+Santa Bárbara, BA, 33º, 22º, 94% , 39% 
+Santa Bárbara do Tugúrio, MG, 22º, 15º, 100% , 75% 
+Santa Amélia, PR, 30º, 17º, 94% , 43% 
+Santa Bárbara do Sul, RS, 29º, 15º, 100% , 46% 
+Santa Adélia, SP, 31º, 20º, 94% , 55% 
+Santa Bárbara do Leste, MG, 23º, 16º, 100% , 70% 
+Santa Bárbara de Goiás, GO, 30º, 22º, 98% , 63% 
+Sangão, SC, 28º, 18º, 97% , 61% 
+Sandovalina, SP, 31º, 21º, 91% , 55% 
+Sanclerlândia, GO, 31º, 22º, 88% , 50% 
+Sananduva, RS, 28º, 14º, 100% , 48% 
+Sambaíba, MA, 38º, 23º, 74% , 26% 
+Salto Veloso, SC, 27º, 16º, 90% , 46% 
+Salto do Lontra, PR, 30º, 19º, 96% , 51% 
+Salvador do Sul, RS, 26º, 15º, 96% , 64% 
+Salvador, BA, 27º, 24º, 88% , 72% 
+Salvador das Missões, RS, 30º, 17º, 97% , 47% 
+Salvaterra, PA, 32º, 25º, 85% , 51% 
+Saltinho, SP, 30º, 18º, 97% , 52% 
+Salto do Céu, MT, 29º, 23º, 97% , 77% 
+Salto da Divisa, MG, 33º, 22º, 95% , 41% 
+Salto de Pirapora, SP, 28º, 15º, 98% , 50% 
+Salinópolis, PA, 28º, 27º, 81% , 75% 
+Salmourão, SP, 32º, 21º, 88% , 54% 
+Salgado de São Félix, PB, 32º, 22º, 91% , 45% 
+Salgueiro, PE, 36º, 22º, 77% , 21% 
+Saltinho, SC, 29º, 18º, 91% , 47% 
+Salgado, SE, 32º, 22º, 95% , 47% 
+Salgado Filho, PR, 28º, 18º, 90% , 63% 
+Salitre, CE, 34º, 22º, 64% , 22% 
+Salete, SC, 25º, 17º, 100% , 62% 
+Sagres, SP, 32º, 20º, 88% , 53% 
+Sairé, PE, 29º, 18º, 100% , 48% 
+Salesópolis, SP, 24º, 15º, 99% , 59% 
+Sagrada Família, RS, 31º, 16º, 100% , 45% 
+Saboeiro, CE, 36º, 24º, 71% , 21% 
+Salgadinho, PB, 33º, 18º, 92% , 29% 
+Saldanha Marinho, RS, 29º, 16º, 100% , 45% 
+Salgadinho, PE, 32º, 20º, 97% , 42% 
+Sabinópolis, MG, 24º, 18º, 99% , 71% 
+Russas, CE, 38º, 23º, 77% , 25% 
+Ruy Barbosa, RN, 34º, 22º, 91% , 36% 
+Sabará, MG, 26º, 17º, 98% , 63% 
+Sabáudia, PR, 31º, 19º, 89% , 39% 
+Rubiácea, SP, 32º, 22º, 88% , 55% 
+Rubiataba, GO, 30º, 22º, 85% , 52% 
+Rubinéia, SP, 28º, 24º, 88% , 66% 
+Roteiro, AL, 29º, 21º, 97% , 63% 
+Rosário Oeste, MT, 32º, 25º, 94% , 62% 
+Rubim, MG, 27º, 21º, 91% , 62% 
+Rosário do Ivaí, PR, 30º, 17º, 96% , 49% 
+Roseira, SP, 28º, 16º, 96% , 49% 
+Rondonópolis, MT, 33º, 24º, 99% , 59% 
+Rosário, MA, 33º, 25º, 87% , 57% 
+Rondon do Pará, PA, 35º, 25º, 76% , 39% 
+Rosário do Catete, SE, 30º, 23º, 93% , 61% 
+Rorainópolis, RR, 37º, 23º, 91% , 36% 
+Rondolândia, MT, 34º, 23º, 99% , 53% 
+Ronda Alta, RS, 29º, 17º, 97% , 49% 
+Roque Gonzales, RS, 30º, 17º, 97% , 51% 
+Roncador, PR, 27º, 19º, 94% , 64% 
+Rolim de Moura, RO, 32º, 23º, 96% , 63% 
+Rodrigues Alves, AC, 34º, 23º, 98% , 52% 
+Rolândia, PR, 31º, 18º, 85% , 36% 
+Rolante, RS, 28º, 15º, 98% , 65% 
+Roda Velha, BA, 33º, 21º, 67% , 36% 
+Rochedo, MS, 34º, 22º, 93% , 50% 
+Rodeio Bonito, RS, 31º, 17º, 98% , 48% 
+Rodeiro, MG, 26º, 18º, 97% , 70% 
+Roca Sales, RS, 27º, 16º, 100% , 62% 
+Rodeio, SC, 24º, 18º, 100% , 76% 
+Rodelas, BA, 33º, 22º, 84% , 34% 
+Riqueza, SC, 32º, 18º, 91% , 47% 
+Rio Vermelho, MG, 22º, 19º, 100% , 86% 
+Riolândia, SP, 29º, 23º, 93% , 68% 
+Rio Verde de Mato Grosso, MS, 35º, 21º, 100% , 42% 
+Ritápolis, MG, 24º, 16º, 97% , 66% 
+Rio Sono, TO, 36º, 23º, 94% , 39% 
+Rio Rufino, SC, 24º, 14º, 100% , 53% 
+Rio Pomba, MG, 27º, 19º, 95% , 59% 
+Rio Real, BA, 31º, 22º, 95% , 49% 
+Rio Preto, MG, 25º, 18º, 93% , 67% 
+Rio Quente, GO, 29º, 21º, 98% , 60% 
+Rio Pardo de Minas, MG, 26º, 20º, 91% , 59% 
+Rio Paranaíba, MG, 25º, 17º, 99% , 63% 
+Rio Pardo, RS, 28º, 15º, 100% , 62% 
+Rio Novo do Sul, ES, 26º, 21º, 97% , 72% 
+Rio Negrinho, SC, 24º, 15º, 98% , 65% 
+Rio Negro, MS, 34º, 22º, 90% , 51% 
+Rio Manso, MG, 26º, 15º, 99% , 61% 
+Rio dos Cedros, SC, 24º, 18º, 100% , 77% 
+Rio Grande da Serra, SP, 22º, 15º, 100% , 72% 
+Rio Grande, RS, 22º, 20º, 92% , 80% 
+Rio Espera, MG, 25º, 17º, 96% , 68% 
+Rio Formoso, PE, 28º, 21º, 97% , 65% 
+Rio Grande do Piauí, PI, 37º, 26º, 46% , 25% 
+Rio do Sul, SC, 24º, 17º, 100% , 70% 
+Rio de Janeiro, RJ, 28º, 20º, 97% , 73% 
+Rio de Contas, BA, 32º, 19º, 91% , 33% 
+Rio das Pedras, SP, 30º, 17º, 97% , 47% 
+Rio do Fogo, RN, 30º, 24º, 87% , 60% 
+Rio das Flores, RJ, 27º, 19º, 96% , 56% 
+Rio da Conceição, TO, 36º, 23º, 84% , 28% 
+Rio do Prado, MG, 29º, 21º, 88% , 52% 
+Rio do Pires, BA, 34º, 21º, 79% , 33% 
+Rio das Ostras, RJ, 24º, 21º, 93% , 77% 
+Rio do Campo, SC, 25º, 16º, 100% , 62% 
+Rio Claro, SP, 30º, 17º, 98% , 45% 
+Rio Claro, RJ, 24º, 17º, 97% , 72% 
+Rio Crespo, RO, 35º, 23º, 99% , 47% 
+Rio Branco do Sul, PR, 25º, 13º, 100% , 61% 
+Rio Brilhante, MS, 35º, 21º, 96% , 41% 
+Rio Bonito do Iguaçu, PR, 26º, 18º, 92% , 73% 
+Rio Bom, PR, 30º, 18º, 90% , 45% 
+Rio Bonito, RJ, 25º, 19º, 97% , 74% 
+Rio Acima, MG, 24º, 17º, 100% , 65% 
+Rincão, SP, 30º, 21º, 94% , 56% 
+Rio Branco, MT, 30º, 23º, 97% , 74% 
+Ribeiro Gonçalves, PI, 37º, 24º, 68% , 26% 
+Ribeirópolis, SE, 30º, 21º, 97% , 52% 
+Ribeirão das Neves, MG, 26º, 18º, 98% , 63% 
+Ribeirão Preto, SP, 30º, 19º, 95% , 51% 
+Ribeirão dos Índios, SP, 32º, 20º, 89% , 55% 
+Ribeirão Grande, SP, 24º, 16º, 98% , 64% 
+Ribeirão do Sul, SP, 30º, 18º, 96% , 49% 
+Ribeirão do Largo, BA, 27º, 18º, 100% , 51% 
+Ribeirão do Pinhal, PR, 29º, 17º, 95% , 45% 
+Ribeirão Corrente, SP, 26º, 19º, 95% , 70% 
+Ribeira, SP, 28º, 17º, 98% , 57% 
+Ribeirão Branco, SP, 25º, 14º, 100% , 57% 
+Ribeirão, PE, 30º, 21º, 97% , 54% 
+Ribeirão Bonito, SP, 30º, 19º, 90% , 54% 
+Ribeira do Piauí, PI, 39º, 26º, 50% , 20% 
+Ribeira do Pombal, BA, 35º, 21º, 98% , 35% 
+Ribas do Rio Pardo, MS, 33º, 22º, 95% , 49% 
+Rianápolis, GO, 31º, 22º, 88% , 53% 
+Riachuelo, SE, 30º, 22º, 96% , 58% 
+Riacho de Santana, BA, 33º, 19º, 82% , 36% 
+Riacho dos Cavalos, PB, 36º, 23º, 73% , 24% 
+Riacho dos Machados, MG, 30º, 20º, 93% , 47% 
+Riacho Frio, PI, 36º, 23º, 51% , 28% 
+Riachinho, MG, 25º, 21º, 95% , 77% 
+Riacho de Santana, RN, 36º, 23º, 74% , 22% 
+Riachinho, TO, 33º, 25º, 85% , 54% 
+Riachão do Dantas, SE, 32º, 21º, 97% , 45% 
+Restinga Seca, RS, 28º, 19º, 97% , 54% 
+Riachão do Bacamarte, PB, 31º, 20º, 96% , 44% 
+Restinga, SP, 25º, 19º, 96% , 71% 
+Resende Costa, MG, 25º, 16º, 98% , 55% 
+Resplendor, MG, 26º, 21º, 96% , 69% 
+Resende, RJ, 28º, 19º, 95% , 58% 
+Reriutaba, CE, 37º, 24º, 82% , 23% 
+Riachão das Neves, BA, 35º, 23º, 63% , 31% 
+Reduto, MG, 24º, 17º, 97% , 72% 
+Recife, PE, 27º, 24º, 86% , 68% 
+Realeza, PR, 30º, 18º, 97% , 49% 
+Rancho Alegre, PR, 33º, 19º, 91% , 40% 
+Quinze de Novembro, RS, 28º, 14º, 100% , 47% 
+Registro, SP, 27º, 18º, 100% , 68% 
+Quinta do Sol, PR, 32º, 20º, 90% , 41% 
+Quilombo, SC, 30º, 17º, 95% , 50% 
+Querência do Norte, PR, 34º, 22º, 86% , 41% 
+Quaraí, RS, 28º, 15º, 92% , 51% 
+Quedas do Iguaçu, PR, 30º, 18º, 97% , 50% 
+Pugmil, TO, 35º, 23º, 99% , 46% 
+Quatá, SP, 31º, 20º, 87% , 55% 
+Presidente Prudente, SP, 32º, 20º, 78% , 39% 
+Prudentópolis, PR, 27º, 17º, 97% , 54% 
+Princesa Isabel, PB, 33º, 18º, 91% , 21% 
+Presidente Venceslau, SP, 31º, 21º, 88% , 57% 
+Progresso, RS, 28º, 14º, 100% , 53% 
+Presidente Epitácio, SP, 31º, 22º, 86% , 57% 
+Presidente Figueiredo, AM, 36º, 24º, 85% , 38% 
+Prata, MG, 29º, 19º, 98% , 61% 
+Praia Grande, SP, 24º, 22º, 86% , 81% 
+Prata, PB, 34º, 18º, 96% , 23% 
+Prado, BA, 26º, 23º, 89% , 80% 
+Porto Xavier, RS, 31º, 17º, 97% , 52% 
+Potirendaba, SP, 31º, 20º, 97% , 56% 
+Porto Rico, PR, 33º, 23º, 80% , 49% 
+Porto Seguro, BA, 30º, 22º, 94% , 60% 
+Porto Velho, RO, 35º, 23º, 99% , 50% 
+Porto Lucena, RS, 31º, 16º, 97% , 52% 
+Porto Feliz, SP, 29º, 17º, 95% , 43% 
+Porto Real, RJ, 27º, 19º, 96% , 61% 
+Porto Mauá, RS, 31º, 17º, 95% , 46% 
+Porto Alegre, RS, 28º, 19º, 94% , 65% 
+Porto Barreiro, PR, 27º, 16º, 97% , 64% 
+Porto, PI, 39º, 25º, 84% , 28% 
+Porto Alegre do Tocantins, TO, 37º, 23º, 90% , 30% 
+Ponte Preta, RS, 28º, 16º, 99% , 42% 
+Ponte Nova, MG, 28º, 19º, 98% , 58% 
+Porto do Mangue, RN, 31º, 24º, 87% , 52% 
+Pontão, RS, 29º, 15º, 100% , 47% 
+Pontal, SP, 28º, 21º, 95% , 66% 
+Ponta Porã, MS, 33º, 21º, 84% , 45% 
+Pomerode, SC, 26º, 18º, 100% , 67% 
+Pombos, PE, 30º, 21º, 96% , 48% 
+Poções, BA, 30º, 19º, 94% , 44% 
+Poloni, SP, 30º, 21º, 96% , 62% 
+Poços de Caldas, MG, 24º, 15º, 100% , 55% 
+Poá, SP, 26º, 17º, 98% , 54% 
+Piumhi, MG, 27º, 18º, 100% , 62% 
+Plácido de Castro, AC, 34º, 24º, 93% , 53% 
+Placas, PA, 36º, 24º, 80% , 44% 
+Platina, SP, 31º, 18º, 94% , 40% 
+Pitangueiras, SP, 31º, 20º, 96% , 48% 
+Pitanga, PR, 25º, 16º, 100% , 56% 
+Piratuba, SC, 30º, 15º, 100% , 46% 
+Pirenópolis, GO, 26º, 21º, 95% , 71% 
+Pinheiro Machado, RS, 24º, 14º, 100% , 64% 
+Piracicaba, SP, 30º, 17º, 97% , 48% 
+Pio XII, MA, 36º, 26º, 85% , 39% 
+Pirambu, SE, 28º, 24º, 88% , 72% 
+Pinhal Grande, RS, 28º, 14º, 100% , 55% 
+Pinheirinho do Vale, RS, 32º, 17º, 99% , 44% 
+Pinhal de São Bento, PR, 29º, 18º, 95% , 66% 
+Pimenteiras do Oeste, RO, 25º, 23º, 100% , 90% 
+Piraí, RJ, 25º, 18º, 96% , 69% 
+Pindoba, AL, 29º, 20º, 99% , 57% 
+Pilõezinhos, PB, 32º, 22º, 95% , 46% 
+Pindorama do Tocantins, TO, 35º, 24º, 86% , 40% 
+Pilar do Sul, SP, 25º, 16º, 98% , 63% 
+Pilar de Goiás, GO, 31º, 22º, 89% , 53% 
+Piên, PR, 26º, 15º, 99% , 59% 
+Piedade do Rio Grande, MG, 25º, 17º, 96% , 55% 
+Pilão Arcado, BA, 36º, 25º, 59% , 26% 
+Picos, PI, 39º, 28º, 45% , 18% 
+Piçarra, PA, 32º, 24º, 88% , 59% 
+Piedade, SP, 25º, 15º, 99% , 55% 
+Picada Café, RS, 26º, 15º, 100% , 58% 
+Piedade de Ponte Nova, MG, 29º, 19º, 100% , 59% 
+Piau, MG, 24º, 17º, 97% , 71% 
+Petrolina, PE, 36º, 23º, 73% , 29% 
+Piancó, PB, 37º, 23º, 71% , 20% 
+Piaçabuçu, AL, 30º, 23º, 92% , 60% 
+Petrópolis, RJ, 21º, 16º, 100% , 80% 
+Petrolândia, SC, 25º, 18º, 97% , 70% 
+Pesqueira, PE, 32º, 18º, 98% , 28% 
+Pescador, MG, 27º, 21º, 88% , 66% 
+Peruíbe, SP, 24º, 19º, 99% , 83% 
+Perolândia, GO, 29º, 20º, 98% , 59% 
+Pérola d'Oeste, PR, 29º, 20º, 93% , 68% 
+Periquito, MG, 28º, 21º, 97% , 64% 
+Peritoró, MA, 36º, 25º, 85% , 41% 
+Peritiba, SC, 29º, 16º, 97% , 48% 
+Pereiras, SP, 30º, 17º, 98% , 49% 
+Pereira Barreto, SP, 30º, 22º, 95% , 63% 
+Pereiro, CE, 36º, 23º, 78% , 23% 
+Perdões, MG, 27º, 17º, 96% , 49% 
+Pequeri, MG, 24º, 17º, 99% , 75% 
+Perdizes, MG, 24º, 18º, 99% , 73% 
+Pequi, MG, 25º, 18º, 95% , 68% 
+Pentecoste, CE, 35º, 24º, 85% , 37% 
+Penápolis, SP, 31º, 20º, 92% , 51% 
+Penalva, MA, 34º, 25º, 89% , 50% 
+Penedo, AL, 31º, 22º, 95% , 52% 
+Pelotas, RS, 24º, 19º, 95% , 77% 
+Pejuçara, RS, 29º, 16º, 96% , 50% 
+Peixoto de Azevedo, MT, 34º, 23º, 91% , 50% 
+Peixe-Boi, PA, 33º, 25º, 92% , 56% 
+Pedro Régis, PB, 31º, 21º, 97% , 51% 
+Pedro Laurentino, PI, 38º, 27º, 54% , 19% 
+Pedro Osório, RS, 24º, 16º, 100% , 74% 
+Pedro Canário, ES, 28º, 22º, 92% , 67% 
+Pedro Leopoldo, MG, 26º, 18º, 96% , 65% 
+Pedro do Rosário, MA, 34º, 24º, 91% , 51% 
+Pedro Gomes, MS, 32º, 22º, 96% , 56% 
+Pedrinópolis, MG, 27º, 18º, 98% , 63% 
+Pedreira, SP, 29º, 17º, 95% , 45% 
+Pedro Avelino, RN, 37º, 23º, 84% , 29% 
+Pedro Afonso, TO, 35º, 24º, 93% , 45% 
+Pedrinhas, SE, 30º, 22º, 97% , 55% 
+Pedrinhas Paulista, SP, 32º, 20º, 88% , 40% 
+Pedregulho, SP, 25º, 18º, 99% , 73% 
+Pedras de Fogo, PB, 30º, 22º, 93% , 55% 
+Pedras Grandes, SC, 24º, 18º, 98% , 74% 
+Pedras Altas, RS, 25º, 14º, 100% , 59% 
+Pedranópolis, SP, 29º, 22º, 96% , 67% 
+Pedra Preta, RN, 34º, 22º, 93% , 39% 
+Pedra Mole, SE, 34º, 21º, 98% , 38% 
+Pedra do Indaiá, MG, 26º, 16º, 98% , 63% 
+Pedra Grande, RN, 35º, 23º, 86% , 36% 
+Pedra Bela, SP, 25º, 16º, 97% , 61% 
+Pedra Branca do Amapari, AP, 35º, 23º, 90% , 44% 
+Pedra do Anta, MG, 26º, 17º, 97% , 66% 
+Pedra Branca, PB, 37º, 22º, 78% , 19% 
+Pedra Bonita, MG, 24º, 17º, 98% , 63% 
+Peabiru, PR, 32º, 20º, 90% , 41% 
+Pederneiras, SP, 31º, 17º, 94% , 42% 
+Peçanha, MG, 25º, 19º, 97% , 67% 
+Pedra Azul, MG, 24º, 19º, 94% , 73% 
+Pedra, PE, 31º, 18º, 93% , 34% 
+Paverama, RS, 27º, 18º, 100% , 63% 
+Pavão, MG, 24º, 21º, 97% , 82% 
+Paulo Jacinto, AL, 29º, 20º, 98% , 53% 
+Paulistânia, SP, 30º, 18º, 94% , 50% 
+Paulo de Faria, SP, 31º, 21º, 98% , 58% 
+Paulo Frontin, PR, 25º, 14º, 100% , 69% 
+Paulistana, PI, 38º, 25º, 61% , 22% 
+Paulo Afonso, BA, 36º, 22º, 91% , 26% 
+Paula Freitas, PR, 26º, 14º, 100% , 67% 
+Paulínia, SP, 30º, 18º, 93% , 40% 
+Paudalho, PE, 30º, 22º, 94% , 53% 
+Paulino Neves, MA, 29º, 27º, 86% , 70% 
+Paulista, PB, 38º, 23º, 74% , 21% 
+Pau D'Arco, TO, 34º, 24º, 95% , 54% 
+Paula Cândido, MG, 25º, 17º, 99% , 64% 
+Pau Brasil, BA, 33º, 20º, 100% , 44% 
+Patu, RN, 37º, 23º, 71% , 23% 
+Patrocínio Paulista, SP, 25º, 19º, 96% , 72% 
+Patrocínio do Muriaé, MG, 27º, 20º, 95% , 66% 
+Patrocínio, MG, 26º, 18º, 99% , 63% 
+Patis, MG, 31º, 21º, 94% , 45% 
+Passos, MG, 28º, 19º, 96% , 57% 
+Patos de Minas, MG, 26º, 18º, 98% , 67% 
+Pato Branco, PR, 28º, 16º, 98% , 49% 
+Patos (PB), PB, 37º, 23º, 74% , 23% 
+Passo Fundo, RS, 28º, 16º, 97% , 47% 
+Pastos Bons, MA, 34º, 23º, 81% , 41% 
+Passagem, PB, 35º, 20º, 90% , 23% 
+Passo de Torres, SC, 21º, 20º, 93% , 86% 
+Passabém, MG, 27º, 19º, 97% , 63% 
+Passira, PE, 32º, 21º, 94% , 42% 
+Passagem Franca, MA, 36º, 25º, 72% , 34% 
+Passagem, RN, 32º, 22º, 91% , 46% 
+Passa Tempo, MG, 25º, 16º, 97% , 65% 
+Passa Vinte, MG, 23º, 16º, 99% , 73% 
+Passa Sete, RS, 25º, 17º, 100% , 59% 
+Parobé, RS, 28º, 15º, 100% , 63% 
+Parnarama, MA, 38º, 24º, 79% , 31% 
+Parnamirim, PE, 37º, 22º, 69% , 23% 
+Parisi, SP, 29º, 22º, 96% , 66% 
+Parnamirim, RN, 30º, 22º, 94% , 54% 
+Parnaguá, PI, 38º, 25º, 54% , 26% 
+Paripiranga, BA, 31º, 21º, 98% , 47% 
+Pariquera-Açu, SP, 26º, 18º, 99% , 71% 
+Pareci Novo, RS, 28º, 18º, 99% , 61% 
+Paraú, RN, 38º, 24º, 70% , 25% 
+Parecis, RO, 31º, 23º, 95% , 60% 
+Pardinho, SP, 27º, 14º, 100% , 50% 
+Paraúna, GO, 30º, 22º, 96% , 55% 
+Paraty, RJ, 23º, 19º, 97% , 79% 
+Paranatinga, MT, 31º, 23º, 92% , 62% 
+Parelhas, RN, 36º, 21º, 81% , 26% 
+Paranoá, DF, 26º, 19º, 97% , 65% 
+Parari, PB, 34º, 19º, 90% , 28% 
+Paranapuã, SP, 32º, 21º, 95% , 56% 
+Paranavaí, PR, 33º, 21º, 78% , 35% 
+Paraopeba, MG, 26º, 18º, 96% , 66% 
+Paranapoema, PR, 33º, 22º, 80% , 37% 
+Paranapanema, SP, 28º, 17º, 97% , 50% 
+Paranaiguara, GO, 30º, 22º, 100% , 65% 
+Parambu, CE, 35º, 22º, 80% , 27% 
+Paranaguá, PR, 24º, 20º, 98% , 80% 
+Paraisópolis, MG, 25º, 15º, 100% , 54% 
+Paranacity, PR, 33º, 21º, 76% , 38% 
+Paranã, TO, 37º, 25º, 80% , 34% 
+Paramirim, BA, 33º, 18º, 85% , 34% 
+Paraíso do Tocantins, TO, 32º, 23º, 93% , 62% 
+Paraíso do Sul, RS, 26º, 14º, 100% , 61% 
+Paraíso, SC, 31º, 17º, 95% , 46% 
+Paraíba do Sul, RJ, 28º, 19º, 94% , 55% 
+Paraipaba, CE, 30º, 26º, 81% , 61% 
+Paraibano, MA, 34º, 22º, 85% , 44% 
+Paraíso, SP, 31º, 20º, 97% , 53% 
+Paraí, RS, 27º, 14º, 100% , 54% 
+Pará de Minas, MG, 25º, 18º, 99% , 64% 
+Paracuru, CE, 28º, 26º, 83% , 66% 
+Papanduva, SC, 25º, 16º, 99% , 57% 
+Paracatu, MG, 27º, 20º, 97% , 67% 
+Panorama, SP, 33º, 23º, 93% , 45% 
+Pancas, ES, 25º, 19º, 99% , 70% 
+Pão de Açúcar, AL, 37º, 22º, 92% , 26% 
+Papagaios, MG, 26º, 19º, 96% , 65% 
+Panelas, PE, 28º, 18º, 100% , 51% 
+Palotina, PR, 34º, 21º, 95% , 38% 
+Palmópolis, MG, 22º, 18º, 99% , 76% 
+Palmital, SP, 31º, 18º, 95% , 49% 
+Palmeirina, PE, 27º, 18º, 100% , 57% 
+Palmital, PR, 29º, 18º, 95% , 49% 
+Palminópolis, GO, 30º, 21º, 99% , 62% 
+Palmelo, GO, 28º, 20º, 98% , 65% 
+Palmeira dos Índios, AL, 30º, 21º, 97% , 47% 
+Palmeiras, BA, 29º, 18º, 96% , 40% 
+Palmeira das Missões, RS, 29º, 16º, 98% , 45% 
+Palmeirândia, MA, 33º, 25º, 89% , 56% 
+Palmeira, PR, 27º, 16º, 100% , 50% 
+Palmeira, SC, 27º, 15º, 100% , 49% 
+Palmas, PR, 26º, 15º, 95% , 55% 
+Palmeira do Piauí, PI, 39º, 24º, 52% , 20% 
+Palmares Paulista, SP, 28º, 21º, 97% , 65% 
+Palmácia, CE, 31º, 22º, 96% , 47% 
+Palma Sola, SC, 28º, 17º, 95% , 47% 
+Palhano, CE, 34º, 23º, 88% , 42% 
+Palma, MG, 26º, 19º, 98% , 69% 
+Palestina de Goiás, GO, 30º, 22º, 92% , 55% 
+Pajeú do Piauí, PI, 38º, 25º, 53% , 20% 
+Palhoça, SC, 22º, 20º, 94% , 83% 
+Palestina, AL, 35º, 22º, 91% , 33% 
+Painel, SC, 24º, 14º, 99% , 50% 
+Paiva, MG, 24º, 17º, 98% , 73% 
+Paes Landim, PI, 37º, 28º, 48% , 27% 
+Padre Paraíso, MG, 22º, 19º, 99% , 81% 
+Paiçandu, PR, 32º, 19º, 83% , 37% 
+Paineiras, MG, 26º, 19º, 99% , 69% 
+Paim Filho, RS, 29º, 14º, 100% , 45% 
+Pai Pedro, MG, 34º, 23º, 73% , 37% 
+Paial, SC, 30º, 17º, 95% , 48% 
+Padre Carvalho, MG, 30º, 20º, 94% , 50% 
+Padre Bernardo, GO, 29º, 22º, 91% , 56% 
+Padre Marcos, PI, 38º, 25º, 57% , 19% 
+Pacatuba, CE, 33º, 24º, 91% , 45% 
+Paço do Lumiar, MA, 30º, 26º, 83% , 68% 
+Pacatuba, SE, 30º, 22º, 94% , 60% 
+Pacujá, CE, 37º, 24º, 81% , 23% 
+Pacoti, CE, 32º, 20º, 99% , 39% 
+Pacaraima, RR, 32º, 21º, 70% , 39% 
+Pacajus, CE, 35º, 24º, 89% , 39% 
+Pacajá, PA, 33º, 25º, 87% , 57% 
+Pacaembu, SP, 33º, 22º, 88% , 38% 
+Ouro Verde do Oeste, PR, 29º, 22º, 87% , 57% 
+Ouro Verde de Goiás, GO, 27º, 19º, 93% , 59% 
+Ouro Verde de Minas, MG, 22º, 20º, 100% , 91% 
+Ouro Verde, SP, 33º, 22º, 92% , 39% 
+Ourolândia, BA, 33º, 20º, 87% , 33% 
+Ouro Verde, SC, 28º, 16º, 91% , 52% 
+Ouro Velho, PB, 34º, 18º, 96% , 23% 
+Ouro Branco, MG, 24º, 16º, 99% , 61% 
+Ouro Branco, RN, 37º, 22º, 74% , 24% 
+Ouro Fino, MG, 27º, 17º, 96% , 50% 
+Ouro Branco, AL, 34º, 20º, 92% , 33% 
+Ouro, SC, 29º, 15º, 99% , 48% 
+Ourizona, PR, 32º, 20º, 77% , 37% 
+Osvaldo Cruz, SP, 31º, 21º, 88% , 54% 
+Otacílio Costa, SC, 26º, 15º, 100% , 55% 
+Ourém, PA, 35º, 24º, 91% , 47% 
+Ouriçangas, BA, 33º, 21º, 98% , 41% 
+Ourinhos, SP, 31º, 18º, 92% , 42% 
+Osasco, SP, 26º, 16º, 100% , 56% 
+Orocó, PE, 36º, 22º, 76% , 25% 
+Oscar Bressane, SP, 31º, 19º, 89% , 52% 
+Ortigueira, PR, 29º, 16º, 99% , 42% 
+Orobó, PE, 30º, 20º, 99% , 47% 
+Orizânia, MG, 23º, 17º, 99% , 65% 
+Orleans, SC, 25º, 19º, 97% , 71% 
+Orindiúva, SP, 28º, 22º, 98% , 69% 
+Oriente, SP, 32º, 18º, 86% , 39% 
+Orlândia, SP, 30º, 19º, 95% , 53% 
+Oliveira dos Brejinhos, BA, 34º, 21º, 76% , 32% 
+Olivença, AL, 33º, 22º, 91% , 39% 
+Oliveira Fortes, MG, 23º, 16º, 99% , 77% 
+Onda Verde, SP, 31º, 20º, 98% , 57% 
+Olindina, BA, 35º, 21º, 97% , 35% 
+Oliveira de Fátima, TO, 34º, 23º, 90% , 44% 
+Olinda, PE, 28º, 23º, 88% , 62% 
+Olímpia, SP, 31º, 20º, 100% , 57% 
+Olho D'Água do Casado, AL, 36º, 22º, 90% , 32% 
+Olho D'Água das Flores, AL, 34º, 21º, 95% , 34% 
+Olho D'Água das Cunhãs, MA, 37º, 26º, 81% , 39% 
+Olho D'Água do Borges, RN, 37º, 23º, 70% , 23% 
+Óleo, SP, 29º, 17º, 96% , 51% 
+Núcleo Bandeirante, DF, 24º, 18º, 95% , 71% 
+Ocara, CE, 37º, 23º, 88% , 29% 
+Oeiras do Pará, PA, 34º, 25º, 86% , 52% 
+Novo Santo Antônio, PI, 40º, 27º, 61% , 21% 
+Novo Xingu, RS, 30º, 16º, 99% , 45% 
+Olho D'Água do Piauí, PI, 37º, 24º, 78% , 30% 
+Novo Planalto, GO, 35º, 25º, 85% , 40% 
+Novo Oriente do Piauí, PI, 39º, 27º, 56% , 17% 
+Novo Oriente, CE, 37º, 23º, 80% , 24% 
+Novo Progresso, PA, 35º, 24º, 86% , 52% 
+Novo Mundo, MT, 31º, 24º, 96% , 66% 
+Novo Itacolomi, PR, 31º, 18º, 93% , 45% 
+Novo Horizonte do Oeste, RO, 31º, 23º, 100% , 68% 
+Novo Machado, RS, 31º, 17º, 95% , 48% 
+Novo Horizonte do Norte, MT, 36º, 25º, 87% , 44% 
+Novo Horizonte, SP, 31º, 20º, 87% , 56% 
+Novo Hamburgo, RS, 28º, 16º, 100% , 63% 
+Novo Jardim, TO, 34º, 22º, 84% , 34% 
+Novo Gama, GO, 26º, 19º, 97% , 71% 
+Novo Cruzeiro, MG, 20º, 18º, 99% , 93% 
+Novo Cabrais, RS, 26º, 15º, 100% , 64% 
+Novo Barreiro, RS, 31º, 16º, 99% , 42% 
+Novo Airão, AM, 35º, 25º, 88% , 44% 
+Nova Veneza, SC, 27º, 17º, 95% , 63% 
+Novo Brasil, GO, 31º, 24º, 86% , 49% 
+Nova Veneza, GO, 28º, 20º, 95% , 60% 
+Novo Acordo, TO, 32º, 23º, 86% , 58% 
+Nova Trento, SC, 26º, 19º, 98% , 69% 
+Novo Tiradentes, RS, 31º, 17º, 98% , 47% 
+Nova União, MG, 24º, 17º, 99% , 69% 
+Nova Santa Rosa, PR, 32º, 22º, 87% , 52% 
+Nova Soure, BA, 35º, 23º, 91% , 36% 
+Nova União, RO, 33º, 22º, 99% , 53% 
+Nova Ubiratã, MT, 34º, 23º, 89% , 50% 
+Nova Serrana, MG, 26º, 18º, 98% , 66% 
+Nova Santa Rita, RS, 27º, 16º, 100% , 60% 
+Nova Roma, GO, 32º, 23º, 80% , 52% 
+Nova Santa Rita, PI, 38º, 26º, 55% , 19% 
+Nova Santa Bárbara, PR, 28º, 16º, 97% , 46% 
+Nova Redenção, BA, 33º, 21º, 89% , 41% 
+Nova Rosalândia, TO, 34º, 24º, 92% , 53% 
+Nova Roma do Sul, RS, 28º, 14º, 100% , 50% 
+Olinda Nova do Maranhão, MA, 34º, 25º, 89% , 49% 
+Nova Prata do Iguaçu, PR, 28º, 20º, 94% , 69% 
+Nova Prata, RS, 27º, 13º, 100% , 52% 
+Nova Palmeira, PB, 33º, 18º, 95% , 30% 
+Nova Pádua, RS, 28º, 14º, 100% , 49% 
+Nova Olinda do Norte, AM, 36º, 26º, 92% , 41% 
+Nova Porteirinha, MG, 33º, 22º, 82% , 40% 
+Nova Olímpia, MT, 34º, 24º, 100% , 60% 
+Nova Olinda, CE, 36º, 22º, 84% , 24% 
+Nova Olinda, TO, 32º, 22º, 96% , 54% 
+Nova Odessa, SP, 30º, 17º, 94% , 44% 
+Nova Olinda, PB, 37º, 21º, 79% , 20% 
+Nova Nazaré, MT, 32º, 24º, 93% , 57% 
+Nova Mutum, MT, 30º, 23º, 100% , 69% 
+Nova Maringá, MT, 36º, 23º, 88% , 46% 
+Nova Marilândia, MT, 32º, 23º, 96% , 63% 
+Nova Independência, SP, 34º, 22º, 97% , 42% 
+Nova Luzitânia, SP, 31º, 21º, 97% , 58% 
+Nova Lacerda, MT, 30º, 23º, 100% , 69% 
+Nova Itaberaba, SC, 31º, 18º, 90% , 46% 
+Nova Ipixuna, PA, 34º, 25º, 87% , 50% 
+Nova Laranjeiras, PR, 28º, 17º, 95% , 50% 
+Nova Iguaçu de Goiás, GO, 36º, 25º, 73% , 45% 
+Nova Iguaçu, RJ, 27º, 20º, 95% , 67% 
+Nova Ibiá, BA, 29º, 21º, 98% , 60% 
+Nova Guataporanga, SP, 32º, 21º, 92% , 55% 
+Nova Glória, GO, 32º, 23º, 81% , 48% 
+Nova Guarita, MT, 34º, 24º, 85% , 52% 
+Nova Granada, SP, 31º, 21º, 99% , 58% 
+Nova Europa, SP, 31º, 19º, 91% , 49% 
+Nova Fátima, PR, 30º, 17º, 92% , 42% 
+Nova Esperança do Sul, RS, 27º, 13º, 100% , 54% 
+Nova Esperança, PR, 32º, 20º, 77% , 37% 
+Nova Colinas, MA, 35º, 24º, 73% , 33% 
+Nova Crixás, GO, 32º, 25º, 85% , 57% 
+Nova Cantu, PR, 28º, 19º, 92% , 64% 
+Nova Canaã, BA, 30º, 20º, 98% , 51% 
+Nova Candelária, RS, 31º, 17º, 92% , 40% 
+Nova Bréscia, RS, 27º, 14º, 100% , 63% 
+Nova Campina, SP, 26º, 14º, 100% , 51% 
+Nova Brasilândia D'Oeste, RO, 32º, 22º, 99% , 60% 
+Nova Bassano, RS, 27º, 13º, 100% , 55% 
+Nova Boa Vista, RS, 29º, 16º, 98% , 44% 
+Nova Aurora, PR, 33º, 19º, 97% , 37% 
+Nova Andradina, MS, 33º, 22º, 85% , 46% 
+Nova Bandeirantes, MT, 35º, 24º, 91% , 45% 
+Nova América da Colina, PR, 30º, 16º, 95% , 44% 
+Nova Araçá, RS, 27º, 13º, 100% , 55% 
+Nova Alvorada do Sul, MS, 34º, 21º, 97% , 44% 
+Nossa Senhora do Socorro, SE, 30º, 23º, 91% , 61% 
+Nova Aliança do Ivaí, PR, 33º, 21º, 89% , 45% 
+Nossa Senhora dos Remédios, PI, 38º, 24º, 85% , 29% 
+Nova Fátima, BA, 34º, 23º, 89% , 35% 
+Nossa Senhora das Graças, PR, 32º, 20º, 88% , 42% 
+Nordestina, BA, 35º, 21º, 93% , 28% 
+Nossa Senhora do Livramento, MT, 32º, 23º, 100% , 65% 
+Nossa Senhora de Lourdes, SE, 33º, 22º, 94% , 41% 
+Normandia, RR, 35º, 23º, 78% , 38% 
+Niterói, RJ, 25º, 21º, 91% , 71% 
+Nobres, MT, 31º, 24º, 95% , 68% 
+Niquelândia, GO, 30º, 22º, 86% , 55% 
+Nísia Floresta, RN, 30º, 22º, 90% , 58% 
+Nina Rodrigues, MA, 38º, 26º, 84% , 32% 
+Nilópolis, RJ, 26º, 20º, 96% , 68% 
+Nioaque, MS, 38º, 24º, 75% , 34% 
+Ninheira, MG, 29º, 19º, 90% , 45% 
+Nicolau Vergueiro, RS, 28º, 16º, 98% , 48% 
+Nossa Senhora Aparecida, SE, 31º, 21º, 98% , 47% 
+Nhamundá, AM, 33º, 26º, 97% , 58% 
+Neves Paulista, SP, 29º, 21º, 97% , 63% 
+Nazaré do Piauí, PI, 38º, 26º, 49% , 25% 
+Nazarezinho, PB, 37º, 24º, 69% , 21% 
+Neópolis, SE, 31º, 23º, 93% , 54% 
+Nazaré Paulista, SP, 26º, 16º, 100% , 51% 
+Nazaré, TO, 34º, 24º, 86% , 44% 
+Nazaré da Mata, PE, 31º, 22º, 93% , 50% 
+Nazário, GO, 29º, 21º, 95% , 56% 
+Naviraí, MS, 34º, 22º, 94% , 41% 
+Navegantes, SC, 24º, 20º, 96% , 78% 
+Narandiba, SP, 32º, 20º, 83% , 41% 
+Natal, RN, 29º, 24º, 84% , 61% 
+Natividade, TO, 35º, 24º, 87% , 40% 
+Natuba, PB, 29º, 20º, 98% , 46% 
+Natércia, MG, 25º, 15º, 100% , 52% 
+Natalândia, MG, 29º, 21º, 97% , 57% 
+Mutum, MG, 28º, 21º, 98% , 55% 
+Não-Me-Toque, RS, 26º, 18º,34%,
+Murici dos Portelas, PI, 38º, 25º, 80% , 33% 
+Nanuque, MG, 25º, 21º, 96% , 73% 
+Nantes, SP, 30º, 20º, 91% , 54% 
+Mutunópolis, GO, 34º, 25º, 78% , 42% 
+Mutuípe, BA, 30º, 21º, 99% , 57% 
+Muritiba, BA, 31º, 20º, 100% , 54% 
+Muribeca, SE, 33º, 21º, 96% , 42% 
+Mucurici, ES, 23º, 21º, 99% , 85% 
+Mucajaí, RR, 37º, 25º, 77% , 41% 
+Mulungu, CE, 37º, 23º, 87% , 22% 
+Munhoz, MG, 25º, 17º, 94% , 59% 
+Mundo Novo, MS, 34º, 22º, 96% , 36% 
+Mulungu, PB, 33º, 21º, 95% , 43% 
+Mossâmedes, GO, 31º, 21º, 89% , 57% 
+Mossoró, RN, 36º, 23º, 84% , 39% 
+Mozarlândia, GO, 32º, 26º, 87% , 55% 
+Morro do Pilar, MG, 23º, 17º, 100% , 77% 
+Morro da Fumaça, SC, 24º, 19º, 97% , 74% 
+Morro Redondo, RS, 24º, 18º, 99% , 70% 
+Morros, MA, 36º, 25º, 89% , 39% 
+Morro Cabeça no Tempo, PI, 36º, 24º, 58% , 26% 
+Morretes, PR, 25º, 19º, 95% , 75% 
+Morro do Chapéu, BA, 28º, 17º, 98% , 48% 
+Mormaço, RS, 28º, 14º, 99% , 52% 
+Morro Agudo de Goiás, GO, 30º, 22º, 84% , 53% 
+Morrinhos do Sul, RS, 23º, 19º, 100% , 80% 
+Morpará, BA, 37º, 24º, 62% , 26% 
+Moreno, PE, 29º, 21º, 96% , 59% 
+Moreira Sales, PR, 32º, 21º, 86% , 36% 
+Moreilândia, PE, 36º, 24º, 58% , 20% 
+Montes Altos, MA, 37º, 25º, 71% , 35% 
+Montividiu do Norte, GO, 34º, 24º, 77% , 39% 
+Monteiro Lobato, SP, 27º, 17º, 98% , 52% 
+Montes Claros de Goiás, GO, 30º, 24º, 82% , 56% 
+Monte Santo, BA, 33º, 20º, 97% , 36% 
+Monteiro, PB, 33º, 18º, 88% , 28% 
+Monte Carlo, SC, 27º, 14º, 99% , 47% 
+Monte Horebe, PB, 35º, 22º, 69% , 21% 
+Monte Carmelo, MG, 27º, 18º, 99% , 64% 
+Monte Belo, MG, 27º, 17º, 98% , 51% 
+Monte das Gameleiras, RN, 33º, 21º, 95% , 41% 
+Monte Alto, SP, 31º, 19º, 92% , 49% 
+Monte Castelo, SC, 25º, 17º, 99% , 56% 
+Monte Alegre dos Campos, RS, 27º, 14º, 100% , 44% 
+Monte Alegre do Sul, SP, 27º, 17º, 96% , 50% 
+Monte Alegre de Minas, MG, 29º, 19º, 97% , 61% 
+Monsenhor Gil, PI, 38º, 25º, 77% , 27% 
+Montanhas, RN, 31º, 22º, 91% , 52% 
+Monte Alegre do Piauí, PI, 37º, 24º, 50% , 25% 
+Montalvânia, MG, 34º, 23º, 80% , 39% 
+Montadas, PB, 29º, 18º, 100% , 45% 
+Mongaguá, SP, 23º, 20º, 93% , 83% 
+Mondaí, SC, 32º, 17º, 97% , 43% 
+Monjolos, MG, 27º, 20º, 95% , 64% 
+Miranda, MS, 33º, 24º, 92% , 51% 
+Mirangaba, BA, 30º, 18º, 98% , 40% 
+Miraguaí, RS, 30º, 17º, 95% , 44% 
+Mirandiba, PE, 35º, 21º, 78% , 24% 
+Miranda do Norte, MA, 36º, 25º, 85% , 41% 
+Mirante do Paranapanema, SP, 31º, 20º, 90% , 55% 
+Mirante, BA, 34º, 22º, 84% , 32% 
+Mineiros do Tietê, SP, 29º, 17º, 97% , 44% 
+Mirador, PR, 34º, 22º, 87% , 36% 
+Mirabela, MG, 21º, 20º, 96% , 90% 
+Miracema, RJ, 27º, 19º, 99% , 63% 
+Mira Estrela, SP, 29º, 23º, 93% , 69% 
+Miradouro, MG, 23º, 17º, 99% , 75% 
+Mirador, MA, 35º, 22º, 81% , 42% 
+Mineiros, GO, 29º, 20º, 99% , 64% 
+Minaçu, GO, 30º, 25º, 78% , 57% 
+Mimoso de Goiás, GO, 29º, 22º, 90% , 59% 
+Milton Brandão, PI, 38º, 24º, 76% , 23% 
+Milhã, CE, 37º, 24º, 70% , 22% 
+Minduri, MG, 24º, 15º, 96% , 66% 
+Minas Novas, MG, 23º, 21º, 95% , 82% 
+Milagres, BA, 32º, 20º, 97% , 36% 
+Milagres, CE, 37º, 24º, 63% , 20% 
+Miguelópolis, SP, 31º, 20º, 98% , 52% 
+Miguel Leão, PI, 37º, 25º, 70% , 31% 
+Messias Targino, RN, 37º, 23º, 75% , 24% 
+Messias, AL, 30º, 21º, 94% , 59% 
+Mesquita, RJ, 26º, 20º, 96% , 68% 
+Miguel Calmon, BA, 31º, 18º, 100% , 40% 
+Mesópolis, SP, 29º, 22º, 97% , 64% 
+Mercês, MG, 24º, 16º, 98% , 74% 
+Meridiano, SP, 29º, 21º, 96% , 68% 
+Mesquita, MG, 28º, 19º, 100% , 64% 
+Medina, MG, 24º, 20º, 95% , 75% 
+Mendes Pimentel, MG, 23º, 20º, 98% , 86% 
+Mendes, RJ, 25º, 18º, 95% , 72% 
+Medeiros Neto, BA, 25º, 21º, 97% , 76% 
+Mercedes, PR, 31º, 23º, 85% , 54% 
+Mendonça, SP, 30º, 22º, 97% , 64% 
+Medicilândia, PA, 31º, 23º, 96% , 64% 
+Medianeira, PR, 32º, 20º, 96% , 46% 
+Maximiliano de Almeida, RS, 28º, 17º, 94% , 48% 
+Maxaranguape, RN, 29º, 25º, 82% , 61% 
+Maurilândia, GO, 31º, 20º, 100% , 59% 
+Maurilândia do Tocantins, TO, 35º, 25º, 81% , 41% 
+Mauá da Serra, PR, 28º, 16º, 95% , 44% 
+Mazagão, AP, 35º, 24º, 87% , 46% 
+Maturéia, PB, 32º, 18º, 89% , 27% 
+Mauá, SP, 22º, 15º, 100% , 72% 
+Matões do Norte, MA, 36º, 25º, 85% , 41% 
+Mato Verde, MG, 29º, 23º, 75% , 48% 
+Matozinhos, MG, 25º, 18º, 97% , 67% 
+Matrinchã, GO, 31º, 23º, 90% , 58% 
+Matupá, MT, 31º, 23º, 96% , 65% 
+Matões, MA, 37º, 24º, 78% , 30% 
+Mato Rico, PR, 28º, 17º, 95% , 60% 
+Mato Queimado, RS, 30º, 17º, 97% , 49% 
+Matina, BA, 34º, 21º, 81% , 34% 
+Matinhas, PB, 29º, 19º, 99% , 47% 
+Mathias Lobato, MG, 27º, 21º, 86% , 65% 
+Matinhos, PR, 25º, 19º, 100% , 77% 
+Matinha, MA, 35º, 25º, 87% , 48% 
+Mato Grosso, PB, 37º, 23º, 73% , 21% 
+Matipó, MG, 26º, 18º, 96% , 57% 
+Matão, SP, 31º, 19º, 90% , 48% 
+Mata Roma, MA, 39º, 25º, 84% , 30% 
+Matelândia, PR, 31º, 20º, 92% , 46% 
+Mata de São João, BA, 31º, 22º, 97% , 54% 
+Maruim, SE, 30º, 22º, 95% , 59% 
+Massaranduba, SC, 26º, 19º, 97% , 67% 
+Massaranduba, PB, 31º, 19º, 99% , 42% 
+Marumbi, PR, 31º, 19º, 84% , 41% 
+Martinho Campos, MG, 27º, 19º, 98% , 66% 
+Martinópole, CE, 38º, 25º, 83% , 28% 
+Martins, RN, 36º, 22º, 73% , 24% 
+Marizópolis, PB, 38º, 24º, 74% , 20% 
+Maripá, PR, 34º, 20º, 94% , 36% 
+Marques de Souza, RS, 26º, 14º, 100% , 63% 
+Mariópolis, PR, 28º, 17º, 97% , 46% 
+Maringá, PR, 33º, 20º, 78% , 36% 
+Marinópolis, SP, 31º, 22º, 96% , 60% 
+Mariluz, PR, 34º, 21º, 88% , 35% 
+Mariana Pimentel, RS, 26º, 18º, 98% , 60% 
+Maricá, RJ, 25º, 21º, 92% , 74% 
+Mariano Moro, RS, 29º, 16º, 100% , 47% 
+Marianópolis do Tocantins, TO, 33º, 24º, 93% , 61% 
+Mariápolis, SP, 32º, 21º, 89% , 53% 
+Marília, SP, 31º, 18º, 86% , 40% 
+Maria Helena, PR, 34º, 22º, 87% , 36% 
+Maresias, SP, 24º, 20º, 94% , 79% 
+Marialva, PR, 33º, 20º, 77% , 33% 
+Marema, SC, 30º, 17º, 92% , 40% 
+Marechal Thaumaturgo, AC, 33º, 23º, 98% , 59% 
+Marechal Cândido Rondon, PR, 35º, 21º, 92% , 32% 
+Marcionílio Souza, BA, 35º, 22º, 83% , 29% 
+Marco, CE, 36º, 25º, 84% , 34% 
+Marcelino Vieira, RN, 37º, 23º, 73% , 23% 
+Maravilha, SC, 30º, 17º, 94% , 44% 
+Maravilha, AL, 35º, 20º, 95% , 24% 
+Marcelândia, MT, 31º, 22º, 100% , 69% 
+Marau, RS, 28º, 15º, 100% , 50% 
+Marataízes, ES, 25º, 23º, 89% , 74% 
+Maravilhas, MG, 26º, 18º, 94% , 67% 
+Marapoama, SP, 31º, 20º, 88% , 54% 
+Maraial, PE, 29º, 20º, 98% , 55% 
+Maracás, BA, 29º, 17º, 100% , 40% 
+Maragogi, AL, 28º, 22º, 94% , 65% 
+Maranhãozinho, MA, 35º, 24º, 90% , 48% 
+Maranguape, CE, 32º, 24º, 87% , 49% 
+Maratá, RS, 26º, 14º, 100% , 64% 
+Marajá do Sena, MA, 33º, 23º, 88% , 48% 
+Marabá Paulista, SP, 31º, 21º, 88% , 57% 
+Maracanã, PA, 28º, 27º, 80% , 74% 
+Maracanaú, CE, 31º, 24º, 85% , 52% 
+Marabá, PA, 34º, 25º, 86% , 55% 
+Maraã, AM, 34º, 24º, 97% , 57% 
+Manoel Ribas, PR, 28º, 17º, 97% , 51% 
+Manoel Vitorino, BA, 30º, 20º, 95% , 51% 
+Mantena, MG, 23º, 20º, 99% , 79% 
+Mantenópolis, ES, 23º, 19º, 99% , 79% 
+Mara Rosa, GO, 33º, 25º, 76% , 48% 
+Manhuaçu, MG, 25º, 17º, 96% , 66% 
+Mar de Espanha, MG, 27º, 17º, 100% , 58% 
+Mangaratiba, RJ, 23º, 21º, 91% , 85% 
+Manaquiri, AM, 36º, 26º, 91% , 46% 
+Manaíra, PB, 33º, 19º, 78% , 24% 
+Mamonas, MG, 33º, 20º, 76% , 37% 
+Mampituba, RS, 26º, 16º, 97% , 70% 
+Mambaí, GO, 28º, 21º, 88% , 57% 
+Manfrinópolis, PR, 28º, 17º, 94% , 64% 
+Malta, PB, 37º, 22º, 75% , 23% 
+Manaus, AM, 36º, 27º, 91% , 44% 
+Malhada dos Bois, SE, 32º, 22º, 95% , 51% 
+Mallet, PR, 25º, 14º, 100% , 70% 
+Malacacheta, MG, 24º, 18º, 96% , 69% 
+Major Isidoro, AL, 34º, 21º, 93% , 37% 
+Mairiporã, SP, 26º, 16º, 100% , 51% 
+Magé, RJ, 28º, 21º, 93% , 65% 
+Mairi, BA, 33º, 21º, 93% , 35% 
+Maiquinique, BA, 33º, 20º, 99% , 36% 
+Major Sales, RN, 36º, 22º, 75% , 22% 
+Maetinga, BA, 33º, 20º, 92% , 30% 
+Madeiro, PI, 39º, 25º, 82% , 29% 
+Machadinho, RS, 29º, 15º, 100% , 46% 
+Madre de Deus de Minas, MG, 25º, 17º, 97% , 53% 
+Machacalis, MG, 25º, 21º, 98% , 76% 
+Macuco, RJ, 24º, 18º, 98% , 70% 
+Macaúbas, BA, 33º, 19º, 80% , 32% 
+Maceió, AL, 30º, 22º, 95% , 59% 
+Mafra, SC, 26º, 16º, 97% , 58% 
+Macau, RN, 31º, 24º, 82% , 55% 
+Macaíba, RN, 32º, 22º, 90% , 51% 
+Macambira, SE, 30º, 22º, 96% , 55% 
+Macajuba, BA, 32º, 22º, 93% , 41% 
+Macarani, BA, 32º, 21º, 94% , 43% 
+Macaé, RJ, 24º, 21º, 93% , 76% 
+Luisburgo, MG, 30º, 20º,49%,
+Luís Eduardo Magalhães, BA, 35º, 24º, 55% , 27% 
+Luís Domingues, MA, 31º, 25º, 89% , 62% 
+Luciara, MT, 35º, 25º, 94% , 44% 
+Luislândia, MG, 31º, 22º, 79% , 47% 
+Luminárias, MG, 26º, 16º, 95% , 64% 
+Luiziânia, SP, 31º, 21º, 87% , 54% 
+Luzilândia, PI, 38º, 25º, 82% , 33% 
+Lucianópolis, SP, 30º, 18º, 94% , 52% 
+Louveira, SP, 29º, 17º, 95% , 41% 
+Lourdes, SP, 30º, 22º, 96% , 62% 
+Lucena, PB, 28º, 23º, 90% , 67% 
+Lucas do Rio Verde, MT, 31º, 23º, 99% , 65% 
+Lontra, MG, 23º, 20º, 94% , 82% 
+Lorena, SP, 28º, 18º, 95% , 61% 
+Londrina, PR, 32º, 18º, 86% , 36% 
+Lobato, PR, 33º, 20º, 87% , 41% 
+Logradouro, PB, 32º, 22º, 93% , 47% 
+Livramento, PB, 34º, 19º, 95% , 25% 
+Livramento de Nossa Senhora, BA, 32º, 18º, 87% , 36% 
+Lins, SP, 32º, 20º, 87% , 50% 
+Linhares, ES, 24º, 22º, 99% , 86% 
+Limoeiro do Norte, CE, 37º, 24º, 80% , 32% 
+Linha Nova, RS, 28º, 15º, 100% , 60% 
+Limoeiro do Ajuru, PA, 33º, 26º, 83% , 52% 
+Lindoeste, PR, 28º, 21º, 92% , 68% 
+Limeira, SP, 30º, 17º, 98% , 48% 
+Limoeiro, PE, 32º, 21º, 96% , 43% 
+Lima Campos, MA, 37º, 26º, 78% , 36% 
+Liberato Salzano, RS, 31º, 16º, 100% , 48% 
+Lençóis, BA, 30º, 19º, 98% , 44% 
+Lençóis Paulista, SP, 30º, 17º, 93% , 43% 
+Leandro Ferreira, MG, 26º, 18º, 94% , 66% 
+Leópolis, PR, 32º, 18º, 93% , 41% 
+Lebon Régis, SC, 26º, 14º, 100% , 47% 
+Lavras da Mangabeira, CE, 38º, 25º, 80% , 21% 
+Lavras, MG, 27º, 17º, 97% , 49% 
+Lauro de Freitas, BA, 28º, 24º, 90% , 70% 
+Leme, SP, 30º, 17º, 98% , 46% 
+Lauro Müller, SC, 27º, 16º, 98% , 63% 
+Lavínia, SP, 33º, 22º, 96% , 42% 
+Laurentino, SC, 25º, 18º, 99% , 69% 
+Laranjal do Jari, AP, 35º, 22º, 92% , 40% 
+Laranjeiras, SE, 30º, 22º, 95% , 60% 
+Laranjal Paulista, SP, 30º, 17º, 95% , 44% 
+Lapão, BA, 33º, 20º, 87% , 29% 
+Landri Sales, PI, 35º, 24º, 51% , 38% 
+Laranja da Terra, ES, 28º, 21º, 93% , 54% 
+Lambari, MG, 26º, 15º, 100% , 51% 
+Lamim, MG, 26º, 18º, 97% , 57% 
+Lajinha, MG, 25º, 18º, 95% , 63% 
+Lajedo, PE, 28º, 18º, 100% , 48% 
+Lajedo do Tabocal, BA, 28º, 19º, 96% , 52% 
+Lajes Pintadas, RN, 33º, 20º, 92% , 35% 
+Lamarão, BA, 33º, 22º, 94% , 40% 
+Lajeado Grande, SC, 29º, 17º, 87% , 49% 
+Lajeado Novo, MA, 37º, 25º, 78% , 35% 
+Lajedão, BA, 30º, 21º, 89% , 53% 
+Lajedinho, BA, 30º, 20º, 95% , 43% 
+Lajeado, RS, 28º, 18º, 100% , 62% 
+Lagoa Santa, GO, 30º, 21º, 99% , 63% 
+Laguna Carapã, MS, 34º, 22º, 86% , 40% 
+Laguna, SC, 24º, 20º, 93% , 76% 
+Lagoa Seca, PB, 31º, 19º, 100% , 40% 
+Lagoinha do Piauí, PI, 38º, 26º, 58% , 28% 
+Lagoa Santa, MG, 27º, 19º, 95% , 64% 
+Lagoa dos Patos, MG, 24º, 21º, 94% , 76% 
+Lagoa Real, BA, 34º, 21º, 88% , 30% 
+Lagoa Nova, RN, 33º, 22º, 92% , 45% 
+Lagoa Dourada, MG, 25º, 16º, 96% , 65% 
+Lagoa Grande, PE, 36º, 22º, 75% , 23% 
+Lagoa dos Gatos, PE, 27º, 19º, 99% , 57% 
+Lagoa do Carro, PE, 31º, 22º, 93% , 49% 
+Lagoa Grande do Maranhão, MA, 36º, 24º, 85% , 40% 
+Lagoa do Mato, MA, 37º, 25º, 74% , 32% 
+Lagoa do Ouro, PE, 28º, 18º, 99% , 52% 
+Lagoa do Sítio, PI, 36º, 24º, 65% , 21% 
+Lagoa de Pedras, RN, 32º, 22º, 90% , 49% 
+Lagoa de Dentro, PB, 32º, 22º, 94% , 45% 
+Lagoa da Canoa, AL, 31º, 21º, 97% , 46% 
+Lagoa de Velhos, RN, 35º, 22º, 90% , 35% 
+Lagoa D'Anta, RN, 33º, 22º, 91% , 40% 
+Lagoa Bonita do Sul, RS, 26º, 14º, 97% , 59% 
+Lago Verde, MA, 36º, 26º, 82% , 39% 
+Lago do Junco, MA, 36º, 25º, 85% , 43% 
+Lages, SC, 24º, 16º, 98% , 58% 
+Lagamar, MG, 26º, 21º, 94% , 73% 
+Lábrea, AM, 34º, 24º, 96% , 55% 
+Lafaiete Coutinho, BA, 32º, 20º, 94% , 41% 
+Lacerdópolis, SC, 29º, 15º, 99% , 48% 
+Ladário, MS, 36º, 25º, 95% , 44% 
+Jussara, PR, 33º, 21º, 88% , 43% 
+Jussari, BA, 28º, 21º, 99% , 61% 
+Jussara, BA, 35º, 22º, 81% , 24% 
+Juscimeira, MT, 31º, 23º, 100% , 68% 
+Jussara, GO, 32º, 24º, 84% , 51% 
+Jussiape, BA, 32º, 20º, 87% , 32% 
+Juruaia, MG, 25º, 18º, 100% , 67% 
+Junqueirópolis, SP, 32º, 21º, 91% , 54% 
+Juruá, AM, 33º, 24º, 99% , 59% 
+Juripiranga, PB, 31º, 22º, 95% , 51% 
+Jupi, PE, 28º, 17º, 99% , 46% 
+Juramento, MG, 29º, 21º, 91% , 54% 
+Juquitiba, SP, 24º, 16º, 99% , 63% 
+Juquiá, SP, 27º, 17º, 99% , 69% 
+Jundiaí do Sul, PR, 29º, 16º, 100% , 48% 
+Juiz de Fora, MG, 26º, 17º, 97% , 60% 
+Jucurutu, RN, 38º, 24º, 73% , 23% 
+Jucuruçu, BA, 29º, 21º, 95% , 55% 
+Junco do Seridó, PB, 32º, 18º, 95% , 31% 
+Junco do Maranhão, MA, 33º, 24º, 95% , 54% 
+Júlio de Castilhos, RS, 26º, 16º, 100% , 59% 
+Jucati, PE, 28º, 17º, 99% , 45% 
+José de Freitas, PI, 39º, 26º, 80% , 27% 
+Juarez Távora, PB, 32º, 21º, 94% , 42% 
+Josenópolis, MG, 22º, 19º, 100% , 89% 
+Juazeirinho, PB, 32º, 19º, 95% , 31% 
+Jucás, CE, 38º, 25º, 70% , 21% 
+José Boiteux, SC, 26º, 17º, 99% , 67% 
+Juara, MT, 33º, 24º, 87% , 58% 
+Juazeiro do Norte, CE, 37º, 24º, 76% , 21% 
+Joaquim Pires, PI, 39º, 25º, 80% , 30% 
+João Monlevade, MG, 25º, 18º, 100% , 67% 
+Joaquim Gomes, AL, 30º, 21º, 96% , 55% 
+Joaquim Nabuco, PE, 31º, 20º, 99% , 51% 
+Joinville, SC, 26º, 20º, 96% , 73% 
+João Pessoa, PB, 27º, 24º, 88% , 70% 
+João Lisboa, MA, 37º, 25º,32%,
+João Neiva, ES, 24º, 20º, 96% , 79% 
+João Alfredo, PE, 32º, 20º, 97% , 42% 
+Jijoca de Jericoacoara, CE, 33º, 25º, 86% , 50% 
+João Costa, PI, 38º, 27º, 52% , 24% 
+Jitaúna, BA, 29º, 21º, 100% , 58% 
+Joanésia, MG, 27º, 20º, 99% , 65% 
+Jesúpolis, GO, 29º, 20º, 92% , 54% 
+Jesuânia, MG, 26º, 15º, 100% , 62% 
+Jeremoabo, BA, 33º, 20º, 99% , 36% 
+Jericó, PB, 37º, 23º, 74% , 23% 
+Jequié, BA, 31º, 21º, 93% , 46% 
+Jenipapo de Minas, MG, 23º, 21º, 100% , 83% 
+Jeceaba, MG, 26º, 16º, 99% , 61% 
+Jenipapo dos Vieiras, MA, 34º, 24º, 83% , 46% 
+Jaú do Tocantins, TO, 35º, 24º, 78% , 39% 
+Jaú, SP, 31º, 18º, 93% , 43% 
+Jatobá do Piauí, PI, 39º, 26º, 69% , 23% 
+Jateí, MS, 34º, 22º, 89% , 45% 
+Jataúba, PE, 32º, 19º, 89% , 31% 
+Jaru, RO, 34º, 23º, 99% , 52% 
+Jati, CE, 36º, 22º, 73% , 22% 
+Jardinópolis, SP, 31º, 20º, 93% , 49% 
+Jardim Olinda, PR, 32º, 21º, 91% , 52% 
+Jardim do Seridó, RN, 37º, 22º, 79% , 22% 
+Jardim do Mulato, PI, 38º, 25º, 72% , 28% 
+Jarinu, SP, 27º, 17º, 96% , 48% 
+Jardim Alegre, PR, 30º, 19º, 88% , 45% 
+Jardim de Angicos, RN, 35º, 22º, 90% , 34% 
+Jardim, MS, 36º, 24º, 77% , 37% 
+Jaraguá, GO, 27º, 21º, 96% , 70% 
+Jardim, CE, 33º, 19º, 79% , 25% 
+Japorã, MS, 33º, 22º, 89% , 51% 
+Japonvar, MG, 23º, 19º, 96% , 84% 
+Jaqueira, PE, 29º, 20º, 98% , 54% 
+Jaraguari, MS, 31º, 21º, 95% , 57% 
+Japi, RN, 32º, 20º, 96% , 39% 
+Jaquirana, RS, 26º, 13º, 100% , 53% 
+Japira, PR, 29º, 15º, 98% , 44% 
+Japeri, RJ, 25º, 19º, 97% , 71% 
+Janiópolis, PR, 32º, 20º, 90% , 50% 
+Jangada, MT, 33º, 24º, 98% , 60% 
+Jandaíra, RN, 35º, 22º, 88% , 34% 
+Jandaia do Sul, PR, 30º, 19º, 87% , 44% 
+Janaúba, MG, 27º, 22º, 90% , 61% 
+Japaratuba, SE, 30º, 23º, 91% , 58% 
+Januário Cicco, RN, 34º, 22º, 92% , 41% 
+Januária, MG, 28º, 22º, 90% , 60% 
+Jampruca, MG, 25º, 22º, 96% , 82% 
+Jambeiro, SP, 26º, 16º, 100% , 56% 
+Jaguaripe, BA, 29º, 22º, 97% , 68% 
+Jaguaruna, SC, 24º, 20º, 95% , 74% 
+Jaguaribe, CE, 38º, 25º, 66% , 20% 
+Jaguaré, ES, 25º, 21º, 98% , 81% 
+Jaguarari, BA, 31º, 19º, 97% , 38% 
+Jaguarão, RS, 25º, 14º, 100% , 61% 
+Jaguariaíva, PR, 26º, 12º, 100% , 42% 
+Jaguapitã, PR, 31º, 19º, 91% , 42% 
+Jacundá, PA, 34º, 25º, 85% , 51% 
+Jacobina, BA, 32º, 21º, 93% , 37% 
+Jaguaraçu, MG, 25º, 18º, 100% , 70% 
+Jacupiranga, SP, 26º, 18º, 99% , 69% 
+Jaciara, MT, 30º, 24º, 94% , 71% 
+Jacuípe, AL, 30º, 21º, 99% , 54% 
+Jacarezinho, PR, 30º, 17º, 98% , 49% 
+Jacareí, SP, 28º, 16º, 99% , 46% 
+Jacinto Machado, SC, 24º, 19º, 100% , 75% 
+Jacaraú, PB, 31º, 22º, 93% , 50% 
+Jacutinga, MG, 27º, 17º, 96% , 52% 
+Jacinto, MG, 33º, 21º, 95% , 39% 
+Jacareacanga, PA, 33º, 26º, 93% , 64% 
+Jacaraci, BA, 31º, 18º, 93% , 42% 
+Jaboticatubas, MG, 24º, 19º, 93% , 65% 
+Jaboticaba, RS, 29º, 17º, 96% , 48% 
+Jaborá, SC, 28º, 15º, 99% , 49% 
+Jaborandi, BA, 35º, 22º, 79% , 33% 
+Jaborandi, SP, 28º, 21º, 97% , 67% 
+Iuiu, BA, 34º, 22º, 71% , 34% 
+Ivorá, RS, 26º, 17º, 100% , 57% 
+Ivaté, PR, 33º, 22º, 86% , 44% 
+Ivolândia, GO, 31º, 22º, 92% , 54% 
+Ivinhema, MS, 33º, 22º, 85% , 48% 
+Ituporanga, SC, 26º, 18º, 96% , 66% 
+Itupiranga, PA, 32º, 24º, 93% , 62% 
+Itutinga, MG, 27º, 16º, 95% , 61% 
+Ituiutaba, MG, 30º, 20º, 99% , 61% 
+Itu, SP, 29º, 17º, 95% , 46% 
+Itumbiara, GO, 30º, 21º, 98% , 61% 
+Ituaçu, BA, 29º, 17º, 99% , 45% 
+Itinga do Maranhão, MA, 34º, 25º, 84% , 49% 
+Itororó, BA, 31º, 21º, 97% , 49% 
+Itiruçu, BA, 28º, 20º, 96% , 52% 
+Itirapina, SP, 29º, 18º, 96% , 55% 
+Itatuba, PB, 33º, 22º, 90% , 39% 
+Itauçu, GO, 28º, 19º, 96% , 56% 
+Itaú, RN, 37º, 24º, 68% , 22% 
+Itaverava, MG, 25º, 16º, 98% , 67% 
+Itaquaquecetuba, SP, 26º, 17º, 98% , 54% 
+Itarumã, GO, 30º, 21º, 99% , 62% 
+Itatiaia, RJ, 25º, 18º, 95% , 66% 
+Itatira, CE, 33º, 20º, 96% , 29% 
+Itaqui, RS, 30º, 18º, 96% , 52% 
+Itarantim, BA, 34º, 21º, 95% , 36% 
+Itatim, BA, 32º, 22º, 94% , 43% 
+Itariri, SP, 24º, 18º, 100% , 77% 
+Itapororoca, PB, 31º, 22º, 92% , 52% 
+Itapuí, SP, 31º, 20º, 90% , 52% 
+Itapuranga, GO, 29º, 21º, 92% , 61% 
+Itaporanga, PB, 37º, 23º, 71% , 24% 
+Itapucá, RS, 27º, 14º, 100% , 56% 
+Itaporanga D'Ajuda, SE, 31º, 22º, 96% , 52% 
+Itaporã do Tocantins, TO, 34º, 24º, 87% , 47% 
+Itapira, SP, 30º, 18º, 93% , 48% 
+Itapicuru, BA, 35º, 21º, 98% , 33% 
+Itapeva, SP, 26º, 16º, 98% , 56% 
+Itapiúna, CE, 37º, 23º, 88% , 29% 
+Itapetininga, SP, 28º, 16º, 99% , 49% 
+Itaporã, MS, 35º, 22º, 83% , 39% 
+Itapirapuã Paulista, SP, 27º, 16º, 100% , 58% 
+Itapiranga, SC, 32º, 17º, 95% , 42% 
+Itanhandu, MG, 24º, 14º, 96% , 57% 
+Itanhangá, MT, 36º, 23º, 82% , 43% 
+Itaperuna, RJ, 28º, 21º, 95% , 62% 
+Itapecuru-Mirim, MA, 35º, 25º, 86% , 43% 
+Itapagipe, MG, 31º, 21º, 98% , 59% 
+Itaobim, MG, 25º, 21º, 93% , 72% 
+Itanhém, BA, 26º, 21º, 98% , 70% 
+Itapetim, PE, 34º, 18º, 95% , 24% 
+Itanhaém, SP, 24º, 20º, 98% , 82% 
+Itambaracá, PR, 31º, 18º, 94% , 44% 
+Itambacuri, MG, 22º, 19º, 98% , 88% 
+Itamarandiba, MG, 21º, 18º, 98% , 87% 
+Italva, RJ, 27º, 21º, 96% , 61% 
+Itajobi, SP, 29º, 21º, 96% , 65% 
+Itaipé, MG, 20º, 18º, 100% , 95% 
+Itamaracá, PE, 29º, 23º, 90% , 63% 
+Itaitinga, CE, 31º, 25º, 83% , 52% 
+Itagi, BA, 29º, 20º, 99% , 57% 
+Itaí, SP, 29º, 16º, 99% , 48% 
+Itaguatins, TO, 35º, 26º, 80% , 42% 
+Itacuruba, PE, 34º, 22º, 80% , 31% 
+Itaguara, MG, 25º, 17º, 96% , 69% 
+Itagimirim, BA, 32º, 21º, 98% , 47% 
+Itaipava, RJ, 21º, 14º, 100% , 70% 
+Itabuna, BA, 29º, 21º, 100% , 63% 
+Itabaiana, SE, 30º, 22º, 97% , 56% 
+Itá, SC, 30º, 16º, 100% , 49% 
+Itabirito, MG, 25º, 17º, 97% , 59% 
+Itaboraí, RJ, 28º, 21º, 93% , 64% 
+Itaberaba, BA, 35º, 22º, 92% , 32% 
+Itaberá, SP, 27º, 16º, 97% , 53% 
+Israelândia, GO, 32º, 24º, 88% , 49% 
+Iraquara, BA, 31º, 20º, 88% , 38% 
+Irituia, PA, 35º, 24º, 90% , 47% 
+Isaías Coelho, PI, 39º, 27º, 52% , 18% 
+Irati, SC, 30º, 17º, 95% , 48% 
+Iretama, PR, 31º, 18º, 92% , 44% 
+Irapuru, SP, 32º, 21º, 92% , 54% 
+Irecê, BA, 35º, 20º, 85% , 26% 
+Irati, PR, 26º, 17º, 97% , 52% 
+Irapuã, SP, 30º, 21º, 97% , 64% 
+Iramaia, BA, 32º, 20º, 94% , 37% 
+Iranduba, AM, 35º, 26º, 96% , 46% 
+Irajuba, BA, 30º, 19º, 99% , 41% 
+Iraí de Minas, MG, 24º, 19º, 98% , 76% 
+Iracema, RR, 35º, 23º, 85% , 40% 
+Iraceminha, SC, 31º, 18º, 91% , 47% 
+Iracemápolis, SP, 29º, 19º, 96% , 53% 
+Ipueiras, CE, 36º, 23º, 83% , 28% 
+Ipuaçu, SC, 29º, 19º, 87% , 53% 
+Ipubi, PE, 35º, 22º, 66% , 23% 
+Ipumirim, SC, 28º, 15º, 97% , 52% 
+Ipupiara, BA, 33º, 20º, 82% , 34% 
+Ipueiras, TO, 34º, 24º, 100% , 52% 
+Ipu, CE, 34º, 22º, 88% , 31% 
+Iporã do Oeste, SC, 31º, 17º, 94% , 42% 
+Iporã, PR, 33º, 21º, 95% , 38% 
+Ipiranga do Piauí, PI, 37º, 26º, 55% , 20% 
+Iporá, GO, 31º, 23º, 92% , 50% 
+Ipojuca, PE, 29º, 21º, 98% , 64% 
+Ipiranga do Sul, RS, 28º, 16º, 97% , 44% 
+Ipixuna do Pará, PA, 34º, 24º, 94% , 52% 
+Ipiranga, PR, 27º, 14º, 100% , 51% 
+Iperó, SP, 28º, 16º, 99% , 54% 
+Ipiguá, SP, 29º, 21º, 97% , 64% 
+Ipiaú, BA, 30º, 22º, 97% , 58% 
+Ipiranga Do Norte, MT, 36º, 23º, 81% , 42% 
+Ipecaetá, BA, 32º, 21º, 100% , 46% 
+Ipiaçu, MG, 30º, 23º, 95% , 64% 
+Ipirá, BA, 33º, 21º, 97% , 37% 
+Ipanguaçu, RN, 38º, 24º, 77% , 28% 
+Ipatinga, MG, 29º, 21º, 100% , 66% 
+Ipê, RS, 27º, 15º, 99% , 48% 
+Inúbia Paulista, SP, 31º, 21º, 88% , 54% 
+Ipaumirim, CE, 37º, 24º, 70% , 20% 
+Ipaba, MG, 28º, 21º, 100% , 68% 
+Ipaporanga, CE, 37º, 22º, 87% , 24% 
+Ipameri, GO, 28º, 21º, 98% , 62% 
+Inhapi, AL, 33º, 20º, 92% , 33% 
+Inhumas, GO, 27º, 20º, 99% , 69% 
+Inhangapi, PA, 35º, 25º, 88% , 46% 
+Inhaúma, MG, 27º, 18º, 93% , 62% 
+Inhambupe, BA, 33º, 21º, 96% , 41% 
+Inhacorá, RS, 30º, 17º, 97% , 47% 
+Ingá, PB, 33º, 22º, 92% , 40% 
+Indiara, GO, 30º, 21º, 99% , 62% 
+Indiaporã, SP, 29º, 22º, 95% , 68% 
+Indiana, SP, 31º, 20º, 89% , 56% 
+Indaiatuba, SP, 30º, 17º, 94% , 42% 
+Indianópolis, PR, 34º, 21º, 85% , 35% 
+Indaial, SC, 25º, 19º, 99% , 75% 
+Indaiabira, MG, 30º, 20º, 85% , 43% 
+Independência, CE, 36º, 24º, 75% , 23% 
+Imperatriz, MA, 35º, 26º, 77% , 43% 
+Inajá, PE, 36º, 20º, 92% , 23% 
+Imbé de Minas, MG, 24º, 18º, 98% , 71% 
+Inaciolândia, GO, 30º, 23º, 95% , 62% 
+Imaculada, PB, 33º, 17º, 96% , 23% 
+Imbituba, SC, 23º, 20º, 92% , 79% 
+Imbaú, PR, 29º, 16º, 100% , 42% 
+Inácio Martins, PR, 24º, 15º, 100% , 58% 
+Ilicínea, MG, 25º, 17º, 99% , 67% 
+Imigrante, RS, 27º, 15º, 100% , 65% 
+Imbé, RS, 23º, 21º, 93% , 79% 
+Ilhota, SC, 24º, 19º, 99% , 79% 
+Ilhabela, SP, 21º, 19º, 100% , 85% 
+Ilha Grande, PI, 34º, 25º, 84% , 46% 
+Ilhéus, BA, 27º, 24º, 87% , 75% 
+Ilha Solteira, SP, 30º, 24º, 92% , 63% 
+Ijaci, MG, 27º, 17º, 98% , 49% 
+Iguatemi, MS, 34º, 22º, 96% , 42% 
+Ijuí, RS, 30º, 16º, 96% , 48% 
+Iguatama, MG, 25º, 19º, 95% , 62% 
+Ilha Comprida, SP, 25º, 19º, 100% , 79% 
+Iguape, SP, 25º, 19º, 100% , 79% 
+Iguaraci, PE, 35º, 20º, 84% , 24% 
+Igrapiúna, BA, 29º, 23º, 95% , 68% 
+Igaratá, SP, 27º, 17º, 98% , 51% 
+Iguaí, BA, 29º, 21º, 95% , 54% 
+Igrejinha, RS, 28º, 15º, 100% , 60% 
+Igreja Nova, AL, 32º, 22º, 92% , 47% 
+Igarassu, PE, 29º, 23º, 90% , 63% 
+Igarapé-Açu, PA, 34º, 24º, 88% , 48% 
+Igarapé Grande, MA, 36º, 25º, 82% , 40% 
+Igarapé, MG, 26º, 17º, 99% , 62% 
+Igaporã, BA, 32º, 19º, 93% , 35% 
+Iepê, SP, 31º, 20º, 91% , 52% 
+Ichu, BA, 34º, 22º, 91% , 37% 
+Icém, SP, 28º, 22º, 96% , 69% 
+Icó, CE, 39º, 25º, 80% , 19% 
+Igaracy, PB, 37º, 24º, 69% , 22% 
+Igaraçu do Tietê, SP, 31º, 19º, 93% , 45% 
+Icaraí de Minas, MG, 25º, 22º, 92% , 72% 
+Ibitirama, ES, 20º, 15º, 100% , 78% 
+Içara, SC, 25º, 19º, 97% , 71% 
+Ibitinga, SP, 31º, 19º, 89% , 50% 
+Icapuí, CE, 29º, 25º, 85% , 68% 
+Ibituruna, MG, 27º, 16º, 96% , 61% 
+Ibirubá, RS, 29º, 14º, 100% , 46% 
+Ibirité, MG, 25º, 17º, 99% , 64% 
+Ibirataia, BA, 29º, 22º, 98% , 61% 
+Ibotirama, BA, 36º, 23º, 70% , 30% 
+Ibirarema, SP, 31º, 18º, 95% , 48% 
+Ibiraçu, ES, 23º, 20º, 95% , 89% 
+Ibirama, SC, 26º, 17º, 100% , 67% 
+Ibiraiaras, RS, 27º, 13º, 100% , 48% 
+Ibirajuba, PE, 29º, 18º, 98% , 46% 
+Ibiraci, MG, 23º, 18º, 100% , 76% 
+Ibiporã, PR, 32º, 19º, 88% , 36% 
+Ibicuitinga, CE, 37º, 23º, 77% , 23% 
+Ibipitanga, BA, 36º, 22º, 79% , 25% 
+Ibirapitanga, BA, 29º, 21º, 100% , 62% 
+Ibipeba, BA, 33º, 20º, 87% , 29% 
+Ibiassucê, BA, 33º, 21º, 89% , 28% 
+Ibicaré, SC, 29º, 15º, 99% , 45% 
+Ibiara, PB, 37º, 22º, 69% , 21% 
+Ibicuí, BA, 30º, 21º, 96% , 54% 
+Ibiaí, MG, 30º, 22º, 83% , 58% 
+Ibertioga, MG, 24º, 15º, 98% , 67% 
+Ibiapina, CE, 33º, 20º, 95% , 29% 
+Ibiá, MG, 26º, 18º, 98% , 62% 
+Ibema, PR, 28º, 18º, 96% , 50% 
+Ibarama, RS, 28º, 15º, 98% , 54% 
+Humberto de Campos, MA, 34º, 25º, 88% , 48% 
+Ibaiti, PR, 29º, 15º, 98% , 44% 
+Iaçu, BA, 35º, 22º, 91% , 30% 
+Ibatiba, ES, 24º, 17º, 98% , 64% 
+Iaras, SP, 29º, 17º, 97% , 50% 
+Iaciara, GO, 32º, 23º, 80% , 49% 
+Humaitá, RS, 31º, 17º, 95% , 46% 
+Horizonte, CE, 33º, 24º, 87% , 46% 
+Hortolândia, SP, 30º, 18º, 93% , 41% 
+Honório Serpa, PR, 26º, 18º, 92% , 68% 
+Hulha Negra, RS, 26º, 14º, 100% , 57% 
+Horizontina, RS, 31º, 17º, 95% , 46% 
+Herveiras, RS, 27º, 12º, 100% , 57% 
+Holambra, SP, 30º, 18º, 95% , 45% 
+Herculândia, SP, 31º, 20º, 88% , 53% 
+Herval, RS, 25º, 17º, 100% , 61% 
+Hidrolândia, CE, 37º, 24º, 82% , 23% 
+Herval D'Oeste, SC, 28º, 17º, 96% , 44% 
+Harmonia, RS, 24º, 15º, 100% , 74% 
+Heliodora, MG, 26º, 15º, 98% , 63% 
+Gurupá, PA, 33º, 26º, 88% , 56% 
+Gurjão, PB, 33º, 19º, 94% , 31% 
+Gurupi, TO, 34º, 24º, 87% , 52% 
+Guiricema, MG, 25º, 17º, 98% , 72% 
+Guimarânia, MG, 24º, 19º, 99% , 75% 
+Guia Lopes da Laguna, MS, 36º, 24º, 77% , 37% 
+Guiratinga, MT, 30º, 23º, 97% , 69% 
+Guaxupé, MG, 27º, 17º, 97% , 47% 
+Guatapará, SP, 31º, 19º, 93% , 44% 
+Guarulhos, SP, 26º, 16º, 99% , 55% 
+Guidoval, MG, 25º, 18º, 98% , 73% 
+Guatambú, SC, 30º, 17º, 86% , 47% 
+Guarinos, GO, 32º, 24º, 76% , 50% 
+Guariba, SP, 31º, 19º, 93% , 46% 
+Guareí, SP, 28º, 15º, 99% , 49% 
+Guaribas, PI, 36º, 24º, 52% , 24% 
+Guarujá do Sul, SC, 29º, 16º, 96% , 46% 
+Guarujá, SP, 24º, 22º, 87% , 81% 
+Guarda-Mor, MG, 26º, 21º, 95% , 73% 
+Guaratuba, PR, 24º, 20º, 99% , 80% 
+Guararapes, SP, 32º, 21º, 94% , 46% 
+Guaraciaba, SC, 30º, 16º, 99% , 44% 
+Guaratinga, BA, 28º, 22º, 95% , 59% 
+Guaraci, SP, 28º, 22º, 94% , 69% 
+Guararema, SP, 27º, 16º, 97% , 52% 
+Guarará, MG, 24º, 17º, 98% , 74% 
+Guará, SP, 27º, 21º, 95% , 67% 
+Guaraci, PR, 31º, 18º, 88% , 39% 
+Guaratinguetá, SP, 28º, 17º, 96% , 57% 
+Guaraçaí, SP, 32º, 22º, 93% , 55% 
+Guapirama, PR, 30º, 16º, 98% , 46% 
+Guapimirim, RJ, 22º, 17º, 99% , 75% 
+Guará, DF, 25º, 18º, 94% , 68% 
+Guaporé, RS, 28º, 14º, 100% , 55% 
+Guapó, GO, 28º, 21º, 92% , 57% 
+Guapiara, SP, 23º, 15º, 100% , 67% 
+Guapiaçu, SP, 31º, 20º, 99% , 56% 
+Guapé, MG, 26º, 18º, 95% , 65% 
+Guamiranga, PR, 26º, 14º, 100% , 60% 
+Guamaré, RN, 31º, 24º, 84% , 54% 
+Guanambi, BA, 36º, 22º, 78% , 30% 
+Guajará, AM, 33º, 23º, 98% , 59% 
+Guanhães, MG, 23º, 18º, 99% , 76% 
+Guajará-Mirim, RO, 32º, 25º, 95% , 63% 
+Guaiúba, CE, 33º, 24º, 91% , 45% 
+Guajeru, BA, 35º, 21º, 87% , 26% 
+Guaíra, SP, 31º, 20º, 100% , 53% 
+Guairaçá, PR, 32º, 21º, 78% , 39% 
+Guaíra, PR, 34º, 22º, 95% , 40% 
+Guaimbê, SP, 31º, 19º, 83% , 44% 
+Guaiçara, SP, 32º, 20º, 88% , 50% 
+Guabiruba, SC, 25º, 18º, 95% , 70% 
+Guaíba, RS, 27º, 20º, 94% , 64% 
+Guadalupe, PI, 35º, 25º, 76% , 38% 
+Guabiju, RS, 27º, 15º, 99% , 49% 
+Grupiara, MG, 27º, 22º, 95% , 70% 
+Grossos, RN, 31º, 24º, 85% , 55% 
+Guaporema, PR, 33º, 21º, 91% , 46% 
+Groairas, CE, 38º, 25º, 81% , 23% 
+Gravatal, SC, 28º, 19º, 92% , 61% 
+Gravataí, RS, 26º, 19º, 99% , 67% 
+Granja, CE, 38º, 25º, 82% , 28% 
+Grão Pará, SC, 29º, 17º, 98% , 57% 
+Grão Mogol, MG, 24º, 19º, 98% , 75% 
+Granito, PE, 37º, 24º, 60% , 21% 
+Gravatá, PE, 30º, 20º, 96% , 45% 
+Granjeiro, CE, 37º, 25º, 59% , 20% 
+Grandes Rios, PR, 31º, 19º, 89% , 42% 
+Gramado dos Loureiros, RS, 30º, 16º, 94% , 46% 
+Gramado, RS, 24º, 15º, 100% , 62% 
+Grajaú, MA, 34º, 25º, 80% , 48% 
+Graccho Cardoso, SE, 32º, 21º, 96% , 44% 
+Graça Aranha, MA, 36º, 24º, 84% , 42% 
+Gramado Xavier, RS, 27º, 12º, 100% , 53% 
+Governador Valadares, MG, 26º, 21º, 97% , 78% 
+Governador Nunes Freire, MA, 35º, 24º, 91% , 47% 
+Graça, CE, 35º, 22º, 88% , 25% 
+Governador Newton Bello, MA, 35º, 24º, 87% , 45% 
+Governador Lindenberg, ES, 25º, 20º, 99% , 74% 
+Governador Mangabeira, BA, 31º, 20º, 100% , 54% 
+Governador Jorge Teixeira, RO, 34º, 23º, 100% , 51% 
+Governador Luiz Rocha, MA, 36º, 24º, 82% , 42% 
+Governador Edison Lobão, MA, 36º, 25º, 76% , 39% 
+Governador Eugênio Barros, MA, 35º, 24º, 87% , 44% 
+Governador Dix-Sept Rosado, RN, 38º, 23º, 71% , 26% 
+Governador Archer, MA, 36º, 25º, 82% , 43% 
+Governador Celso Ramos, SC, 25º, 21º, 91% , 76% 
+Gonçalves, MG, 22º, 14º, 99% , 63% 
+Gongogi, BA, 30º, 22º, 97% , 60% 
+Gouvelândia, GO, 30º, 24º, 92% , 64% 
+Gonçalves Dias, MA, 35º, 24º, 88% , 45% 
+Goioxim, PR, 27º, 16º, 95% , 51% 
+Gonzaga, MG, 24º, 18º, 99% , 69% 
+Goiatuba, GO, 29º, 20º, 99% , 61% 
+Goioerê, PR, 31º, 21º, 87% , 53% 
+Goiás, GO, 30º, 21º, 90% , 60% 
+Goiânia, GO, 28º, 20º, 97% , 68% 
+Goiatins, TO, 33º, 24º, 87% , 51% 
+Goianorte, TO, 35º, 23º, 94% , 45% 
+Goianira, GO, 27º, 20º, 98% , 69% 
+Goianésia do Pará, PA, 32º, 24º, 91% , 58% 
+Goianinha, RN, 31º, 22º, 92% , 55% 
+Goianápolis, GO, 26º, 20º, 99% , 69% 
+Goianá, MG, 25º, 17º, 98% , 68% 
+Goiandira, GO, 28º, 20º, 97% , 65% 
+Goiabeira, MG, 26º, 20º, 95% , 71% 
+Goiana, PE, 30º, 21º, 95% , 55% 
+Godofredo Viana, MA, 32º, 25º, 90% , 57% 
+Glaucilândia, MG, 23º, 20º, 95% , 86% 
+Glorinha, RS, 28º, 15º, 100% , 61% 
+Glória do Goitá, PE, 31º, 21º, 96% , 51% 
+Godoy Moreira, PR, 31º, 20º, 86% , 43% 
+Glicério, SP, 32º, 21º, 92% , 50% 
+Glória de Dourados, MS, 33º, 21º, 91% , 48% 
+Glória D'Oeste, MT, 32º, 24º, 100% , 65% 
+General Salgado, SP, 32º, 21º, 95% , 55% 
+Giruá, RS, 30º, 17º, 95% , 46% 
+Girau do Ponciano, AL, 34º, 21º, 97% , 37% 
+Gilbués, PI, 37º, 27º, 52% , 26% 
+Getúlio Vargas, RS, 28º, 15º, 99% , 46% 
+Gentil, RS, 27º, 14º, 100% , 53% 
+General Sampaio, CE, 36º, 24º, 87% , 34% 
+Geminiano, PI, 39º, 28º, 47% , 18% 
+General Carneiro, MT, 31º, 22º, 100% , 66% 
+Gentio do Ouro, BA, 32º, 18º, 90% , 31% 
+Gaurama, RS, 28º, 16º, 99% , 47% 
+General Carneiro, PR, 27º, 12º, 100% , 46% 
+Gavião Peixoto, SP, 31º, 19º, 91% , 47% 
+Gavião, BA, 34º, 22º, 90% , 35% 
+General Maynard, SE, 30º, 23º, 93% , 61% 
+Garibaldi, RS, 26º, 14º, 93% , 60% 
+Gaspar, SC, 24º, 19º, 100% , 81% 
+Gaúcha do Norte, MT, 30º, 22º, 100% , 69% 
+Gameleira de Goiás, GO, 27º, 20º, 99% , 65% 
+Gameleiras, MG, 32º, 21º, 79% , 41% 
+Garopaba, SC, 22º, 21º, 88% , 85% 
+Garruchos, RS, 30º, 16º, 96% , 55% 
+Gameleira, PE, 30º, 20º, 100% , 55% 
+Garça, SP, 30º, 19º, 91% , 55% 
+Galvão, SC, 29º, 18º, 91% , 53% 
+Gado Bravo, PB, 32º, 20º, 94% , 38% 
+Gabriel Monteiro, SP, 32º, 21º, 90% , 45% 
+Frutuoso Gomes, RN, 36º, 22º, 74% , 24% 
+Galiléia, MG, 27º, 21º, 92% , 66% 
+Fronteira dos Vales, MG, 24º, 20º, 99% , 74% 
+Fronteiras, PI, 36º, 25º, 54% , 20% 
+Fruta de Leite, MG, 30º, 20º, 93% , 47% 
+Frutal, MG, 28º, 21º, 98% , 68% 
+Frei Miguelinho, PE, 32º, 20º, 94% , 39% 
+Frei Martinho, PB, 34º, 21º, 84% , 29% 
+Frei Inocêncio, MG, 24º, 21º, 97% , 85% 
+Frei Paulo, SE, 31º, 21º, 99% , 50% 
+Frei Gaspar, MG, 22º, 20º, 99% , 91% 
+Fronteira, MG, 28º, 22º, 96% , 69% 
+Frei Lagonegro, MG, 25º, 19º, 97% , 70% 
+Frecheirinha, CE, 37º, 23º, 83% , 25% 
+Francisco Santos, PI, 37º, 26º, 53% , 19% 
+Franco da Rocha, SP, 27º, 16º, 98% , 49% 
+Franciscópolis, MG, 24º, 21º, 95% , 84% 
+Francisco Morato, SP, 27º, 16º, 98% , 49% 
+Francisco Sá, MG, 24º, 20º, 91% , 74% 
+Francisco Dumont, MG, 28º, 21º, 89% , 55% 
+Frederico Westphalen, RS, 30º, 17º, 96% , 46% 
+Francisco Macedo, PI, 38º, 24º, 66% , 19% 
+Francisco Dantas, RN, 36º, 23º, 73% , 23% 
+Francisco Badaró, MG, 24º, 21º, 98% , 80% 
+Fraiburgo, SC, 27º, 15º, 96% , 45% 
+Foz do Jordão, PR, 27º, 16º, 93% , 70% 
+Francisco Alves, PR, 32º, 22º, 90% , 51% 
+Francinópolis, PI, 39º, 27º, 48% , 18% 
+Fortuna de Minas, MG, 27º, 18º, 94% , 62% 
+Foz do Iguaçu, PR, 33º, 22º, 98% , 47% 
+Franca, SP, 28º, 16º, 99% , 57% 
+Fortaleza, CE, 30º, 26º, 80% , 59% 
+Fortuna, MA, 35º, 24º, 83% , 42% 
+Fortaleza dos Nogueiras, MA, 32º, 24º, 73% , 47% 
+Fortaleza de Minas, MG, 27º, 18º, 96% , 55% 
+Fortim, CE, 31º, 24º, 85% , 53% 
+Forquilhinha, SC, 26º, 20º, 95% , 70% 
+Formoso do Araguaia, TO, 35º, 24º, 93% , 47% 
+Forquetinha, RS, 26º, 15º, 99% , 62% 
+Fortaleza dos Valos, RS, 28º, 16º, 99% , 48% 
+Formoso, MG, 30º, 21º, 85% , 47% 
+Formosa do Sul, SC, 30º, 17º, 98% , 44% 
+Forquilha, CE, 38º, 25º, 81% , 24% 
+Formoso, GO, 31º, 25º, 75% , 54% 
+Formosa do Oeste, PR, 32º, 21º, 91% , 53% 
+Formigueiro, RS, 27º, 16º, 99% , 59% 
+Formosa da Serra Negra, MA, 33º, 24º, 78% , 46% 
+Formiga, MG, 26º, 17º, 97% , 62% 
+Fonte Boa, AM, 34º, 24º, 97% , 55% 
+Fontoura Xavier, RS, 27º, 14º, 100% , 54% 
+Florínea, SP, 32º, 19º, 93% , 45% 
+Flórida, PR, 32º, 20º, 87% , 42% 
+Floriano Peixoto, RS, 29º, 15º, 100% , 44% 
+Florestópolis, PR, 31º, 18º, 92% , 46% 
+Floriano, PI, 36º, 25º, 59% , 33% 
+Flórida Paulista, SP, 32º, 21º, 91% , 54% 
+Floresta, PR, 32º, 20º, 91% , 42% 
+Florianópolis, SC, 24º, 20º, 93% , 78% 
+Flores, PE, 35º, 20º, 83% , 21% 
+Floraí, PR, 32º, 20º, 88% , 44% 
+Florestal, MG, 26º, 18º, 99% , 62% 
+Florânia, RN, 35º, 21º, 80% , 27% 
+Floresta, PE, 36º, 21º, 79% , 27% 
+Flores da Cunha, RS, 27º, 14º, 100% , 50% 
+Flor da Serra do Sul, PR, 28º, 18º, 88% , 59% 
+Firminópolis, GO, 30º, 22º, 94% , 54% 
+Figueira, PR, 30º, 16º, 96% , 44% 
+Filadélfia, TO, 35º, 25º, 93% , 45% 
+Ferreira Gomes, AP, 35º, 24º, 90% , 45% 
+Figueirão, MS, 33º, 22º, 88% , 48% 
+Fernandópolis, SP, 31º, 20º, 97% , 57% 
+Fernandes Pinheiro, PR, 27º, 15º, 99% , 56% 
+Fernando Pedroza, RN, 36º, 23º, 82% , 28% 
+Ferros, MG, 26º, 19º, 100% , 68% 
+Fernandes Tourinho, MG, 26º, 21º, 98% , 74% 
+Feliz Deserto, AL, 30º, 22º, 90% , 63% 
+Fênix, PR, 32º, 20º, 92% , 46% 
+Formosa do Rio Preto, BA, 36º, 23º, 57% , 27% 
+Felipe Guerra, RN, 37º, 23º, 82% , 31% 
+Feira Nova, PE, 32º, 22º, 92% , 46% 
+Feira Nova, SE, 32º, 21º, 95% , 46% 
+Felixlândia, MG, 27º, 20º, 97% , 65% 
+Feira Nova do Maranhão, MA, 37º, 24º, 84% , 29% 
+Feijó, AC, 33º, 22º, 100% , 56% 
+Feira Grande, AL, 31º, 21º, 95% , 47% 
+Feira de Santana, BA, 34º, 21º, 98% , 36% 
+Fazenda Nova, GO, 32º, 24º, 85% , 49% 
+Faxinalzinho, RS, 30º, 15º, 93% , 44% 
+Fazenda Vilanova, RS, 27º, 15º, 100% , 62% 
+Faxinal do Soturno, RS, 27º, 15º, 100% , 59% 
+Fazenda Rio Grande, PR, 22º, 16º, 98% , 67% 
+Fátima, BA, 33º, 22º, 94% , 39% 
+Fátima do Sul, MS, 35º, 21º, 94% , 39% 
+Faro, PA, 34º, 27º, 84% , 50% 
+Fartura do Piauí, PI, 36º, 25º, 58% , 26% 
+Fagundes Varela, RS, 27º, 14º, 100% , 54% 
+Farol, PR, 31º, 19º, 93% , 51% 
+Faria Lemos, MG, 24º, 17º, 100% , 71% 
+Extremoz, RN, 31º, 23º, 90% , 55% 
+Faina, GO, 32º, 23º, 84% , 50% 
+Eunápolis, BA, 32º, 22º, 95% , 43% 
+Eusébio, CE, 31º, 25º, 82% , 54% 
+Extrema, MG, 25º, 15º, 100% , 56% 
+Eugenópolis, MG, 27º, 20º, 96% , 65% 
+Ewbank da Câmara, MG, 26º, 17º, 99% , 60% 
+Eugênio de Castro, RS, 30º, 16º, 98% , 47% 
+Euclides da Cunha, BA, 34º, 20º, 94% , 29% 
+Estrela Dalva, MG, 27º, 20º, 97% , 62% 
+Estrela do Norte, GO, 34º, 25º, 73% , 47% 
+Estrela Velha, RS, 28º, 14º, 100% , 53% 
+Estrela do Indaiá, MG, 24º, 19º, 98% , 79% 
+Estrela do Norte, SP, 31º, 20º, 91% , 55% 
+Estreito, MA, 34º, 25º, 85% , 44% 
+Esteio, RS, 27º, 19º, 98% , 65% 
+Estrela, RS, 27º, 16º, 100% , 61% 
+Estiva, MG, 27º, 17º, 96% , 56% 
+Estância, SE, 30º, 23º, 93% , 58% 
+Estância Velha, RS, 24º, 21º, 93% , 76% 
+Esplanada, BA, 31º, 22º, 97% , 52% 
+Espírito Santo do Pinhal, SP, 27º, 18º, 92% , 52% 
+Espumoso, RS, 29º, 14º, 96% , 51% 
+Estação, RS, 28º, 15º, 99% , 45% 
+Espírito Santo do Dourado, MG, 24º, 16º, 99% , 62% 
+Espírito Santo, RN, 32º, 22º, 97% , 47% 
+Espigão Alto do Iguaçu, PR, 27º, 20º, 95% , 73% 
+Esperança, PB, 30º, 19º, 98% , 44% 
+Espinosa, MG, 34º, 21º, 79% , 36% 
+Espera Feliz, MG, 24º, 17º, 100% , 68% 
+Esperança do Sul, RS, 31º, 17º, 91% , 49% 
+Esperantinópolis, MA, 36º, 25º, 80% , 39% 
+Esmeraldas, MG, 26º, 18º, 97% , 63% 
+Esperantina, PI, 39º, 25º, 76% , 26% 
+Escada, PE, 29º, 20º, 98% , 62% 
+Erval Seco, RS, 30º, 17º, 95% , 49% 
+Erechim, RS, 28º, 15º, 99% , 45% 
+Ernestina, RS, 29º, 15º, 100% , 48% 
+Erval Velho, SC, 27º, 17º, 94% , 46% 
+Envira, AM, 34º, 23º, 100% , 52% 
+Entre Rios, BA, 32º, 23º, 96% , 49% 
+Entre Rios do Oeste, PR, 34º, 21º, 94% , 38% 
+Entre-Ijuís, RS, 30º, 17º, 95% , 47% 
+Entre Rios do Sul, RS, 29º, 15º, 93% , 45% 
+Érico Cardoso, BA, 31º, 18º, 90% , 34% 
+Entre Rios, SC, 30º, 18º, 92% , 51% 
+Engenheiro Paulo de Frontin, RJ, 24º, 19º, 96% , 75% 
+Engenheiro Caldas, MG, 25º, 20º, 97% , 74% 
+Engenheiro Navarro, MG, 28º, 21º, 91% , 55% 
+Engenheiro Coelho, SP, 30º, 19º, 95% , 54% 
+Encantado, RS, 27º, 15º, 100% , 61% 
+Enéas Marques, PR, 27º, 18º, 90% , 67% 
+Engenheiro Beltrão, PR, 32º, 20º, 94% , 47% 
+Encruzilhada, BA, 30º, 20º, 91% , 41% 
+Encanto, RN, 37º, 23º, 73% , 22% 
+Embu das Artes, SP, 25º, 15º, 100% , 57% 
+Embu-Guaçu, SP, 24º, 16º, 98% , 63% 
+Encruzilhada do Sul, RS, 27º, 16º, 100% , 55% 
+Embaúba, SP, 28º, 21º, 97% , 66% 
+Elói Mendes, MG, 27º, 17º, 97% , 50% 
+Emas, PB, 37º, 22º, 77% , 20% 
+Eliseu Martins, PI, 39º, 26º, 44% , 21% 
+Elisiário, SP, 29º, 21º, 96% , 66% 
+Elesbão Veloso, PI, 34º, 22º,28%,
+Eldorado, SP, 27º, 18º, 99% , 68% 
+Eldorado do Sul, RS, 27º, 20º, 97% , 62% 
+Emilianópolis, SP, 32º, 21º, 88% , 52% 
+Elísio Medrado, BA, 29º, 21º, 98% , 56% 
+Eldorado dos Carajás, PA, 34º, 24º, 87% , 53% 
+Eldorado, MS, 33º, 22º, 89% , 47% 
+Eirunepé, AM, 34º, 24º, 96% , 55% 
+Edéia, GO, 30º, 22º, 96% , 53% 
+Edealina, GO, 30º, 22º, 95% , 54% 
+Ecoporanga, ES, 25º, 20º, 92% , 75% 
+Echaporã, SP, 30º, 19º, 91% , 53% 
+Entre Rios de Minas, MG, 26º, 16º, 97% , 62% 
+Duque Bacelar, MA, 40º, 25º, 81% , 25% 
+Duque de Caxias, RJ, 27º, 21º, 92% , 68% 
+Durandé, MG, 25º, 18º, 94% , 69% 
+Dumont, SP, 28º, 21º, 94% , 65% 
+Dracena, SP, 33º, 22º, 90% , 39% 
+Duas Estradas, PB, 32º, 22º, 94% , 45% 
+Duartina, SP, 31º, 17º, 92% , 44% 
+Duas Barras, RJ, 24º, 16º, 100% , 69% 
+Doverlândia, GO, 31º, 22º, 94% , 57% 
+Doutor Ulysses, PR, 25º, 14º, 100% , 56% 
+Doutor Pedrinho, SC, 24º, 16º, 99% , 73% 
+Doutor Ricardo, RS, 27º, 14º, 100% , 58% 
+Doutor Severiano, RN, 35º, 21º, 82% , 23% 
+Dourados, MS, 35º, 22º, 83% , 40% 
+Doutor Camargo, PR, 33º, 21º, 92% , 41% 
+Dourado, SP, 31º, 18º, 93% , 46% 
+Doutor Maurício Cardoso, RS, 31º, 17º, 94% , 46% 
+Douradoquara, MG, 28º, 21º, 95% , 66% 
+Dormentes, PE, 36º, 23º, 71% , 25% 
+Douradina, MS, 35º, 21º, 94% , 40% 
+Doresópolis, MG, 28º, 19º, 98% , 62% 
+Douradina, PR, 33º, 21º, 91% , 47% 
+Dores do Indaiá, MG, 27º, 19º, 99% , 65% 
+Dona Inês, PB, 31º, 22º, 93% , 50% 
+Dores do Rio Preto, ES, 21º, 16º, 99% , 79% 
+Dona Francisca, RS, 27º, 15º, 100% , 59% 
+Dores do Turvo, MG, 25º, 17º, 100% , 63% 
+Dores de Campos, MG, 24º, 15º, 99% , 67% 
+Dom Pedro de Alcântara, RS, 24º, 16º, 99% , 85% 
+Dom Viçoso, MG, 23º, 12º, 100% , 59% 
+Domingos Martins, ES, 21º, 18º, 100% , 79% 
+Dom Silvério, MG, 27º, 17º, 99% , 65% 
+Dona Emma, SC, 25º, 18º, 100% , 68% 
+Dom Macedo Costa, BA, 30º, 21º, 99% , 58% 
+Dom Feliciano, RS, 25º, 19º, 98% , 66% 
+Dom Pedro, MA, 35º, 24º, 87% , 46% 
+Dom Joaquim, MG, 22º, 19º, 100% , 67% 
+Dom Bosco, MG, 27º, 20º, 97% , 72% 
+Dom Expedito Lopes, PI, 37º, 25º, 63% , 25% 
+Dom Basílio, BA, 34º, 21º, 89% , 28% 
+Dom Eliseu, PA, 34º, 25º, 84% , 50% 
+Dois Irmãos, RS, 27º, 15º, 100% , 62% 
+Dois Irmãos do Buriti, MS, 35º, 23º, 86% , 46% 
+Dom Aquino, MT, 30º, 24º, 98% , 67% 
+Dois Vizinhos, PR, 30º, 18º, 98% , 53% 
+Dois Riachos, AL, 33º, 21º, 94% , 37% 
+Dois Irmãos do Tocantins, TO, 33º, 24º, 92% , 60% 
+Dois Córregos, SP, 29º, 17º, 99% , 45% 
+Dobrada, SP, 31º, 19º, 92% , 50% 
+Divisa Alegre, MG, 26º, 18º, 91% , 56% 
+Divinópolis do Tocantins, TO, 34º, 23º, 98% , 50% 
+Divinópolis de Goiás, GO, 32º, 21º, 77% , 41% 
+Divinópolis, MG, 27º, 18º, 98% , 60% 
+Divino de São Lourenço, ES, 22º, 16º, 100% , 75% 
+Divinolândia, SP, 25º, 16º, 98% , 51% 
+Divina Pastora, SE, 30º, 22º, 95% , 59% 
+Divino, MG, 23º, 17º, 100% , 67% 
+Dianópolis, TO, 34º, 22º, 84% , 32% 
+Dionísio, MG, 27º, 18º, 100% , 65% 
+Dias D'Ávila, BA, 30º, 22º, 99% , 60% 
+Diorama, GO, 31º, 24º, 89% , 51% 
+Dionísio Cerqueira, SC, 28º, 20º, 88% , 60% 
+Dilermando de Aguiar, RS, 27º, 15º, 99% , 60% 
+Diamante, PB, 36º, 22º, 72% , 21% 
+Diamante d'Oeste, PR, 30º, 23º, 86% , 62% 
+Diadema, SP, 23º, 16º, 100% , 70% 
+Diamantino, MT, 31º, 24º, 94% , 66% 
+Desterro do Melo, MG, 24º, 16º, 98% , 72% 
+Desterro, PB, 32º, 18º, 90% , 28% 
+Deodápolis, MS, 34º, 22º, 85% , 45% 
+Dezesseis de Novembro, RS, 30º, 17º, 95% , 52% 
+Descanso, SC, 31º, 20º, 79% , 45% 
+Derrubadas, RS, 31º, 16º, 91% , 49% 
+Demerval Lobão, PI, 38º, 25º, 77% , 28% 
+Desterro de Entre Rios, MG, 26º, 15º, 99% , 62% 
+Delfinópolis, MG, 26º, 21º, 91% , 68% 
+Delfim Moreira, MG, 23º, 14º, 100% , 67% 
+Datas, MG, 22º, 17º, 99% , 75% 
+David Canabarro, RS, 27º, 14º, 100% , 50% 
+Davinópolis, MA, 36º, 25º, 74% , 37% 
+Dário Meira, BA, 31º, 21º, 98% , 55% 
+Darcinópolis, TO, 33º, 24º, 82% , 48% 
+Damianópolis, GO, 31º, 22º, 81% , 42% 
+Curvelo, MG, 26º, 19º, 97% , 67% 
+Damião, PB, 31º, 19º, 96% , 41% 
+Custódia, PE, 35º, 20º, 84% , 24% 
+Curuá, PA, 35º, 27º, 70% , 47% 
+Curvelândia, MT, 29º, 24º, 97% , 78% 
+Curralinhos, PI, 38º, 26º, 71% , 26% 
+Cururupu, MA, 31º, 24º, 91% , 62% 
+Curral Novo do Piauí, PI, 36º, 24º, 64% , 20% 
+Curiúva, PR, 30º, 15º, 100% , 42% 
+Currais Novos, RN, 35º, 22º, 83% , 28% 
+Curral de Dentro, MG, 28º, 19º, 92% , 53% 
+Curral Velho, PB, 35º, 21º, 74% , 22% 
+Curitibanos, SC, 27º, 15º, 99% , 45% 
+Curitiba, PR, 25º, 15º, 99% , 68% 
+Curimatá, PI, 40º, 24º, 46% , 20% 
+Cunha Porã, SC, 30º, 18º, 86% , 47% 
+Curaçá, BA, 37º, 22º, 78% , 24% 
+Curionópolis, PA, 32º, 24º, 85% , 57% 
+Cumbe, SE, 31º, 22º, 95% , 50% 
+Cunha, SP, 23º, 16º, 96% , 68% 
+Cuiabá, MT, 32º, 24º, 98% , 64% 
+Cuité, PB, 31º, 19º, 94% , 37% 
+Cujubim, RO, 34º, 23º, 95% , 52% 
+Cuité de Mamanguape, PB, 32º, 22º, 92% , 47% 
+Cuitegi, PB, 32º, 22º, 95% , 46% 
+Cumaru, PE, 31º, 21º, 93% , 42% 
+Cumari, GO, 28º, 21º, 97% , 65% 
+Cruzmaltina, PR, 30º, 18º, 97% , 49% 
+Cruzeta, RN, 37º, 23º, 74% , 25% 
+Cruzeiro do Sul, AC, 34º, 23º, 100% , 52% 
+Cubati, PB, 31º, 18º, 96% , 34% 
+Cubatão, SP, 24º, 18º, 97% , 80% 
+Cruzeiro do Sul, RS, 28º, 18º, 100% , 62% 
+Cruzília, MG, 25º, 16º, 95% , 64% 
+Cruzeiro do Sul, PR, 32º, 20º, 88% , 44% 
+Cruzeiro do Oeste, PR, 33º, 21º, 88% , 37% 
+Cruz Machado, PR, 27º, 13º, 100% , 58% 
+Cruzeiro da Fortaleza, MG, 25º, 18º, 100% , 67% 
+Cruzália, SP, 31º, 19º, 92% , 49% 
+Cruzeiro, SP, 27º, 18º, 95% , 60% 
+Cruzaltense, RS, 28º, 16º, 98% , 44% 
+Cruz do Espírito Santo, PB, 31º, 22º, 91% , 53% 
+Cruz, CE, 33º, 22º, 93% , 42% 
+Cruz das Almas, BA, 30º, 20º, 100% , 54% 
+Cruzeiro do Iguaçu, PR, 28º, 20º, 94% , 71% 
+Crucilândia, MG, 26º, 15º, 99% , 60% 
+Cromínia, GO, 29º, 21º, 97% , 57% 
+Croatá, CE, 34º, 20º, 90% , 26% 
+Crixás do Tocantins, TO, 34º, 24º, 92% , 53% 
+Cristópolis, BA, 32º, 21º, 62% , 35% 
+Cristianópolis, GO, 28º, 20º, 99% , 62% 
+Cristina, MG, 24º, 14º, 100% , 64% 
+Cristino Castro, PI, 40º, 23º, 51% , 19% 
+Cristalina, GO, 26º, 18º, 96% , 64% 
+Crixás, GO, 31º, 23º, 82% , 59% 
+Cristalândia do Piauí, PI, 34º, 24º, 56% , 32% 
+Cristinápolis, SE, 31º, 23º, 96% , 53% 
+Cristiano Otoni, MG, 24º, 15º, 100% , 69% 
+Crisópolis, BA, 33º, 22º, 95% , 42% 
+Cristal do Sul, RS, 31º, 17º, 98% , 48% 
+Cristalândia, TO, 34º, 23º, 96% , 52% 
+Cristais Paulista, SP, 25º, 19º, 97% , 71% 
+Cristais, MG, 27º, 18º, 96% , 54% 
+Cristal, RS, 27º, 17º, 97% , 63% 
+Criciúma, SC, 26º, 20º, 96% , 70% 
+Cravolândia, BA, 27º, 19º, 98% , 60% 
+Cravinhos, SP, 30º, 19º, 96% , 50% 
+Crisólita, MG, 29º, 21º, 88% , 59% 
+Craíbas, AL, 33º, 21º, 96% , 41% 
+Crato, CE, 35º, 22º, 77% , 24% 
+Coxixola, PB, 33º, 19º, 90% , 28% 
+Cotriguaçu, MT, 35º, 23º, 94% , 45% 
+Coxilha, RS, 29º, 14º, 100% , 44% 
+Couto de Magalhães, TO, 35º, 24º, 98% , 47% 
+Couto de Magalhães de Minas, MG, 22º, 18º, 97% , 83% 
+Crateús, CE, 37º, 25º, 71% , 22% 
+Coxim, MS, 35º, 22º, 100% , 42% 
+Cotia, SP, 25º, 15º, 100% , 57% 
+Cotegipe, BA, 35º, 24º, 55% , 30% 
+Costa Rica, MS, 29º, 21º, 95% , 59% 
+Costa Marques, RO, 32º, 23º, 97% , 67% 
+Cosmópolis, SP, 30º, 17º, 98% , 44% 
+Cosmorama, SP, 31º, 20º, 97% , 56% 
+Cotiporã, RS, 27º, 15º, 100% , 53% 
+Corupá, SC, 25º, 19º, 99% , 76% 
+Corumbiara, RO, 29º, 23º, 100% , 73% 
+Corumbataí do Sul, PR, 30º, 20º, 92% , 54% 
+Corumbaíba, GO, 28º, 22º, 96% , 63% 
+Corumbataí, SP, 29º, 16º, 100% , 48% 
+Coruripe, AL, 30º, 22º, 94% , 61% 
+Corumbá de Goiás, GO, 25º, 19º, 97% , 73% 
+Corumbá, MS, 36º, 25º, 97% , 45% 
+Correntina, BA, 35º, 22º, 81% , 34% 
+Correia Pinto, SC, 27º, 15º, 100% , 44% 
+Córrego Fundo, MG, 27º, 18º, 97% , 60% 
+Correntes, PE, 27º, 19º, 99% , 56% 
+Corrente, PI, 37º, 24º, 58% , 27% 
+Córrego do Bom Jesus, MG, 26º, 17º, 98% , 58% 
+Córrego Novo, MG, 28º, 20º, 100% , 61% 
+Córrego do Ouro, GO, 31º, 22º, 91% , 51% 
+Córrego Danta, MG, 26º, 19º, 98% , 69% 
+Coronel Xavier Chaves, MG, 25º, 15º, 98% , 66% 
+Coronel Vivida, PR, 28º, 16º, 98% , 50% 
+Coronel Martins, SC, 29º, 18º, 91% , 53% 
+Coronel Sapucaia, MS, 33º, 21º, 86% , 43% 
+Coronel Murta, MG, 24º, 21º, 98% , 81% 
+Coronel Pilar, RS, 26º, 15º, 98% , 65% 
+Coronel Pacheco, MG, 23º, 17º, 98% , 71% 
+Coronel Macedo, SP, 29º, 15º, 99% , 47% 
+Coronel Ezequiel, RN, 32º, 19º, 94% , 34% 
+Coronel Freitas, SC, 30º, 18º, 87% , 47% 
+Coronel Domingos Soares, PR, 26º, 14º, 100% , 49% 
+Coronel José Dias, PI, 37º, 25º, 58% , 20% 
+Coronel João Pessoa, RN, 36º, 22º, 78% , 23% 
+Coronel Fabriciano, MG, 27º, 20º, 97% , 69% 
+Coronel João Sá, BA, 33º, 21º, 94% , 39% 
+Coronel Barros, RS, 30º, 17º, 95% , 47% 
+Coronel Bicaco, RS, 30º, 16º, 97% , 48% 
+Coroatá, MA, 38º, 26º, 82% , 34% 
+Coromandel, MG, 26º, 18º, 99% , 65% 
+Coroados, SP, 31º, 21º, 89% , 59% 
+Coroaci, MG, 24º, 18º, 98% , 71% 
+Corinto, MG, 27º, 20º, 97% , 67% 
+Coribe, BA, 34º, 22º, 67% , 33% 
+Corguinho, MS, 35º, 22º, 89% , 44% 
+Coreaú, CE, 38º, 25º, 80% , 24% 
+Cornélio Procópio, PR, 31º, 18º, 92% , 41% 
+Coremas, PB, 37º, 23º, 76% , 22% 
+Cordislândia, MG, 26º, 17º, 96% , 64% 
+Cordisburgo, MG, 33º, 19º,41%,
+Cordeiros, BA, 32º, 20º, 86% , 38% 
+Coqueiro Seco, AL, 29º, 23º, 91% , 62% 
+Cordeiro, RJ, 23º, 16º, 100% , 74% 
+Coração de Jesus, MG, 23º, 20º, 93% , 79% 
+Coqueiros do Sul, RS, 29º, 16º, 99% , 47% 
+Coqueiral, MG, 26º, 17º, 96% , 62% 
+Corbélia, PR, 28º, 19º, 97% , 63% 
+Contenda, PR, 24º, 16º, 95% , 61% 
+Congonhas do Norte, MG, 21º, 16º, 100% , 81% 
+Congonhal, MG, 27º, 17º, 98% , 51% 
+Contagem, MG, 26º, 17º, 99% , 62% 
+Conselheiro Lafaiete, MG, 24º, 16º, 100% , 60% 
+Consolação, MG, 25º, 17º, 97% , 59% 
+Congonhinhas, PR, 28º, 16º, 97% , 46% 
+Congonhas, MG, 26º, 16º, 99% , 63% 
+Condor, RS, 29º, 16º, 99% , 47% 
+Conceição do Canindé, PI, 38º, 26º, 54% , 19% 
+Concórdia do Pará, PA, 35º, 24º, 91% , 48% 
+Concórdia, SC, 29º, 14º, 98% , 46% 
+Conceição do Tocantins, TO, 35º, 24º, 82% , 40% 
+Conceição do Pará, MG, 27º, 18º, 95% , 63% 
+Conceição dos Ouros, MG, 27º, 17º, 96% , 53% 
+Conde, PB, 29º, 23º, 90% , 57% 
+Conceição do Araguaia, PA, 34º, 24º, 89% , 52% 
+Comodoro, MT, 32º, 22º, 99% , 57% 
+Conceição, PB, 37º, 22º, 69% , 20% 
+Conceição da Barra de Minas, MG, 26º, 16º, 98% , 64% 
+Colônia do Gurguéia, PI, 39º, 26º, 43% , 21% 
+Colorado do Oeste, RO, 33º, 23º, 99% , 53% 
+Conceição das Pedras, MG, 26º, 15º, 99% , 62% 
+Conceição da Aparecida, MG, 26º, 17º, 99% , 56% 
+Colniza, MT, 34º, 25º, 86% , 52% 
+Combinado, TO, 35º, 23º, 76% , 38% 
+Colômbia, SP, 29º, 22º, 96% , 65% 
+Colinas do Sul, GO, 32º, 22º, 77% , 46% 
+Cocalzinho de Goiás, GO, 24º, 19º, 97% , 75% 
+Colina, SP, 31º, 20º, 98% , 52% 
+Coimbra, MG, 26º, 18º, 96% , 59% 
+Codó, MA, 37º, 25º, 80% , 35% 
+Clevelândia, PR, 27º, 17º, 91% , 59% 
+Cocal do Sul, SC, 25º, 19º, 98% , 72% 
+Coari, AM, 34º, 24º, 96% , 54% 
+Cipotânea, MG, 26º, 17º, 98% , 59% 
+Cláudio, MG, 27º, 17º, 96% , 58% 
+Claraval, MG, 25º, 19º, 96% , 71% 
+Chorozinho, CE, 35º, 24º, 90% , 32% 
+Cícero Dantas, BA, 33º, 20º, 98% , 38% 
+Choró, CE, 36º, 23º, 86% , 25% 
+Cipó, BA, 35º, 22º, 92% , 35% 
+Chaves, PA, 33º, 27º, 77% , 55% 
+Charrua, RS, 28º, 16º, 97% , 48% 
+Charqueada, SP, 30º, 18º, 98% , 53% 
+Chapadinha, MA, 39º, 26º, 81% , 29% 
+Chapada dos Guimarães, MT, 30º, 23º, 100% , 70% 
+Chalé, MG, 27º, 18º, 96% , 55% 
+Cezarina, GO, 30º, 22º, 95% , 54% 
+Chapada da Natividade, TO, 35º, 24º, 88% , 42% 
+Chã Grande, PE, 29º, 20º, 98% , 52% 
+Chapadão do Sul, MS, 30º, 19º, 99% , 58% 
+Cerro Grande, RS, 31º, 17º, 98% , 47% 
+Céu Azul, PR, 31º, 19º, 93% , 44% 
+Cerro Corá, RN, 33º, 20º, 94% , 33% 
+Central, BA, 35º, 21º, 81% , 26% 
+Centro Novo do Maranhão, MA, 35º, 24º, 90% , 46% 
+Cerejeiras, RO, 27º, 23º, 98% , 81% 
+Cerquilho, SP, 29º, 16º, 95% , 43% 
+Centenário, TO, 36º, 23º, 95% , 35% 
+Caxias, MA, 38º, 25º, 79% , 30% 
+Cedral, SP, 31º, 20º, 97% , 56% 
+Caturama, BA, 35º, 20º, 83% , 29% 
+Catuti, MG, 30º, 24º, 73% , 47% 
+Cedro de São João, SE, 33º, 22º, 96% , 43% 
+Caxambu do Sul, SC, 31º, 17º, 95% , 41% 
+Catas Altas, MG, 25º, 17º, 100% , 65% 
+Catanduvas, SC, 28º, 15º, 98% , 47% 
+Catu, BA, 32º, 21º, 98% , 50% 
+Cataguases, MG, 28º, 20º, 96% , 59% 
+Catende, PE, 31º, 20º, 98% , 48% 
+Catanduva, SP, 31º, 20º, 94% , 54% 
+Castro, PR, 24º, 15º, 98% , 58% 
+Carnaubal, CE, 31º, 18º, 99% , 34% 
+Carnaúba dos Dantas, RN, 35º, 21º, 81% , 28% 
+Carmo do Paranaíba, MG, 25º, 18º, 98% , 72% 
+Carlos Chagas, MG, 23º, 21º, 97% , 89% 
+Carlinda, MT, 34º, 23º, 97% , 49% 
+Carmo do Cajuru, MG, 27º, 18º, 96% , 61% 
+Carmo do Rio Verde, GO, 31º, 22º, 86% , 53% 
+Carmo da Mata, MG, 26º, 17º, 97% , 57% 
+Cariacica, ES, 25º, 22º, 96% , 77% 
+Caridade, CE, 37º, 24º, 85% , 27% 
+Cardoso Moreira, RJ, 25º, 20º, 96% , 73% 
+Caraúbas, RN, 38º, 24º, 69% , 23% 
+Cardeal da Silva, BA, 31º, 22º, 94% , 52% 
+Caraúbas, PB, 34º, 20º, 90% , 28% 
+Cariré, CE, 38º, 24º, 82% , 23% 
+Carapicuíba, SP, 26º, 16º, 100% , 56% 
+Carangola, MG, 25º, 18º, 100% , 66% 
+Carapebus, RJ, 25º, 21º, 96% , 73% 
+Capivari, SP, 30º, 17º, 97% , 42% 
+Carambeí, PR, 26º, 14º, 100% , 55% 
+Capitólio, MG, 26º, 19º, 95% , 68% 
+Caraíbas, BA, 34º, 21º, 85% , 28% 
+Caracaraí, RR, 35º, 24º, 90% , 41% 
+Capitão Enéas, MG, 25º, 21º, 96% , 76% 
+Caputira, MG, 25º, 17º, 98% , 68% 
+Capitão, RS, 26º, 15º, 99% , 64% 
+Capim Grosso, BA, 33º, 22º, 91% , 35% 
+Capetinga, MG, 26º, 17º, 100% , 61% 
+Capitão Andrade, MG, 28º, 21º, 97% , 64% 
+Capinzal do Norte, MA, 35º, 24º, 86% , 47% 
+Capinópolis, MG, 30º, 21º, 98% , 60% 
+Capelinha, MG, 22º, 19º, 98% , 86% 
+Capim Branco, MG, 26º, 18º, 96% , 66% 
+Caparaó, MG, 22º, 14º, 99% , 75% 
+Capela do Alto Alegre, BA, 34º, 21º, 91% , 31% 
+Capão da Canoa, RS, 22º, 19º, 99% , 79% 
+Capão Bonito do Sul, RS, 27º, 15º, 97% , 48% 
+Capão Bonito, SP, 25º, 16º, 98% , 57% 
+Capela de Santana, RS, 27º, 15º, 100% , 60% 
+Capanema, PR, 29º, 20º, 94% , 66% 
+Capela, AL, 32º, 20º, 99% , 44% 
+Cantagalo, RJ, 23º, 16º, 100% , 74% 
+Cansanção, BA, 34º, 21º, 94% , 30% 
+Canudos, BA, 31º, 19º, 91% , 37% 
+Cantá, RR, 36º, 24º, 65% , 36% 
+Canoas, RS, 27º, 19º, 98% , 65% 
+Canitar, SP, 31º, 18º, 91% , 42% 
+Cantagalo, PR, 27º, 16º, 96% , 69% 
+Canhotinho, PE, 27º, 18º, 100% , 56% 
+Canguçu, RS, 23º, 17º, 100% , 73% 
+Canelinha, SC, 26º, 19º, 100% , 71% 
+Canhoba, SE, 33º, 22º, 93% , 43% 
+Canela, RS, 25º, 13º, 100% , 63% 
+Candói, PR, 27º, 16º, 93% , 70% 
+Cândido Mota, SP, 30º, 18º, 94% , 50% 
+Canindé de São Francisco, SE, 36º, 21º, 94% , 25% 
+Cândido Mendes, MA, 30º, 25º, 90% , 64% 
+Candelária, RS, 27º, 18º, 100% , 61% 
+Cândido Godói, RS, 31º, 17º, 99% , 48% 
+Candeias, BA, 30º, 23º, 95% , 62% 
+Cândido de Abreu, PR, 28º, 16º, 99% , 48% 
+Candeias, MG, 26º, 16º, 96% , 65% 
+Candiba, BA, 33º, 20º, 86% , 30% 
+Capanema, PA, 34º, 24º, 90% , 50% 
+Canavieira, PI, 37º, 25º, 46% , 31% 
+Canarana, BA, 32º, 20º, 85% , 29% 
+Canarana, MT, 34º, 24º, 86% , 49% 
+Canápolis, MG, 28º, 22º, 96% , 66% 
+Canapi, AL, 33º, 20º, 93% , 33% 
+Cananéia, SP, 25º, 20º, 98% , 81% 
+Canabrava do Norte, MT, 34º, 23º, 95% , 54% 
+Canavieiras, BA, 27º, 24º, 86% , 72% 
+Campos do Jordão, SP, 21º, 12º, 100% , 62% 
+Camutanga, PE, 32º, 22º, 93% , 48% 
+Campos Lindos, TO, 37º, 23º, 91% , 32% 
+Campos Belos, GO, 33º, 22º, 78% , 39% 
+Campos de Júlio, MT, 29º, 22º, 98% , 68% 
+Campos Sales, CE, 35º, 23º, 57% , 20% 
+Campos Borges, RS, 28º, 14º, 100% , 51% 
+Campos Novos, SC, 26º, 16º, 99% , 49% 
+Campos dos Goytacazes, RJ, 27º, 22º, 93% , 65% 
+Campo Verde, MT, 28º, 21º, 100% , 72% 
+Campo Grande do Piauí, PI, 38º, 25º, 49% , 19% 
+Campo Novo do Parecis, MT, 31º, 22º, 95% , 59% 
+Campo Mourão, PR, 31º, 20º, 89% , 42% 
+Campo Novo de Rondônia, RO, 33º, 23º, 100% , 77% 
+Campo Maior, PI, 39º, 26º, 74% , 24% 
+Campo Largo, PR, 24º, 15º, 98% , 59% 
+Campo Largo do Piauí, PI, 39º, 25º, 81% , 28% 
+Campos Altos, MG, 24º, 18º, 99% , 72% 
+Campo Grande, MS, 33º, 23º, 88% , 49% 
+Campo Grande, RN, 38º, 24º, 78% , 25% 
+Campo do Meio, MG, 27º, 17º, 98% , 53% 
+Campo de Santana, PB, 32º, 22º, 95% , 44% 
+Campo Florido, MG, 30º, 20º, 96% , 59% 
+Campo Bonito, PR, 26º, 19º, 92% , 74% 
+Campo Grande, AL, 34º, 21º, 95% , 38% 
+Campo Bom, RS, 27º, 16º, 100% , 60% 
+Campo Belo do Sul, SC, 27º, 15º, 100% , 45% 
+Campo Alegre, AL, 30º, 21º, 96% , 52% 
+Campinas do Piauí, PI, 39º, 27º, 52% , 18% 
+Campo Alegre, SC, 22º, 15º, 100% , 73% 
+Campo Azul, MG, 31º, 23º, 77% , 54% 
+Campinas, SP, 30º, 17º, 93% , 42% 
+Campinápolis, MT, 30º, 23º, 95% , 63% 
+Campina Grande do Sul, PR, 22º, 15º, 99% , 69% 
+Campina Verde, MG, 29º, 22º, 98% , 67% 
+Campestre do Maranhão, MA, 35º, 26º, 81% , 43% 
+Campina do Monte Alegre, SP, 28º, 16º, 98% , 52% 
+Campina das Missões, RS, 31º, 17º, 99% , 48% 
+Campestre de Goiás, GO, 30º, 22º, 93% , 53% 
+Campestre, AL, 30º, 20º, 99% , 52% 
+Campestre, MG, 25º, 16º, 99% , 66% 
+Campanha, MG, 26º, 16º, 96% , 63% 
+Camocim de São Félix, PE, 29º, 19º, 100% , 48% 
+Cambuí, MG, 25º, 15º, 99% , 53% 
+Cambará, PR, 31º, 18º, 97% , 47% 
+Camboriú, SC, 23º, 20º, 96% , 82% 
+Cametá, PA, 33º, 26º, 85% , 55% 
+Cambuquira, MG, 26º, 16º, 97% , 61% 
+Cambuci, RJ, 26º, 20º, 95% , 66% 
+Camargo, RS, 28º, 14º, 100% , 50% 
+Camocim, CE, 34º, 25º, 84% , 46% 
+Cambé, PR, 31º, 18º, 86% , 36% 
+Camaragibe, PE, 29º, 21º, 97% , 60% 
+Camapuã, MS, 34º, 22º, 93% , 47% 
+Camaçari, BA, 31º, 22º, 97% , 57% 
+Camamu, BA, 28º, 22º, 96% , 72% 
+Camaquã, RS, 25º, 19º, 98% , 69% 
+Calmon, SC, 26º, 13º, 100% , 50% 
+Calumbi, PE, 34º, 20º, 81% , 24% 
+Camacan, BA, 29º, 20º, 100% , 56% 
+Caldas Novas, GO, 28º, 20º, 98% , 63% 
+Caldeirão Grande do Piauí, PI, 36º, 22º, 71% , 21% 
+Caldeirão Grande, BA, 33º, 21º, 91% , 35% 
+Cajuru, SP, 29º, 19º, 93% , 48% 
+Cajuri, MG, 24º, 16º, 100% , 73% 
+Cajati, SP, 26º, 19º, 98% , 72% 
+Caldas Brandão, PB, 32º, 22º, 94% , 48% 
+Cajobi, SP, 28º, 21º, 97% , 68% 
+Cajazeirinhas, PB, 38º, 23º, 71% , 21% 
+Cajueiro da Praia, PI, 32º, 25º, 83% , 53% 
+Caiçara, PB, 32º, 22º, 92% , 45% 
+Cajari, MA, 36º, 26º, 86% , 44% 
+Cairu, BA, 29º, 23º, 96% , 70% 
+Caiuá, SP, 32º, 22º, 79% , 44% 
+Caiçara, RS, 31º, 17º, 95% , 44% 
+Caibaté, RS, 30º, 17º, 97% , 49% 
+Caiçara do Rio do Vento, RN, 33º, 21º, 96% , 40% 
+Caicó, RN, 38º, 23º, 76% , 21% 
+Caiabu, SP, 31º, 21º, 87% , 55% 
+Caiana, MG, 24º, 17º, 100% , 68% 
+Cafelândia, SP, 32º, 19º, 85% , 48% 
+Cafezal do Sul, PR, 32º, 22º, 89% , 51% 
+Caetité, BA, 31º, 17º, 97% , 40% 
+Cafarnaum, BA, 32º, 19º, 89% , 32% 
+Caeté, MG, 24º, 16º, 98% , 69% 
+Caetanópolis, MG, 26º, 18º, 96% , 66% 
+Caetanos, BA, 34º, 22º, 87% , 32% 
+Caculé, BA, 34º, 20º, 85% , 32% 
+Caçu, GO, 30º, 22º, 98% , 63% 
+Caconde, SP, 27º, 18º, 97% , 50% 
+Cacoal, RO, 34º, 23º, 97% , 52% 
+Cacimbas, PB, 33º, 19º, 86% , 27% 
+Cachoeiro de Itapemirim, ES, 26º, 21º, 98% , 68% 
+Cacimbinhas, AL, 35º, 20º, 96% , 27% 
+Cacimba de Dentro, PB, 31º, 20º, 97% , 43% 
+Cachoeirinha, RS, 26º, 19º, 98% , 67% 
+Cachoeiras de Macacu, RJ, 25º, 19º, 97% , 72% 
+Cachoeira Paulista, SP, 28º, 18º, 91% , 60% 
+Cachoeira Dourada, MG, 30º, 23º, 95% , 62% 
+Cachoeirinha, PE, 30º, 19º, 98% , 44% 
+Cachoeira Grande, MA, 35º, 25º, 89% , 42% 
+Cachoeira Dourada, GO, 30º, 23º, 95% , 62% 
+Cachoeira de Piriá, PA, 34º, 24º, 94% , 53% 
+Cachoeira do Sul, RS, 28º, 19º, 98% , 54% 
+Cachoeira Alta, GO, 30º, 21º, 99% , 61% 
+Cachoeira de Minas, MG, 28º, 17º, 98% , 49% 
+Cachoeira de Pajeú, MG, 23º, 19º, 95% , 75% 
+Cachoeira, BA, 31º, 20º, 100% , 54% 
+Cáceres, MT, 32º, 25º, 97% , 68% 
+Cacequi, RS, 28º, 16º, 96% , 55% 
+Caçador, SC, 26º, 15º, 100% , 43% 
+Caçapava, SP, 28º, 17º, 94% , 49% 
+Cabrobó, PE, 37º, 23º, 82% , 24% 
+Cachoeira de Goiás, GO, 30º, 22º, 94% , 55% 
+Cabo Verde, MG, 25º, 18º, 98% , 65% 
+Cabrália Paulista, SP, 30º, 18º, 94% , 53% 
+Cabo de Santo Agostinho, PE, 28º, 23º, 92% , 63% 
+Cabedelo, PB, 29º, 23º, 91% , 65% 
+Cabeceiras do Piauí, PI, 39º, 25º, 78% , 26% 
+Cabeceiras, GO, 26º, 19º, 97% , 70% 
+Caatiba, BA, 31º, 20º, 96% , 50% 
+Cabaceiras, PB, 33º, 20º, 90% , 31% 
+Cabeceira Grande, MG, 26º, 19º, 98% , 69% 
+Cabo Frio, RJ, 24º, 22º, 87% , 75% 
+Caaporã, PB, 30º, 22º, 93% , 57% 
+Buritis, MG, 27º, 20º, 97% , 68% 
+Caapiranga, AM, 35º, 25º, 93% , 48% 
+Butiá, RS, 28º, 20º, 96% , 55% 
+Buritizeiro, MG, 26º, 22º, 89% , 69% 
+Buriticupu, MA, 33º, 24º, 87% , 50% 
+Buriti dos Montes, PI, 35º, 22º, 76% , 24% 
+Buritizal, SP, 27º, 20º, 97% , 70% 
+Buritirama, BA, 36º, 24º, 63% , 27% 
+Buri, SP, 27º, 16º, 100% , 57% 
+Buriti Alegre, GO, 29º, 20º, 99% , 61% 
+Buriti, MA, 39º, 25º, 82% , 27% 
+Bujaru, PA, 36º, 25º, 88% , 45% 
+Buenos Aires, PE, 31º, 22º, 94% , 49% 
+Bugre, MG, 26º, 20º, 97% , 71% 
+Buíque, PE, 30º, 17º, 97% , 35% 
+Buerarema, BA, 28º, 21º, 100% , 67% 
+Buriti Bravo, MA, 38º, 24º, 76% , 30% 
+Bueno Brandão, MG, 27º, 18º, 90% , 60% 
+Brusque, SC, 23º, 20º, 95% , 81% 
+Brunópolis, SC, 25º, 16º, 99% , 47% 
+Brotas, SP, 30º, 17º, 94% , 44% 
+Brumadinho, MG, 26º, 17º, 98% , 63% 
+Breves, PA, 35º, 25º, 90% , 52% 
+Britânia, GO, 32º, 24º, 92% , 63% 
+Breu Branco, PA, 32º, 27º, 84% , 60% 
+Brejões, BA, 27º, 19º, 100% , 60% 
+Brodowski, SP, 30º, 19º, 92% , 52% 
+Brejo Santo, CE, 36º, 24º, 58% , 21% 
+Brejolândia, BA, 34º, 22º, 64% , 33% 
+Brejo Grande, SE, 30º, 23º, 92% , 58% 
+Brejo Grande do Araguaia, PA, 35º, 25º, 83% , 45% 
+Brejo do Piauí, PI, 36º, 26º, 47% , 29% 
+Brejo dos Santos, PB, 36º, 22º, 75% , 24% 
+Brejo do Cruz, PB, 37º, 23º, 74% , 22% 
+Brejo de Areia, MA, 36º, 25º, 85% , 43% 
+Brejo da Madre de Deus, PE, 31º, 19º, 93% , 35% 
+Brejinho, PE, 32º, 18º, 91% , 27% 
+Brejinho de Nazaré, TO, 33º, 24º, 87% , 52% 
+Brejão, PE, 26º, 17º, 100% , 54% 
+Brejinho, RN, 33º, 22º, 91% , 46% 
+Brejo Alegre, SP, 30º, 22º, 95% , 62% 
+Brejo, MA, 39º, 25º, 83% , 28% 
+Brejetuba, ES, 24º, 18º, 95% , 64% 
+Brasópolis, MG, 26º, 17º, 97% , 56% 
+Braúna, SP, 31º, 21º, 87% , 59% 
+Brasnorte, MT, 30º, 23º, 99% , 65% 
+Brazlândia, DF, 24º, 19º, 97% , 73% 
+Brasília de Minas, MG, 22º, 20º, 95% , 87% 
+Brazabrantes, GO, 28º, 20º, 95% , 59% 
+Braúnas, MG, 26º, 20º, 98% , 68% 
+Brasília, DF, 27º, 19º, 96% , 67% 
+Brasileira, PI, 38º, 24º, 77% , 28% 
+Brasiléia, AC, 34º, 24º, 96% , 55% 
+Brasilândia do Tocantins, TO, 35º, 23º, 90% , 45% 
+Brasilândia de Minas, MG, 28º, 22º, 94% , 61% 
+Brasilândia, MS, 33º, 23º, 93% , 46% 
+Brasil Novo, PA, 31º, 23º, 100% , 62% 
+Brás Pires, MG, 26º, 17º, 97% , 65% 
+Brasilândia do Sul, PR, 33º, 22º, 88% , 50% 
+Braga, RS, 30º, 17º, 97% , 49% 
+Bragança, PA, 33º, 24º, 92% , 58% 
+Braganey, PR, 28º, 19º, 95% , 69% 
+Branquinha, AL, 31º, 21º, 96% , 51% 
+Bragança Paulista, SP, 27º, 17º, 97% , 50% 
+Braço do Norte, SC, 29º, 17º, 99% , 56% 
+Braço do Trombudo, SC, 25º, 17º, 99% , 67% 
+Bozano, RS, 30º, 16º, 98% , 46% 
+Botuporã, BA, 33º, 19º, 83% , 32% 
+Botumirim, MG, 21º, 19º, 99% , 87% 
+Botucatu, SP, 29º, 16º, 96% , 45% 
+Bossoroca, RS, 30º, 16º, 94% , 50% 
+Botuverá, SC, 24º, 17º, 99% , 73% 
+Borá, SP, 31º, 19º, 89% , 53% 
+Borda da Mata, MG, 26º, 17º, 96% , 56% 
+Boqueirão do Piauí, PI, 40º, 26º, 77% , 23% 
+Borborema, PB, 30º, 20º, 99% , 50% 
+Boquira, BA, 34º, 20º, 77% , 33% 
+Borba, AM, 36º, 26º, 90% , 46% 
+Borebi, SP, 30º, 18º, 93% , 52% 
+Boqueirão do Leão, RS, 27º, 15º, 97% , 58% 
+Boqueirão, PB, 34º, 20º, 96% , 31% 
+Bonito, BA, 27º, 18º, 99% , 44% 
+Bonito, MS, 35º, 24º, 77% , 42% 
+Bonópolis, GO, 36º, 25º, 93% , 44% 
+Bonito de Minas, MG, 28º, 22º, 92% , 61% 
+Bonfinópolis, GO, 28º, 21º, 97% , 69% 
+Bonito, PE, 28º, 19º, 99% , 53% 
+Bonfinópolis de Minas, MG, 27º, 22º, 93% , 56% 
+Bonfim do Piauí, PI, 36º, 25º, 54% , 26% 
+Bom Sucesso de Itararé, SP, 24º, 14º, 100% , 58% 
+Bom Sucesso, PB, 34º, 19º, 97% , 28% 
+Bombinhas, SC, 22º, 20º, 91% , 86% 
+Bom Retiro, SC, 24º, 14º, 99% , 65% 
+Bom Retiro do Sul, RS, 27º, 16º, 100% , 60% 
+Bom Sucesso do Sul, PR, 28º, 18º, 95% , 67% 
+Bom Sucesso, MG, 26º, 16º, 100% , 50% 
+Bom Repouso, MG, 25º, 16º, 100% , 58% 
+Bom Progresso, RS, 30º, 17º, 98% , 47% 
+Bom Princípio do Piauí, PI, 39º, 25º, 81% , 28% 
+Bom Jesus do Itabapoana, RJ, 26º, 20º, 98% , 67% 
+Bom Lugar, MA, 37º, 26º, 81% , 37% 
+Bom Jesus do Tocantins, TO, 36º, 23º, 98% , 40% 
+Bom Jesus do Tocantins, PA, 34º, 25º, 85% , 47% 
+Bom Jesus do Sul, PR, 29º, 17º, 98% , 47% 
+Bom Jesus, RS, 25º, 15º, 99% , 50% 
+Bom Jesus da Lapa, BA, 36º, 24º, 61% , 31% 
+Bom Jesus do Amparo, MG, 26º, 18º, 99% , 66% 
+Bom Jesus do Galho, MG, 27º, 19º, 99% , 64% 
+Bom Jesus do Araguaia, MT, 34º, 24º, 95% , 51% 
+Bom Jesus de Goiás, GO, 29º, 20º, 100% , 63% 
+Bom Jardim, PE, 31º, 20º, 99% , 45% 
+Bom Jesus da Penha, MG, 26º, 17º, 99% , 56% 
+Bom Jesus, SC, 29º, 17º, 93% , 44% 
+Bom Jardim de Minas, MG, 23º, 16º, 97% , 63% 
+Bom Jardim, MA, 35º, 25º, 86% , 47% 
+Bom Jardim da Serra, SC, 19º, 14º, 99% , 69% 
+Bom Jesus, PI, 39º, 27º, 36% , 20% 
+Bom Despacho, MG, 26º, 18º, 99% , 65% 
+Bom Jardim, RJ, 23º, 16º, 99% , 69% 
+Bom Conselho, PE, 29º, 19º, 97% , 45% 
+Bodocó, PE, 37º, 23º, 66% , 21% 
+Bodó, RN, 33º, 19º, 93% , 33% 
+Bofete, SP, 28º, 16º, 99% , 51% 
+Bocaiúva do Sul, PR, 26º, 15º, 99% , 58% 
+Bocaina de Minas, MG, 21º, 15º, 100% , 74% 
+Bocaiúva, MG, 23º, 20º, 96% , 81% 
+Boa Vista do Ramos, AM, 33º, 26º, 91% , 59% 
+Boa Vista do Gurupi, MA, 33º, 24º, 94% , 53% 
+Boca do Acre, AM, 36º, 24º, 97% , 48% 
+Boca da Mata, AL, 31º, 20º, 98% , 49% 
+Bocaina, PI, 38º, 27º, 55% , 18% 
+Boa Vista do Tupim, BA, 34º, 21º, 96% , 33% 
+Boa Vista do Cadeado, RS, 28º, 16º, 98% , 51% 
+Boa Vista da Aparecida, PR, 30º, 19º, 98% , 53% 
+Boa Vista, PB, 33º, 19º, 98% , 30% 
+Boa Nova, BA, 28º, 18º, 99% , 53% 
+Boa Vista, RR, 37º, 26º, 73% , 39% 
+Boa Viagem, CE, 36º, 23º, 88% , 28% 
+Boa Vista das Missões, RS, 29º, 16º, 97% , 48% 
+Boa Hora, PI, 40º, 25º, 79% , 23% 
+Boa Esperança, PR, 31º, 20º, 87% , 51% 
+Boa Esperança (MG), MG, 27º, 17º, 98% , 51% 
+Biritinga, BA, 34º, 22º, 94% , 34% 
+Boa Esperança (ES), ES, 28º, 22º, 97% , 69% 
+Birigui, SP, 32º, 21º, 96% , 48% 
+Blumenau, SC, 24º, 19º, 99% , 77% 
+Boa Esperança do Iguaçu, PR, 28º, 20º, 93% , 69% 
+Biquinhas, MG, 25º, 20º, 97% , 79% 
+Biguaçu, SC, 22º, 20º, 94% , 81% 
+Biritiba-Mirim, SP, 22º, 15º, 100% , 73% 
+Betânia do Piauí, PI, 36º, 23º, 66% , 22% 
+Bicas, MG, 26º, 18º, 97% , 58% 
+Bertópolis, MG, 31º, 22º, 90% , 54% 
+Bezerros, PE, 29º, 19º, 97% , 45% 
+Bertioga, SP, 23º, 21º, 89% , 83% 
+Bertolínia, PI, 37º, 25º, 52% , 28% 
+Betânia, PE, 35º, 20º, 84% , 24% 
+Betim, MG, 26º, 18º, 99% , 62% 
+Bernardo Sayão, TO, 34º, 24º, 92% , 55% 
+Bernardino Batista, PB, 35º, 22º, 77% , 23% 
+Bernardino de Campos, SP, 29º, 17º, 98% , 50% 
+Benedito Novo, SC, 25º, 17º, 98% , 71% 
+Bequimão, MA, 31º, 25º, 88% , 62% 
+Bento Fernandes, RN, 33º, 22º, 95% , 44% 
+Bento de Abreu, SP, 33º, 22º, 93% , 43% 
+Benevides, PA, 34º, 25º, 91% , 53% 
+Benjamin Constant do Sul, RS, 29º, 16º, 91% , 46% 
+Benedito Leite, MA, 37º, 24º, 61% , 30% 
+Belo Horizonte, MG, 24º, 16º, 99% , 67% 
+Belo Campo, BA, 32º, 19º, 89% , 38% 
+Beneditinos, PI, 40º, 28º, 54% , 21% 
+Belo Vale, MG, 25º, 16º, 98% , 63% 
+Belo Monte, AL, 35º, 22º, 92% , 34% 
+Belo Jardim, PE, 30º, 18º, 99% , 37% 
+Belmonte, SC, 31º, 18º, 84% , 42% 
+Belmonte, BA, 29º, 21º, 99% , 63% 
+Belém, PA, 34º, 24º, 93% , 56% 
+Belford Roxo, RJ, 26º, 20º, 96% , 68% 
+Belmiro Braga, MG, 25º, 17º, 94% , 69% 
+Belém, PB, 31º, 21º, 97% , 50% 
+Belém, AL, 32º, 20º, 97% , 42% 
+Bela Vista de Minas, MG, 26º, 18º, 100% , 66% 
+Bela Vista do Piauí, PI, 38º, 26º, 56% , 20% 
+Bela Vista de Goiás, GO, 29º, 20º, 98% , 63% 
+Bauru, SP, 31º, 18º, 91% , 41% 
+Bela Vista da Caroba, PR, 29º, 19º, 90% , 67% 
+Bela Vista do Paraíso, PR, 32º, 19º, 91% , 38% 
+Bela Cruz, CE, 37º, 25º, 84% , 31% 
+Belém do Piauí, PI, 38º, 26º, 55% , 19% 
+Bebedouro, SP, 31º, 20º, 98% , 51% 
+Baturité, CE, 32º, 20º, 100% , 38% 
+Bataguassu, MS, 32º, 23º, 89% , 49% 
+Barros Cassal, RS, 27º, 14º, 99% , 53% 
+Batalha, AL, 34º, 21º, 94% , 38% 
+Batalha, PI, 39º, 25º, 75% , 24% 
+Bastos, SP, 32º, 20º, 80% , 45% 
+Barueri, SP, 26º, 16º, 100% , 54% 
+Barrocas, BA, 34º, 22º, 91% , 35% 
+Barreirinhas, MA, 31º, 26º, 85% , 58% 
+Barro Duro, PI, 38º, 25º, 61% , 29% 
+Barro Alto, BA, 33º, 20º, 87% , 30% 
+Barreiros, PE, 28º, 23º, 89% , 67% 
+Barretos, SP, 31º, 20º, 98% , 53% 
+Barra do Ouro, TO, 35º, 24º, 94% , 44% 
+Barra Mansa, RJ, 26º, 19º, 93% , 61% 
+Barra Velha, SC, 25º, 20º, 96% , 76% 
+Barra do Turvo, SP, 27º, 15º, 100% , 55% 
+Barra do Mendes, BA, 33º, 19º, 90% , 31% 
+Barra do Garças, MT, 31º, 23º, 99% , 63% 
+Barracão, RS, 28º, 15º, 100% , 49% 
+Barra de São Miguel, AL, 27º, 23º, 90% , 71% 
+Barra do Choça, BA, 27º, 18º, 98% , 49% 
+Barra D'Alcântara, PI, 39º, 27º, 51% , 18% 
+Barra de São Francisco, ES, 24º, 20º, 98% , 78% 
+Barro Preto, BA, 28º, 21º, 99% , 65% 
+Barcelos, AM, 34º, 26º, 85% , 47% 
+Barra de Santa Rosa, PB, 32º, 19º, 93% , 37% 
+Barra, BA, 36º, 25º, 62% , 29% 
+Barcarena, PA, 32º, 25º, 88% , 61% 
+Barbosa, SP, 31º, 21º, 94% , 56% 
+Barão de Cotegipe, RS, 28º, 15º, 98% , 45% 
+Barão, RS, 25º, 14º, 100% , 65% 
+Bannach, PA, 33º, 23º, 90% , 49% 
+Bandeirantes, MS, 32º, 22º, 90% , 48% 
+Bandeira do Sul, MG, 26º, 18º, 94% , 61% 
+Bandeira, MG, 31º, 20º, 99% , 45% 
+Bananeiras, PB, 30º, 20º, 98% , 50% 
+Barão de Cocais, MG, 24º, 17º, 99% , 69% 
+Bandeirante, SC, 31º, 18º, 84% , 42% 
+Balsas, MA, 35º, 25º, 69% , 42% 
+Bálsamo, SP, 29º, 21º, 97% , 63% 
+Balneário Piçarras, SC, 25º, 20º, 97% , 78% 
+Balneário Camboriú, SC, 23º, 20º, 96% , 82% 
+Balneário Barra do Sul, SC, 25º, 20º, 94% , 78% 
+Balneário Arroio do Silva, SC, 24º, 18º, 100% , 78% 
+Baixo Guandu, ES, 27º, 21º, 95% , 70% 
+Bambuí, MG, 27º, 20º, 97% , 66% 
+Baixa Grande do Ribeiro, PI, 36º, 26º, 62% , 32% 
+Baião, PA, 34º, 25º, 88% , 55% 
+Baianópolis, BA, 33º, 21º, 67% , 35% 
+Bady Bassitt, SP, 28º, 21º, 97% , 67% 
+Bacabal, MA, 36º, 25º, 86% , 42% 
+Bacuri, MA, 32º, 24º, 91% , 60% 
+Baependi, MG, 26º, 16º, 96% , 62% 
+Avelinópolis, GO, 29º, 20º, 97% , 64% 
+Axixá do Tocantins, TO, 36º, 26º, 77% , 38% 
+Avaí, SP, 32º, 18º, 88% , 42% 
+Aveiro, PA, 33º, 26º, 91% , 60% 
+Aurora do Pará, PA, 35º, 25º, 88% , 47% 
+Autazes, AM, 36º, 29º, 77% , 46% 
+Aurora, CE, 38º, 25º, 57% , 19% 
+Augusto Severo, RN, 37º, 23º, 80% , 29% 
+Augusto Pestana, RS, 29º, 16º, 98% , 47% 
+Áurea, RS, 29º, 15º, 100% , 44% 
+Atílio Vivácqua, ES, 26º, 20º, 99% , 68% 
+Atibaia, SP, 26º, 16º, 97% , 48% 
+Augustinópolis, TO, 36º, 26º, 75% , 41% 
+Atalaia do Norte, AM, 32º, 22º, 100% , 66% 
+Astolfo Dutra, MG, 27º, 18º, 98% , 60% 
+Atalaia, AL, 32º, 21º, 97% , 47% 
+Assunção do Piauí, PI, 34º, 22º, 78% , 24% 
+Atalaia, PR, 32º, 20º, 90% , 44% 
+Assis Chateaubriand, PR, 33º, 20º, 96% , 36% 
+Assunção, PB, 33º, 19º, 93% , 30% 
+Assis Brasil, AC, 33º, 23º, 100% , 56% 
+Assis, SP, 30º, 18º, 94% , 50% 
+Aspásia, SP, 32º, 21º, 94% , 56% 
+Ascurra, SC, 25º, 18º, 100% , 72% 
+Arvorezinha, RS, 26º, 15º, 100% , 58% 
+Assaí, PR, 31º, 17º, 94% , 44% 
+Aruanã, GO, 31º, 25º, 81% , 62% 
+Arvoredo, SC, 29º, 14º, 99% , 48% 
+Arroio dos Ratos, RS, 27º, 20º, 96% , 60% 
+Arroio Trinta, SC, 28º, 17º, 88% , 45% 
+Artur Nogueira, SP, 30º, 17º, 98% , 44% 
+Arroio do Sal, RS, 23º, 20º, 94% , 80% 
+Arroio do Padre, RS, 24º, 18º, 100% , 73% 
+Arraial, PI, 39º, 27º, 41% , 17% 
+Arraial do Cabo, RJ, 24º, 22º, 87% , 75% 
+Aripuanã, MT, 33º, 23º, 96% , 59% 
+Armação dos Búzios, RJ, 26º, 21º, 89% , 69% 
+Aroeiras, PB, 34º, 21º, 95% , 35% 
+Aroeiras Do Itaim, PI, 38º, 27º, 63% , 24% 
+Armazém, SC, 28º, 19º, 92% , 61% 
+Arraias, TO, 32º, 23º, 74% , 44% 
+Aroazes, PI, 39º, 26º, 59% , 18% 
+Areias, SP, 27º, 19º, 91% , 59% 
+Arinos, MG, 26º, 21º, 96% , 72% 
+Arenópolis, GO, 32º, 21º, 95% , 57% 
+Arenápolis, MT, 32º, 24º, 94% , 63% 
+Areiópolis, SP, 30º, 18º, 92% , 50% 
+Aricanduva, MG, 21º, 18º, 99% , 86% 
+Argirita, MG, 25º, 18º, 99% , 70% 
+Areia de Baraúnas, PB, 34º, 19º, 94% , 24% 
+Areado, MG, 28º, 19º, 95% , 50% 
+Arcoverde, PE, 33º, 17º, 97% , 24% 
+Areia Branca, RN, 32º, 23º, 86% , 49% 
+Areia Branca, SE, 30º, 22º, 96% , 58% 
+Areia, PB, 30º, 20º, 98% , 49% 
+Arealva, SP, 32º, 19º, 92% , 48% 
+Arcos, MG, 27º, 18º, 95% , 58% 
+Arco-Íris, SP, 32º, 20º, 81% , 43% 
+Arceburgo, MG, 30º, 19º, 93% , 44% 
+Araújos, MG, 26º, 18º, 98% , 64% 
+Aratuba, CE, 33º, 21º, 98% , 34% 
+Araxá, MG, 26º, 17º, 99% , 62% 
+Araucária, PR, 24º, 15º, 97% , 61% 
+Arauá, SE, 30º, 22º, 96% , 60% 
+Araruna, PB, 31º, 20º, 98% , 45% 
+Araras, SP, 29º, 17º, 99% , 50% 
+Aratiba, RS, 29º, 16º, 95% , 49% 
+Arari, MA, 37º, 26º, 84% , 40% 
+Araruna, PR, 31º, 20º, 93% , 50% 
+Araripina, PE, 34º, 22º, 70% , 23% 
+Ararendá, CE, 36º, 22º, 89% , 26% 
+Araricá, RS, 27º, 15º, 97% , 60% 
+Araraquara, SP, 31º, 19º, 90% , 45% 
+Araranguá, SC, 25º, 20º, 93% , 72% 
+Arapoti, PR, 26º, 15º, 96% , 51% 
+Araputanga, MT, 33º, 23º, 100% , 63% 
+Araquari, SC, 25º, 20º, 96% , 76% 
+Arara, PB, 31º, 20º, 96% , 44% 
+Araporã, MG, 30º, 21º, 98% , 61% 
+Arapoema, TO, 34º, 24º, 93% , 53% 
+Arapuã, PR, 29º, 19º, 88% , 47% 
+Arapuá, MG, 25º, 18º, 99% , 66% 
+Arapongas, PR, 31º, 18º, 86% , 37% 
+Araponga, MG, 23º, 16º, 99% , 66% 
+Arapiraca, AL, 33º, 20º, 98% , 39% 
+Arapeí, SP, 23º, 16º, 97% , 73% 
+Arantina, MG, 24º, 15º, 95% , 67% 
+Arandu, SP, 28º, 16º, 99% , 49% 
+Aramina, SP, 30º, 20º, 96% , 55% 
+Arame, MA, 34º, 23º, 84% , 46% 
+Aramari, BA, 33º, 21º, 98% , 43% 
+Arambaré, RS, 25º, 20º, 94% , 73% 
+Aral Moreira, MS, 33º, 21º, 92% , 46% 
+Araióses, MA, 33º, 25º, 84% , 52% 
+Araguanã, MA, 36º, 25º, 86% , 44% 
+Araguaiana, MT, 32º, 23º, 91% , 60% 
+Araguaçu, TO, 35º, 25º, 89% , 47% 
+Araguari, MG, 27º, 18º, 99% , 64% 
+Araguacema, TO, 33º, 25º, 93% , 60% 
+Araguapaz, GO, 33º, 24º, 81% , 57% 
+Araguaína, TO, 34º, 24º, 92% , 51% 
+Aracruz, ES, 25º, 21º, 98% , 79% 
+Araçoiaba, PE, 30º, 21º, 96% , 54% 
+Aracitaba, MG, 24º, 17º, 98% , 73% 
+Aracoiaba, CE, 35º, 24º, 85% , 38% 
+Araçuaí, MG, 25º, 22º, 97% , 75% 
+Araçatuba, SP, 32º, 21º, 95% , 47% 
+Aragarças, GO, 31º, 23º, 99% , 63% 
+Araçu, GO, 30º, 21º, 98% , 61% 
+Araçagi, PB, 32º, 22º, 92% , 45% 
+Aracaju, SE, 29º, 24º, 87% , 64% 
+Araçariguama, SP, 26º, 16º, 99% , 51% 
+Aracatu, BA, 34º, 20º, 91% , 34% 
+Arabutã, SC, 29º, 14º, 99% , 53% 
+Aracati, CE, 32º, 24º, 84% , 49% 
+Araçás, BA, 32º, 22º, 98% , 50% 
+Aquiraz, CE, 31º, 25º, 85% , 50% 
+Apuarema, BA, 29º, 21º, 97% , 58% 
+Aporá, BA, 31º, 22º, 96% , 49% 
+Apucarana, PR, 30º, 18º, 84% , 38% 
+Aquidauana, MS, 36º, 25º, 81% , 42% 
+Aporé, GO, 31º, 20º, 99% , 56% 
+Apuí, AM, 37º, 24º, 96% , 39% 
+Apuiarés, CE, 36º, 24º, 86% , 36% 
+Apiúna, SC, 25º, 18º, 100% , 72% 
+Apiaí, SP, 24º, 15º, 100% , 64% 
+Apicum-Açu, MA, 32º, 24º, 91% , 60% 
+Apiacá, ES, 27º, 20º, 98% , 65% 
+Aparecida do Rio Negro, TO, 35º, 23º, 92% , 45% 
+Aparecida, SP, 28º, 17º, 96% , 57% 
+Aparecida do Rio Doce, GO, 30º, 21º, 100% , 61% 
+Aparecida de Goiânia, GO, 28º, 20º, 98% , 66% 
+Aparecida, PB, 37º, 24º, 71% , 20% 
+Apiacás, MT, 34º, 23º, 97% , 56% 
+Aparecida do Taboado, MS, 30º, 23º, 94% , 64% 
+Antônio Prado de Minas, MG, 22º, 18º, 99% , 89% 
+Antônio Prado, RS, 27º, 14º, 100% , 49% 
+Antônio Carlos, SC, 21º, 18º, 99% , 89% 
+Antônio Olinto, PR, 27º, 16º, 97% , 55% 
+Antônio João, MS, 33º, 22º, 80% , 43% 
+Antônio Dias, MG, 25º, 18º, 100% , 71% 
+Antônio Carlos, MG, 23º, 16º, 100% , 65% 
+Antônio Almeida, PI, 37º, 26º, 53% , 24% 
+Antônio Martins, RN, 36º, 22º, 76% , 23% 
+Antonina, PR, 27º, 20º, 97% , 65% 
+Antonina do Norte, CE, 37º, 25º, 70% , 20% 
+Antas, BA, 34º, 20º, 98% , 29% 
+Anori, AM, 34º, 25º, 98% , 54% 
+Anitápolis, SC, 26º, 17º, 93% , 62% 
+Anita Garibaldi, SC, 26º, 17º, 98% , 48% 
+Anicuns, GO, 30º, 21º, 95% , 55% 
+Anhumas, SP, 32º, 20º, 82% , 41% 
+Ângulo, PR, 33º, 21º, 75% , 32% 
+Anhembi, SP, 31º, 17º, 98% , 48% 
+Angra dos Reis, RJ, 24º, 20º, 95% , 80% 
+Angical do Piauí, PI, 39º, 28º, 46% , 21% 
+Angicos, RN, 37º, 23º, 83% , 29% 
+Anhanguera, GO, 29º, 20º, 97% , 62% 
+Angico, TO, 33º, 24º, 86% , 51% 
+Angical, BA, 35º, 23º, 58% , 32% 
+Angatuba, SP, 27º, 16º, 100% , 52% 
+Andrelândia, MG, 25º, 17º, 93% , 53% 
+Andradas, MG, 26º, 17º, 96% , 53% 
+Angélica, MS, 33º, 22º, 86% , 49% 
+André da Rocha, RS, 27º, 13º, 100% , 52% 
+Angelândia, MG, 20º, 18º, 98% , 89% 
+Angelina, SC, 21º, 17º, 100% , 83% 
+Anastácio, MS, 36º, 25º, 81% , 42% 
+Andirá, PR, 31º, 18º, 94% , 40% 
+Anchieta, SC, 30º, 18º, 87% , 46% 
+Anaurilândia, MS, 31º, 23º, 88% , 56% 
+Andorinha, BA, 35º, 21º, 88% , 29% 
+Anapurus, MA, 37º, 25º, 84% , 33% 
+Andaraí, BA, 31º, 20º, 92% , 47% 
+Analândia, SP, 28º, 16º, 100% , 48% 
+Ananindeua, PA, 34º, 24º, 93% , 56% 
+Ananás, TO, 36º, 26º, 85% , 54% 
+Anajatuba, MA, 34º, 25º, 87% , 49% 
+Anamã, AM, 34º, 25º, 96% , 55% 
+Anahy, PR, 28º, 20º, 96% , 65% 
+Anadia, AL, 30º, 21º, 96% , 54% 
+Amontada, CE, 33º, 23º, 89% , 44% 
+Amparo da Serra, MG, 28º, 18º, 96% , 57% 
+Amparo de São Francisco, SE, 33º, 22º, 94% , 45% 
+Amparo, SP, 28º, 16º, 98% , 48% 
+Américo Brasiliense, SP, 29º, 20º, 93% , 57% 
+Ampére, PR, 28º, 19º, 89% , 67% 
+Ametista do Sul, RS, 31º, 16º, 99% , 44% 
+Americano do Brasil, GO, 29º, 19º, 97% , 59% 
+Amaturá, AM, 34º, 24º, 96% , 54% 
+Americana, SP, 30º, 17º, 97% , 45% 
+Amarante do Maranhão, MA, 36º, 25º, 74% , 37% 
+América Dourada, BA, 31º, 20º, 86% , 37% 
+Amarante, PI, 39º, 27º, 45% , 20% 
+Amaporã, PR, 33º, 22º, 83% , 38% 
+Amparo, PB, 34º, 18º, 96% , 23% 
+Amaralina, GO, 31º, 24º, 83% , 56% 
+Amaral Ferrador, RS, 27º, 16º, 99% , 60% 
+Amapá, AP, 33º, 24º, 91% , 54% 
+Amajari, RR, 37º, 24º, 77% , 40% 
+Amapá do Maranhão, MA, 32º, 24º, 94% , 59% 
+Alvorada de Minas, MG, 21º, 17º, 100% , 91% 
+Amambai, MS, 33º, 21º, 90% , 45% 
+Alvorada do Gurguéia, PI, 40º, 27º, 46% , 21% 
+Alvinópolis, MG, 27º, 18º, 100% , 63% 
+Alto Santo, CE, 37º, 24º, 76% , 27% 
+Álvares Florence, SP, 29º, 21º, 96% , 66% 
+Alvarenga, MG, 25º, 19º, 99% , 71% 
+Alvinlândia, SP, 30º, 18º, 94% , 53% 
+Altônia, PR, 34º, 21º, 93% , 36% 
+Alto Taquari, MT, 29º, 19º, 99% , 63% 
+Álvaro de Carvalho, SP, 31º, 18º, 85% , 43% 
+Alto Paraíso, RO, 35º, 23º, 94% , 58% 
+Alto Paraíso, PR, 33º, 21º, 76% , 37% 
+Alto Horizonte, GO, 34º, 26º, 69% , 46% 
+Alto Garças, MT, 29º, 19º, 100% , 64% 
+Alto do Rodrigues, RN, 35º, 23º, 85% , 41% 
+Alto Caparaó, MG, 23º, 16º, 97% , 63% 
+Alto Boa Vista, MT, 33º, 23º, 93% , 57% 
+Alto Bela Vista, SC, 30º, 16º, 100% , 43% 
+Alto Araguaia, MT, 30º, 20º, 100% , 60% 
+Altinópolis, SP, 28º, 18º, 95% , 54% 
+Alterosa, MG, 26º, 18º, 95% , 64% 
+Altamira do Paraná, PR, 31º, 18º, 98% , 45% 
+Alta Floresta, MT, 31º, 23º, 97% , 67% 
+Alto Alegre, RS, 28º, 14º, 100% , 51% 
+Alta Alegre dos Parecis, RO, 29º, 22º, 100% , 72% 
+Altinho, PE, 31º, 19º, 99% , 41% 
+Almirante Tamandaré do Sul, RS, 29º, 16º, 99% , 48% 
+Almino Afonso, RN, 36º, 22º, 74% , 24% 
+Almadina, BA, 27º, 21º, 98% , 67% 
+Algodão de Jandaíra, PB, 33º, 19º, 96% , 35% 
+Alhandra, PB, 29º, 22º, 93% , 57% 
+Almirante Tamandaré, PR, 25º, 14º, 100% , 62% 
+Alfredo Marcondes, SP, 32º, 20º, 88% , 54% 
+Almeirim, PA, 34º, 26º, 83% , 54% 
+Alfenas, MG, 28º, 19º, 91% , 50% 
+Além Paraíba, MG, 28º, 18º, 96% , 59% 
+Alegria, RS, 31º, 17º, 94% , 45% 
+Alecrim, RS, 31º, 17º, 93% , 47% 
+Aldeias Altas, MA, 39º, 25º, 82% , 27% 
+Alegrete, RS, 28º, 18º, 98% , 57% 
+Alcobaça, BA, 25º, 22º, 89% , 82% 
+Alcântaras, CE, 33º, 20º, 99% , 39% 
+Alagoinha do Piauí, PI, 38º, 24º, 68% , 22% 
+Aguiarnópolis, TO, 35º, 24º, 93% , 44% 
+Águas Vermelhas, MG, 27º, 19º, 90% , 54% 
+Albertina, MG, 27º, 18º, 95% , 59% 
+Alagoinha, PB, 33º, 22º, 92% , 44% 
+Alagoa Grande, PB, 32º, 21º, 94% , 42% 
+Agudos do Sul, PR, 24º, 16º, 99% , 60% 
+Aguiar, PB, 36º, 23º, 72% , 21% 
+Águas de São Pedro, SP, 30º, 17º, 98% , 46% 
+Águas Lindas de Goiás, GO, 25º, 19º, 97% , 70% 
+Águas Belas, PE, 34º, 19º, 94% , 25% 
+Águas de Lindóia, SP, 28º, 16º, 96% , 51% 
+Águas de Chapecó, SC, 31º, 18º, 89% , 46% 
+Águas de Santa Bárbara, SP, 29º, 16º, 97% , 46% 
+Aguanil, MG, 27º, 17º, 96% , 53% 
+Água Preta, PE, 31º, 20º, 100% , 51% 
+Água Limpa, GO, 29º, 20º, 99% , 62% 
+Água Fria, BA, 35º, 21º, 96% , 32% 
+Adelândia, GO, 31º, 22º, 94% , 52% 
+Adamantina, SP, 32º, 21º, 88% , 53% 
+Acrelândia, AC, 34º, 24º, 93% , 54% 
+Acaraú, CE, 31º, 25º, 84% , 55% 
+Acreúna, GO, 31º, 21º, 99% , 59% 
+Acarape, CE, 33º, 23º, 89% , 44% 
+Abelardo Luz, SC, 28º, 17º, 93% , 45% 
+Abre Campo, MG, 27º, 18º, 98% , 56% 
+Acaiaca, MG, 25º, 18º, 98% , 64% 
+Acará, PA, 35º, 24º, 93% , 49% 
+Abaíra, BA, 29º, 18º, 93% , 38% 
+Acajutiba, BA, 31º, 22º, 95% , 52% 
+Abaré, BA, 35º, 22º, 81% , 28% 
+Abaetetuba, PA, 31º, 26º, 86% , 62% 
+Abdon Batista, SC, 27º, 15º, 100% , 47% 
+Abaeté, MG, 26º, 19º, 98% , 67% 
+Abadiânia, GO, 27º, 20º, 98% , 68% 
